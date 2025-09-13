@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lego Dimensions – Characters & Abilities</title>
+  <meta name="description" content="Zoek en filter alle Lego Dimensions-personages op abilities, franchise, pack en wave." />
+  <style>
+    :root{
+      --bg:#0b1020; --panel:#151b2e; --muted:#8ea0bf; --text:#e6eeff; --accent:#5cc8ff; --chip:#223153; --chip2:#2b3a61;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;height:100%}
+    body{font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial; background:linear-gradient(180deg,#0b1020,#0e1426 200px); color:var(--text)}
+    header{position:sticky;top:0;z-index:5;background:linear-gradient(180deg,rgba(11,16,32,.95),rgba(11,16,32,.85));backdrop-filter:saturate(140%) blur(10px);border-bottom:1px solid #243254}
+    .container{max-width:1200px;margin:0 auto;padding:16px}
+    h1{font-size:clamp(20px,3vw,28px);margin:0 0 8px 0}
+    .sub{color:var(--muted);font-size:14px;margin:0}
+
+    /* Controls */
+    .controls{display:grid;gap:10px;grid-template-columns:1fr;align-items:end;margin-top:12px}
+    .row{display:grid;gap:10px;grid-template-columns:1fr 1fr 1fr}
+    @media(min-width:820px){
+      .controls{grid-template-columns:1.2fr 1fr}
+      .row{grid-template-columns:repeat(4,1fr)}
+    }
+    label{font-size:12px;color:var(--muted);display:block;margin-bottom:6px}
+    input,select{width:100%;background:var(--panel);border:1px solid #263657;color:var(--text);padding:10px 12px;border-radius:12px;outline:none}
+    input:focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(92,200,255,.15)}
+    .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+    .chip{background:var(--chip);border:1px solid #32466f;color:var(--text);padding:6px 10px;border-radius:999px;font-size:12px}
+    .pill{background:#0f1a34;border:1px solid #2a3c63;color:var(--muted);padding:6px 10px;border-radius:999px;font-size:12px}
+
+    /* Grid */
+    .grid{display:grid;gap:14px;margin:18px 0 40px}
+    @media(min-width:700px){.grid{grid-template-columns:repeat(2,1fr)}}
+    @media(min-width:1050px){.grid{grid-template-columns:repeat(3,1fr)}}
+
+    .card{background:linear-gradient(180deg,#131a2c,#10172a);border:1px solid #223153;border-radius:16px;overflow:hidden;display:flex;gap:12px;padding:12px}
+    .card img{width:110px;height:110px;object-fit:contain;background:radial-gradient(120px 120px at 50% 50%,#0e1530,#0b1020);border-radius:12px;border:1px solid #1c2744}
+    .card-body{flex:1;min-width:0}
+    .title{display:flex;align-items:center;gap:8px}
+    .title h3{font-size:18px;line-height:1.2;margin:0}
+    .meta{color:var(--muted);font-size:12px}
+    .abilities{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+    .ability{background:var(--chip2);border:1px solid #334973;color:#cfe2ff;padding:4px 8px;border-radius:999px;font-size:12px}
+    .pack{margin-top:10px;font-size:13px}
+    .pack b{color:#cfe2ff}
+    .count{font-weight:600;color:#b7d9ff}
+
+    .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:8px}
+    .btn{background:#1a2544;border:1px solid #2a3c63;color:#d7e6ff;padding:8px 12px;border-radius:12px;font-weight:600;cursor:pointer}
+    .btn[aria-pressed="true"]{outline:2px solid var(--accent)}
+    .ghost{background:transparent}
+    .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
+    footer{border-top:1px solid #243254}
+    a{color:#9bd6ff}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>LEGO Dimensions – Characters</h1>
+      <p class="sub">Filter op ability, franchise, pack type of wave. Zoek binnen naam of franchise.
+      </p>
+      <div class="controls" role="search">
+        <div>
+          <label for="q">Zoeken</label>
+          <input id="q" name="q" type="search" placeholder="Bijv. Batman, Ghostbusters, Portal…" autocomplete="off" />
+          <div class="chips" id="activeChips" aria-live="polite"></div>
+        </div>
+        <div class="row">
+          <div>
+            <label for="franchise">Franchise</label>
+            <select id="franchise"><option value="">Alle</option></select>
+          </div>
+          <div>
+            <label for="type">Pack type</label>
+            <select id="type"><option value="">Alle</option><option>Starter</option><option>Story</option><option>Level</option><option>Team</option><option>Fun</option></select>
+          </div>
+          <div>
+            <label for="wave">Release wave</label>
+            <select id="wave"><option value="">Alle</option><option>1</option><option>2</option></select>
+          </div>
+          <div>
+            <label for="ability">Ability</label>
+            <select id="ability"><option value="">(kies een ability)</option></select>
+          </div>
+        </div>
+        <div class="toolbar" aria-label="hulpmiddelen">
+          <button id="clearFilters" class="btn ghost" type="button">Filters wissen</button>
+          <span class="pill" id="count">0 resultaten</span>
+          <button id="groupPack" class="btn" type="button" aria-pressed="false" title="Groepeer per pack">Groepeer per pack</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="grid" class="grid" aria-live="polite"></section>
+  </main>
+
+  <footer class="container" style="padding:22px 16px 40px">
+    <small class="sub">Deze site leest <code>characters.json</code> uit dezelfde map. Tip: commit <code>index.html</code> en <code>characters.json</code> naar GitHub en zet Pages aan.</small>
+  </footer>
+
+  <template id="cardTemplate">
+    <article class="card" tabindex="0">
+      <img alt="minifig" />
+      <div class="card-body">
+        <div class="title">
+          <h3 class="name"></h3>
+        </div>
+        <div class="meta franchise"></div>
+        <div class="abilities" aria-label="Abilities"></div>
+        <div class="pack"></div>
+      </div>
+    </article>
+  </template>
+
+  <script>
+    // --- Utilities ----------------------------------------------------------
+    const $ = (q, el=document) => el.querySelector(q);
+    const $$ = (q, el=document) => Array.from(el.querySelectorAll(q));
+
+    // Some JSONs may contain dangling "abilities":, which is invalid.
+    function sanitizeCharactersJSON(text){
+      // Replace occurrences of '"abilities":,' or '"abilities": ,' with empty array.
+      let t = text.replace(/"abilities"\s*:\s*,/g, '"abilities": [],');
+      // Also remove any trailing commas before closing object/array (common copy errors)
+      t = t.replace(/,\s*(\}|\])/g, '$1');
+      return t;
+    }
+
+    function dedupe(arr){
+      return Array.from(new Set(arr)).filter(Boolean).sort((a,b)=>a.localeCompare(b,'nl'));
+    }
+
+    function debounce(fn,ms){let t;return (...a)=>{clearTimeout(t);t=setTimeout(()=>fn(...a),ms)};}
+
+    function human(n){return new Intl.NumberFormat('nl-NL').format(n)}
+
+    // --- State --------------------------------------------------------------
+    const state = {
+      data: [],
+      filters: { q:'', franchise:'', type:'', wave:'', abilities:[] },
+      groupByPack:false,
+    };
+
+    // --- Load & boot --------------------------------------------------------
+    async function load(){
+      try{
+        const res = await fetch('./characters.json', {cache:'no-store'});
+        let txt = await res.text();
+        const clean = sanitizeCharactersJSON(txt);
+        const json = JSON.parse(clean);
+        state.data = Array.isArray(json) ? json : (json.characters || []);
+        normalize(state.data);
+        buildFilterOptions(state.data);
+        applyFromURL();
+        render();
+      }catch(err){
+        console.error('Kon characters.json niet laden of parsen', err);
+        $('#grid').innerHTML = `<div class="card" role="alert">`+
+          `<div class="card-body"><h3>Oeps! characters.json kon niet gelezen worden.</h3>`+
+          `<p class="meta">Controleer of het bestand in dezelfde map staat en geldige JSON bevat.`+
+          ` Deze pagina probeert kleine fouten (lege abilities) te herstellen, maar bij grote fouten faalt het alsnog.`+
+          `</p></div></div>`;
+      }
+    }
+
+    function normalize(list){
+      for(const c of list){
+        if(!Array.isArray(c.abilities)) c.abilities = [];
+        // Pack defaults
+        c.pack = c.pack || {}; c.pack.type = c.pack.type || 'Onbekend';
+        if(c.pack.releaseWave!=null) c.pack.releaseWave = String(c.pack.releaseWave);
+      }
+    }
+
+    // --- Filters UI ---------------------------------------------------------
+    function buildFilterOptions(list){
+      const franchises = dedupe(list.map(c=>c.franchise));
+      const abilities = dedupe(list.flatMap(c=>c.abilities||[]));
+      const $fr = $('#franchise');
+      for(const f of franchises){ const o=document.createElement('option'); o.value=o.textContent=f; $fr.appendChild(o); }
+      const $ab = $('#ability');
+      for(const a of abilities){ const o=document.createElement('option'); o.value=o.textContent=a; $ab.appendChild(o); }
+    }
+
+    function applyFromURL(){
+      const p = new URLSearchParams(location.search);
+      state.filters.q = p.get('q')||'';
+      state.filters.franchise = p.get('franchise')||'';
+      state.filters.type = p.get('type')||'';
+      state.filters.wave = p.get('wave')||'';
+      const ab = p.get('abilities');
+      state.filters.abilities = ab ? ab.split('|') : [];
+
+      // Reflect in UI
+      $('#q').value = state.filters.q;
+      $('#franchise').value = state.filters.franchise;
+      $('#type').value = state.filters.type;
+      $('#wave').value = state.filters.wave;
+      updateChips();
+    }
+
+    function updateURL(){
+      const p = new URLSearchParams();
+      const {q,franchise,type,wave,abilities} = state.filters;
+      if(q) p.set('q', q);
+      if(franchise) p.set('franchise', franchise);
+      if(type) p.set('type', type);
+      if(wave) p.set('wave', wave);
+      if(abilities.length) p.set('abilities', abilities.join('|'));
+      history.replaceState(null,'','?'+p.toString());
+    }
+
+    function updateChips(){
+      const wrap = $('#activeChips');
+      wrap.innerHTML = '';
+      const add = (label, onRemove) => {
+        const b = document.createElement('button');
+        b.type='button'; b.className='chip'; b.innerHTML = label + ' \u00d7';
+        b.onclick = onRemove; wrap.appendChild(b);
+      };
+      if(state.filters.q) add(`Zoek: "${state.filters.q}"`, ()=>{state.filters.q=''; $('#q').value=''; trigger();});
+      if(state.filters.franchise) add(state.filters.franchise, ()=>{$('#franchise').value=''; state.filters.franchise=''; trigger();});
+      if(state.filters.type) add(state.filters.type, ()=>{$('#type').value=''; state.filters.type=''; trigger();});
+      if(state.filters.wave) add(`Wave ${state.filters.wave}`, ()=>{$('#wave').value=''; state.filters.wave=''; trigger();});
+      for(const a of state.filters.abilities){ add(a, ()=>{state.filters.abilities = state.filters.abilities.filter(x=>x!==a); trigger();}); }
+    }
+
+    // --- Filtering & Rendering ---------------------------------------------
+    function filterData(){
+      const {q, franchise, type, wave, abilities} = state.filters;
+      const ql = q.trim().toLowerCase();
+      return state.data.filter(c=>{
+        const matchesQ = !ql || (c.name?.toLowerCase().includes(ql) || c.franchise?.toLowerCase().includes(ql));
+        const matchesF = !franchise || c.franchise===franchise;
+        const matchesT = !type || c.pack?.type===type;
+        const matchesW = !wave || String(c.pack?.releaseWave)===String(wave);
+        const matchesA = !abilities.length || abilities.every(a => (c.abilities||[]).includes(a));
+        return matchesQ && matchesF && matchesT && matchesW && matchesA;
+      }).sort((a,b)=>a.name.localeCompare(b.name,'nl'));
+    }
+
+    function groupBy(items, keyFn){
+      return items.reduce((acc, item)=>{ const k = keyFn(item); (acc[k]||(acc[k]=[])).push(item); return acc; },{});
+    }
+
+    function render(){
+      updateURL();
+      updateChips();
+      const grid = $('#grid');
+      const items = filterData();
+      $('#count').textContent = `${human(items.length)} resultaten`;
+
+      grid.innerHTML = '';
+
+      if(state.groupByPack){
+        const grouped = groupBy(items, c => `${c.pack?.type||'Onbekend'} | ${c.pack?.name||'Onbekende pack'} | Wave ${c.pack?.releaseWave||'?'} `);
+        const groups = Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'nl'));
+        for(const [title, list] of groups){
+          const h = document.createElement('h2');
+          h.textContent = title; h.style.margin = '24px 6px 8px'; h.style.fontSize='18px'; h.style.color='var(--muted)';
+          grid.appendChild(h);
+          for(const c of list){ grid.appendChild(card(c)); }
+        }
+      } else {
+        for(const c of items){ grid.appendChild(card(c)); }
+      }
+
+      if(!items.length){
+        const div = document.createElement('div');
+        div.className='card';
+        div.innerHTML = `<div class="card-body"><h3>Geen resultaten</h3><p class="meta">Probeer minder filters of een andere zoekterm.</p></div>`;
+        grid.appendChild(div);
+      }
+    }
+
+    function card(c){
+      const tpl = $('#cardTemplate');
+      const el = tpl.content.firstElementChild.cloneNode(true);
+      $('img', el).src = c.minifigure?.imageUrl || '';
+      $('img', el).alt = `${c.name} – minifig`;
+      $('.name', el).textContent = c.name;
+      $('.franchise', el).textContent = `${c.franchise || 'Onbekende franchise'} • Voice: ${c.voiceActor||'—'}`;
+      const ab = $('.abilities', el);
+      (c.abilities||[]).forEach(a=>{ const s=document.createElement('span'); s.className='ability'; s.textContent=a; ab.appendChild(s); });
+      const p = $('.pack', el);
+      const wave = c.pack?.releaseWave!=null ? `Wave ${c.pack.releaseWave}` : 'Wave ?';
+      p.innerHTML = `<span class="pill">${c.pack?.type||'Pack'}</span> <b>${c.pack?.name||'Onbekende pack'}</b> • ${wave}`;
+      return el;
+    }
+
+    // --- Events -------------------------------------------------------------
+    $('#q').addEventListener('input', debounce((e)=>{ state.filters.q = e.target.value; trigger(); }, 150));
+    $('#franchise').addEventListener('change', (e)=>{ state.filters.franchise = e.target.value; trigger(); });
+    $('#type').addEventListener('change', (e)=>{ state.filters.type = e.target.value; trigger(); });
+    $('#wave').addEventListener('change', (e)=>{ state.filters.wave = e.target.value; trigger(); });
+    $('#ability').addEventListener('change', (e)=>{
+      const v = e.target.value; if(!v) return;
+      if(!state.filters.abilities.includes(v)) state.filters.abilities.push(v);
+      e.target.value=''; trigger();
+    });
+    $('#clearFilters').addEventListener('click', ()=>{
+      state.filters = { q:'', franchise:'', type:'', wave:'', abilities:[] };
+      $('#q').value=''; $('#franchise').value=''; $('#type').value=''; $('#wave').value='';
+      trigger();
+    });
+    $('#groupPack').addEventListener('click', (e)=>{
+      state.groupByPack = !state.groupByPack; e.currentTarget.setAttribute('aria-pressed', String(state.groupByPack)); render();
+    });
+
+    function trigger(){ render(); }
+
+    load();
+  </script>
+</body>
+</html>
