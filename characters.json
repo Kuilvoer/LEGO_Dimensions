@@ -1,4 +1,5 @@
-,
+[
+  {
     "pack": {
       "name": "Starter Pack",
       "type": "Starter",
@@ -8,13 +9,14 @@
     "minifigure": {
       "legoId": "dim002",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim002.png"
-    }
+    },
+    "abilities": []
   },
   {
     "characterId": "gandalf",
     "name": "Gandalf the Grey",
     "franchise": "The Lord of the Rings",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Starter Pack",
       "type": "Starter",
@@ -30,7 +32,7 @@
     "characterId": "wyldstyle",
     "name": "Wyldstyle",
     "franchise": "The Lego Movie",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Starter Pack",
       "type": "Starter",
@@ -46,7 +48,7 @@
     "characterId": "abby-yates",
     "name": "Abby Yates",
     "franchise": "Ghostbusters (2016)",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Ghostbusters (2016) Story Pack",
       "type": "Story",
@@ -81,7 +83,7 @@
     "characterId": "aquaman",
     "name": "Aquaman",
     "franchise": "DC Comics",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Aquaman Fun Pack",
       "type": "Fun",
@@ -97,7 +99,7 @@
     "characterId": "b-a-baracus",
     "name": "B. A. Baracus",
     "franchise": "The A-Team",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "The A-Team Fun Pack",
       "type": "Fun",
@@ -113,7 +115,7 @@
     "characterId": "bad-cop",
     "name": "Bad Cop",
     "franchise": "The Lego Movie",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Bad Cop Fun Pack",
       "type": "Fun",
@@ -129,7 +131,7 @@
     "characterId": "bane",
     "name": "Bane",
     "franchise": "DC Comics",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Bane Fun Pack",
       "type": "Fun",
@@ -145,7 +147,7 @@
     "characterId": "bart-simpson",
     "name": "Bart Simpson",
     "franchise": "The Simpsons",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Bart Fun Pack",
       "type": "Fun",
@@ -161,7 +163,7 @@
     "characterId": "batgirl",
     "name": "Batgirl",
     "franchise": "The Lego Batman Movie",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "The Lego Batman Movie Story Pack",
       "type": "Story",
@@ -177,7 +179,7 @@
     "characterId": "benny",
     "name": "Benny",
     "franchise": "The Lego Movie",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Benny Fun Pack",
       "type": "Fun",
@@ -193,7 +195,7 @@
     "characterId": "beetlejuice",
     "name": "Beetlejuice",
     "franchise": "Beetlejuice",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Beetlejuice Fun Pack",
       "type": "Fun",
@@ -209,7 +211,7 @@
     "characterId": "blossom",
     "name": "Blossom",
     "franchise": "The Powerpuff Girls",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "The Powerpuff Girls Team Pack",
       "type": "Team",
@@ -225,7 +227,7 @@
     "characterId": "bubbles",
     "name": "Bubbles",
     "franchise": "The Powerpuff Girls",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "The Powerpuff Girls Team Pack",
       "type": "Team",
@@ -241,7 +243,7 @@
     "characterId": "buttercup",
     "name": "Buttercup",
     "franchise": "The Powerpuff Girls",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "The Powerpuff Girls Fun Pack",
       "type": "Fun",
@@ -257,7 +259,7 @@
     "characterId": "chase-mccain",
     "name": "Chase McCain",
     "franchise": "Lego City",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Lego City Fun Pack",
       "type": "Fun",
@@ -292,7 +294,7 @@
     "characterId": "cole",
     "name": "Cole",
     "franchise": "Lego Ninjago",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Lego Ninjago Team Pack",
       "type": "Team",
@@ -308,7 +310,7 @@
     "characterId": "cragger",
     "name": "Cragger",
     "franchise": "Lego Legends of Chima",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Cragger Fun Pack",
       "type": "Fun",
@@ -324,7 +326,7 @@
     "characterId": "cyberman",
     "name": "Cyberman",
     "franchise": "Doctor Who",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Cyberman Fun Pack",
       "type": "Fun",
@@ -340,7 +342,7 @@
     "characterId": "cyborg",
     "name": "Cyborg",
     "franchise": "DC Comics",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Cyborg Fun Pack",
       "type": "Fun",
@@ -356,7 +358,7 @@
     "characterId": "doc-brown",
     "name": "Doc Brown",
     "franchise": "Back to the Future",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Doc Brown Fun Pack",
       "type": "Fun",
@@ -372,7 +374,7 @@
     "characterId": "emmet",
     "name": "Emmet",
     "franchise": "The Lego Movie",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Emmet Fun Pack",
       "type": "Fun",
@@ -388,7 +390,7 @@
     "characterId": "eris",
     "name": "Eris",
     "franchise": "Lego Legends of Chima",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Eris Fun Pack",
       "type": "Fun",
@@ -404,7 +406,7 @@
     "characterId": "ethan-hunt",
     "name": "Ethan Hunt",
     "franchise": "Mission: Impossible",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Mission: Impossible Level Pack",
       "type": "Level",
@@ -420,7 +422,7 @@
     "characterId": "et",
     "name": "E.T.",
     "franchise": "E.T. the Extra-Terrestrial",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "E.T. Fun Pack",
       "type": "Fun",
@@ -436,7 +438,7 @@
     "characterId": "excalibur-batman",
     "name": "Excalibur Batman",
     "franchise": "The Lego Batman Movie",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Excalibur Batman Fun Pack",
       "type": "Fun",
@@ -452,7 +454,7 @@
     "characterId": "finn-the-human",
     "name": "Finn the Human",
     "franchise": "Adventure Time",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Adventure Time Level Pack",
       "type": "Level",
@@ -468,7 +470,7 @@
     "characterId": "gamer-kid",
     "name": "Gamer Kid",
     "franchise": "Midway Arcade",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Midway Arcade Level Pack",
       "type": "Level",
@@ -484,7 +486,7 @@
     "characterId": "gimli",
     "name": "Gimli",
     "franchise": "The Lord of the Rings",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Gimli Fun Pack",
       "type": "Fun",
@@ -500,7 +502,7 @@
     "characterId": "gizmo",
     "name": "Gizmo",
     "franchise": "Gremlins",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Gremlins Team Pack",
       "type": "Team",
@@ -516,7 +518,7 @@
     "characterId": "gollum",
     "name": "Gollum",
     "franchise": "The Lord of the Rings",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Gollum Fun Pack",
       "type": "Fun",
@@ -532,7 +534,7 @@
     "characterId": "harley-quinn",
     "name": "Harley Quinn",
     "franchise": "DC Comics",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "DC Comics Team Pack",
       "type": "Team",
@@ -548,7 +550,7 @@
     "characterId": "harry-potter",
     "name": "Harry Potter",
     "franchise": "Harry Potter",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Harry Potter Team Pack",
       "type": "Team",
@@ -564,7 +566,7 @@
     "characterId": "hermione-granger",
     "name": "Hermione Granger",
     "franchise": "Harry Potter",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Harry Potter Fun Pack",
       "type": "Fun",
@@ -580,7 +582,7 @@
     "characterId": "homer-simpson",
     "name": "Homer Simpson",
     "franchise": "The Simpsons",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "The Simpsons Level Pack",
       "type": "Level",
@@ -596,7 +598,7 @@
     "characterId": "jake-the-dog",
     "name": "Jake the Dog",
     "franchise": "Adventure Time",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Adventure Time Team Pack",
       "type": "Team",
@@ -612,7 +614,7 @@
     "characterId": "jay",
     "name": "Jay",
     "franchise": "Lego Ninjago",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Jay Fun Pack",
       "type": "Fun",
@@ -628,7 +630,7 @@
     "characterId": "kai",
     "name": "Kai",
     "franchise": "Lego Ninjago",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Lego Ninjago Team Pack",
       "type": "Team",
@@ -663,7 +665,7 @@
     "characterId": "laval",
     "name": "Laval",
     "franchise": "Lego Legends of Chima",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Laval Fun Pack",
       "type": "Fun",
@@ -679,7 +681,7 @@
     "characterId": "legolas",
     "name": "Legolas",
     "franchise": "The Lord of the Rings",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Legolas Fun Pack",
       "type": "Fun",
@@ -695,7 +697,7 @@
     "characterId": "lloyd",
     "name": "Lloyd",
     "franchise": "Lego Ninjago",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Lloyd Fun Pack",
       "type": "Fun",
@@ -711,7 +713,7 @@
     "characterId": "lord-voldemort",
     "name": "Lord Voldemort",
     "franchise": "Harry Potter",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Harry Potter Team Pack",
       "type": "Team",
@@ -727,7 +729,7 @@
     "characterId": "lumpy-space-princess",
     "name": "Lumpy Space Princess",
     "franchise": "Adventure Time",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Adventure Time Team Pack",
       "type": "Team",
@@ -743,7 +745,7 @@
     "characterId": "marceline",
     "name": "Marceline the Vampire Queen",
     "franchise": "Adventure Time",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Adventure Time Fun Pack",
       "type": "Fun",
@@ -759,7 +761,7 @@
     "characterId": "marty-mcfly",
     "name": "Marty McFly",
     "franchise": "Back to the Future",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Back to the Future Level Pack",
       "type": "Level",
@@ -775,7 +777,7 @@
     "characterId": "michael-knight",
     "name": "Michael Knight",
     "franchise": "Knight Rider",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Knight Rider Fun Pack",
       "type": "Fun",
@@ -791,7 +793,7 @@
     "characterId": "newt-scamander",
     "name": "Newt Scamander",
     "franchise": "Fantastic Beasts",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Fantastic Beasts Story Pack",
       "type": "Story",
@@ -807,7 +809,7 @@
     "characterId": "nya",
     "name": "Nya",
     "franchise": "Lego Ninjago",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Nya Fun Pack",
       "type": "Fun",
@@ -823,7 +825,7 @@
     "characterId": "owen-grady",
     "name": "Owen Grady",
     "franchise": "Jurassic World",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Jurassic World Team Pack",
       "type": "Team",
@@ -839,7 +841,7 @@
     "characterId": "peter-venkman",
     "name": "Peter Venkman",
     "franchise": "Ghostbusters",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Ghostbusters Level Pack",
       "type": "Level",
@@ -855,7 +857,7 @@
     "characterId": "raven",
     "name": "Raven",
     "franchise": "Teen Titans Go!",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Teen Titans Go! Team Pack",
       "type": "Team",
@@ -871,7 +873,7 @@
     "characterId": "robin-lbm",
     "name": "Robin (LBM)",
     "franchise": "The Lego Batman Movie",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "The Lego Batman Movie Story Pack",
       "type": "Story",
@@ -887,7 +889,7 @@
     "characterId": "scooby-doo",
     "name": "Scooby-Doo",
     "franchise": "Scooby-Doo",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Scooby-Doo Team Pack",
       "type": "Team",
@@ -903,7 +905,7 @@
     "characterId": "sensei-wu",
     "name": "Sensei Wu",
     "franchise": "Lego Ninjago",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Sensei Wu Fun Pack",
       "type": "Fun",
@@ -919,7 +921,7 @@
     "characterId": "shaggy",
     "name": "Shaggy",
     "franchise": "Scooby-Doo",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Scooby-Doo Team Pack",
       "type": "Team",
@@ -935,7 +937,7 @@
     "characterId": "slimer",
     "name": "Slimer",
     "franchise": "Ghostbusters",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Slimer Fun Pack",
       "type": "Fun",
@@ -951,7 +953,7 @@
     "characterId": "sloth",
     "name": "Sloth",
     "franchise": "The Goonies",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "The Goonies Level Pack",
       "type": "Level",
@@ -967,7 +969,7 @@
     "characterId": "sonic-the-hedgehog",
     "name": "Sonic the Hedgehog",
     "franchise": "Sonic the Hedgehog",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Sonic the Hedgehog Level Pack",
       "type": "Level",
@@ -983,7 +985,7 @@
     "characterId": "starfire",
     "name": "Starfire",
     "franchise": "Teen Titans Go!",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Teen Titans Go! Fun Pack",
       "type": "Fun",
@@ -999,7 +1001,7 @@
     "characterId": "stay-puft",
     "name": "Stay Puft",
     "franchise": "Ghostbusters",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Stay Puft Fun Pack",
       "type": "Fun",
@@ -1015,7 +1017,7 @@
     "characterId": "stripe",
     "name": "Stripe",
     "franchise": "Gremlins",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Gremlins Team Pack",
       "type": "Team",
@@ -1031,7 +1033,7 @@
     "characterId": "superman",
     "name": "Superman",
     "franchise": "DC Comics",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Superman Fun Pack",
       "type": "Fun",
@@ -1047,7 +1049,7 @@
     "characterId": "the-doctor",
     "name": "The Doctor",
     "franchise": "Doctor Who",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Doctor Who Level Pack",
       "type": "Level",
@@ -1063,7 +1065,7 @@
     "characterId": "the-joker",
     "name": "The Joker",
     "franchise": "DC Comics",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "DC Comics Team Pack",
       "type": "Team",
@@ -1079,7 +1081,7 @@
     "characterId": "tina-goldstein",
     "name": "Tina Goldstein",
     "franchise": "Fantastic Beasts",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Tina Goldstein Fun Pack",
       "type": "Fun",
@@ -1095,7 +1097,7 @@
     "characterId": "unikitty",
     "name": "Unikitty",
     "franchise": "The Lego Movie",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Unikitty Fun Pack",
       "type": "Fun",
@@ -1111,7 +1113,7 @@
     "characterId": "wicked-witch",
     "name": "Wicked Witch of the West",
     "franchise": "The Wizard of Oz",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Wicked Witch Fun Pack",
       "type": "Fun",
@@ -1127,7 +1129,7 @@
     "characterId": "wonder-woman",
     "name": "Wonder Woman",
     "franchise": "DC Comics",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Wonder Woman Fun Pack",
       "type": "Fun",
@@ -1143,7 +1145,7 @@
     "characterId": "zane",
     "name": "Zane",
     "franchise": "Lego Ninjago",
-    "abilities":,
+    "abilities": [],
     "pack": {
       "name": "Zane Fun Pack",
       "type": "Fun",
@@ -1155,3 +1157,4 @@
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014pb01.png"
     }
   }
+]
