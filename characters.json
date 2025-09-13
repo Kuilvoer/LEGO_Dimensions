@@ -1,50 +1,5 @@
 [
   {
-    "pack": {
-      "name": "Starter Pack",
-      "type": "Starter",
-      "releaseWave": 1
-    },
-    "voiceActor": "Troy Baker",
-    "minifigure": {
-      "legoId": "dim002",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim002.png"
-    },
-    "abilities": []
-  },
-  {
-    "characterId": "gandalf",
-    "name": "Gandalf the Grey",
-    "franchise": "The Lord of the Rings",
-    "abilities": [],
-    "pack": {
-      "name": "Starter Pack",
-      "type": "Starter",
-      "releaseWave": 1
-    },
-    "voiceActor": "Tom Kane",
-    "minifigure": {
-      "legoId": "dim001",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim001.png"
-    }
-  },
-  {
-    "characterId": "wyldstyle",
-    "name": "Wyldstyle",
-    "franchise": "The Lego Movie",
-    "abilities": [],
-    "pack": {
-      "name": "Starter Pack",
-      "type": "Starter",
-      "releaseWave": 1
-    },
-    "voiceActor": "Elizabeth Banks",
-    "minifigure": {
-      "legoId": "dim003",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim003.png"
-    }
-  },
-  {
     "characterId": "abby-yates",
     "name": "Abby Yates",
     "franchise": "Ghostbusters (2016)",
@@ -114,7 +69,7 @@
   {
     "characterId": "bad-cop",
     "name": "Bad Cop",
-    "franchise": "The Lego Movie",
+    "franchise": "The LEGO Movie",
     "abilities": [],
     "pack": {
       "name": "Bad Cop Fun Pack",
@@ -153,7 +108,7 @@
       "type": "Fun",
       "releaseWave": 1
     },
-    "voiceActor": "N/A",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim015",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015.png"
@@ -162,7 +117,7 @@
   {
     "characterId": "batgirl",
     "name": "Batgirl",
-    "franchise": "The Lego Batman Movie",
+    "franchise": "The LEGO Batman Movie",
     "abilities": [],
     "pack": {
       "name": "The Lego Batman Movie Story Pack",
@@ -176,20 +131,24 @@
     }
   },
   {
-    "characterId": "benny",
-    "name": "Benny",
-    "franchise": "The Lego Movie",
-    "abilities": [],
     "pack": {
-      "name": "Benny Fun Pack",
-      "type": "Fun",
+      "name": "Starter Pack",
+      "type": "Starter",
       "releaseWave": 1
     },
-    "voiceActor": "Charlie Day",
+    "voiceActor": "Troy Baker",
     "minifigure": {
-      "legoId": "dim008",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008.png"
-    }
+      "legoId": "dim002",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim002.png"
+    },
+    "abilities": [
+      "Boomerang",
+      "Grapple",
+      "Stealth"
+    ],
+    "characterId": "batman",
+    "name": "Batman",
+    "franchise": "DC Comics"
   },
   {
     "characterId": "beetlejuice",
@@ -205,6 +164,22 @@
     "minifigure": {
       "legoId": "dim051",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim051.png"
+    }
+  },
+  {
+    "characterId": "benny",
+    "name": "Benny",
+    "franchise": "The LEGO Movie",
+    "abilities": [],
+    "pack": {
+      "name": "Benny Fun Pack",
+      "type": "Fun",
+      "releaseWave": 1
+    },
+    "voiceActor": "Charlie Day",
+    "minifigure": {
+      "legoId": "dim008",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008.png"
     }
   },
   {
@@ -258,7 +233,7 @@
   {
     "characterId": "chase-mccain",
     "name": "Chase McCain",
-    "franchise": "Lego City",
+    "franchise": "LEGO City",
     "abilities": [],
     "pack": {
       "name": "Lego City Fun Pack",
@@ -284,7 +259,7 @@
       "type": "Level",
       "releaseWave": 1
     },
-    "voiceActor": "N/A",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim005",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005.png"
@@ -293,8 +268,10 @@
   {
     "characterId": "cole",
     "name": "Cole",
-    "franchise": "Lego Ninjago",
-    "abilities": [],
+    "franchise": "LEGO Ninjago",
+    "abilities": [
+      "Acrobat"
+    ],
     "pack": {
       "name": "Lego Ninjago Team Pack",
       "type": "Team",
@@ -309,7 +286,7 @@
   {
     "characterId": "cragger",
     "name": "Cragger",
-    "franchise": "Lego Legends of Chima",
+    "franchise": "LEGO Legends of Chima",
     "abilities": [],
     "pack": {
       "name": "Cragger Fun Pack",
@@ -371,9 +348,25 @@
     }
   },
   {
+    "characterId": "et",
+    "name": "E.T.",
+    "franchise": "E.T. the Extra-Terrestrial",
+    "abilities": [],
+    "pack": {
+      "name": "E.T. Fun Pack",
+      "type": "Fun",
+      "releaseWave": 2
+    },
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": "dim038",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim038.png"
+    }
+  },
+  {
     "characterId": "emmet",
     "name": "Emmet",
-    "franchise": "The Lego Movie",
+    "franchise": "The LEGO Movie",
     "abilities": [],
     "pack": {
       "name": "Emmet Fun Pack",
@@ -389,7 +382,7 @@
   {
     "characterId": "eris",
     "name": "Eris",
-    "franchise": "Lego Legends of Chima",
+    "franchise": "LEGO Legends of Chima",
     "abilities": [],
     "pack": {
       "name": "Eris Fun Pack",
@@ -419,26 +412,14 @@
     }
   },
   {
-    "characterId": "et",
-    "name": "E.T.",
-    "franchise": "E.T. the Extra-Terrestrial",
-    "abilities": [],
-    "pack": {
-      "name": "E.T. Fun Pack",
-      "type": "Fun",
-      "releaseWave": 2
-    },
-    "voiceActor": "N/A",
-    "minifigure": {
-      "legoId": "dim038",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim038.png"
-    }
-  },
-  {
     "characterId": "excalibur-batman",
     "name": "Excalibur Batman",
-    "franchise": "The Lego Batman Movie",
-    "abilities": [],
+    "franchise": "The LEGO Batman Movie",
+    "abilities": [
+      "Boomerang",
+      "Grapple",
+      "Stealth"
+    ],
     "pack": {
       "name": "Excalibur Batman Fun Pack",
       "type": "Fun",
@@ -483,6 +464,24 @@
     }
   },
   {
+    "characterId": "gandalf",
+    "name": "Gandalf the Grey",
+    "franchise": "The Lord of the Rings",
+    "abilities": [
+      "Magic"
+    ],
+    "pack": {
+      "name": "Starter Pack",
+      "type": "Starter",
+      "releaseWave": 1
+    },
+    "voiceActor": "Tom Kane",
+    "minifigure": {
+      "legoId": "dim001",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim001.png"
+    }
+  },
+  {
     "characterId": "gimli",
     "name": "Gimli",
     "franchise": "The Lord of the Rings",
@@ -518,7 +517,10 @@
     "characterId": "gollum",
     "name": "Gollum",
     "franchise": "The Lord of the Rings",
-    "abilities": [],
+    "abilities": [
+      "Acrobat",
+      "Magic"
+    ],
     "pack": {
       "name": "Gollum Fun Pack",
       "type": "Fun",
@@ -550,7 +552,9 @@
     "characterId": "harry-potter",
     "name": "Harry Potter",
     "franchise": "Harry Potter",
-    "abilities": [],
+    "abilities": [
+      "Magic"
+    ],
     "pack": {
       "name": "Harry Potter Team Pack",
       "type": "Team",
@@ -566,16 +570,18 @@
     "characterId": "hermione-granger",
     "name": "Hermione Granger",
     "franchise": "Harry Potter",
-    "abilities": [],
+    "abilities": [
+      "Magic"
+    ],
     "pack": {
-      "name": "Harry Potter Fun Pack",
+      "name": "Hermione Fun Pack",
       "type": "Fun",
       "releaseWave": 2
     },
     "voiceActor": "Emma Watson",
     "minifigure": {
-      "legoId": "N/A",
-      "imageUrl": "https://example.com/images/hermione-granger.png"
+      "legoId": null,
+      "imageUrl": null
     }
   },
   {
@@ -613,8 +619,10 @@
   {
     "characterId": "jay",
     "name": "Jay",
-    "franchise": "Lego Ninjago",
-    "abilities": [],
+    "franchise": "LEGO Ninjago",
+    "abilities": [
+      "Acrobat"
+    ],
     "pack": {
       "name": "Jay Fun Pack",
       "type": "Fun",
@@ -629,8 +637,10 @@
   {
     "characterId": "kai",
     "name": "Kai",
-    "franchise": "Lego Ninjago",
-    "abilities": [],
+    "franchise": "LEGO Ninjago",
+    "abilities": [
+      "Acrobat"
+    ],
     "pack": {
       "name": "Lego Ninjago Team Pack",
       "type": "Team",
@@ -664,7 +674,7 @@
   {
     "characterId": "laval",
     "name": "Laval",
-    "franchise": "Lego Legends of Chima",
+    "franchise": "LEGO Legends of Chima",
     "abilities": [],
     "pack": {
       "name": "Laval Fun Pack",
@@ -681,7 +691,10 @@
     "characterId": "legolas",
     "name": "Legolas",
     "franchise": "The Lord of the Rings",
-    "abilities": [],
+    "abilities": [
+      "Acrobat",
+      "Magic"
+    ],
     "pack": {
       "name": "Legolas Fun Pack",
       "type": "Fun",
@@ -696,8 +709,10 @@
   {
     "characterId": "lloyd",
     "name": "Lloyd",
-    "franchise": "Lego Ninjago",
-    "abilities": [],
+    "franchise": "LEGO Ninjago",
+    "abilities": [
+      "Acrobat"
+    ],
     "pack": {
       "name": "Lloyd Fun Pack",
       "type": "Fun",
@@ -713,7 +728,9 @@
     "characterId": "lord-voldemort",
     "name": "Lord Voldemort",
     "franchise": "Harry Potter",
-    "abilities": [],
+    "abilities": [
+      "Magic"
+    ],
     "pack": {
       "name": "Harry Potter Team Pack",
       "type": "Team",
@@ -737,8 +754,8 @@
     },
     "voiceActor": "Pendleton Ward",
     "minifigure": {
-      "legoId": "N/A",
-      "imageUrl": "https://example.com/images/lumpy-space-princess.png"
+      "legoId": null,
+      "imageUrl": null
     }
   },
   {
@@ -753,8 +770,8 @@
     },
     "voiceActor": "Olivia Olson",
     "minifigure": {
-      "legoId": "N/A",
-      "imageUrl": "https://example.com/images/marceline.png"
+      "legoId": null,
+      "imageUrl": null
     }
   },
   {
@@ -793,7 +810,9 @@
     "characterId": "newt-scamander",
     "name": "Newt Scamander",
     "franchise": "Fantastic Beasts",
-    "abilities": [],
+    "abilities": [
+      "Magic"
+    ],
     "pack": {
       "name": "Fantastic Beasts Story Pack",
       "type": "Story",
@@ -808,8 +827,10 @@
   {
     "characterId": "nya",
     "name": "Nya",
-    "franchise": "Lego Ninjago",
-    "abilities": [],
+    "franchise": "LEGO Ninjago",
+    "abilities": [
+      "Acrobat"
+    ],
     "pack": {
       "name": "Nya Fun Pack",
       "type": "Fun",
@@ -872,7 +893,7 @@
   {
     "characterId": "robin-lbm",
     "name": "Robin (LBM)",
-    "franchise": "The Lego Batman Movie",
+    "franchise": "The LEGO Batman Movie",
     "abilities": [],
     "pack": {
       "name": "The Lego Batman Movie Story Pack",
@@ -904,8 +925,10 @@
   {
     "characterId": "sensei-wu",
     "name": "Sensei Wu",
-    "franchise": "Lego Ninjago",
-    "abilities": [],
+    "franchise": "LEGO Ninjago",
+    "abilities": [
+      "Acrobat"
+    ],
     "pack": {
       "name": "Sensei Wu Fun Pack",
       "type": "Fun",
@@ -959,7 +982,7 @@
       "type": "Level",
       "releaseWave": 2
     },
-    "voiceActor": "N/A",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim046",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim046.png"
@@ -969,7 +992,9 @@
     "characterId": "sonic-the-hedgehog",
     "name": "Sonic the Hedgehog",
     "franchise": "Sonic the Hedgehog",
-    "abilities": [],
+    "abilities": [
+      "Super Speed"
+    ],
     "pack": {
       "name": "Sonic the Hedgehog Level Pack",
       "type": "Level",
@@ -1007,7 +1032,7 @@
       "type": "Fun",
       "releaseWave": 1
     },
-    "voiceActor": "N/A",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim020pb01",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png"
@@ -1033,7 +1058,11 @@
     "characterId": "superman",
     "name": "Superman",
     "franchise": "DC Comics",
-    "abilities": [],
+    "abilities": [
+      "Flight",
+      "Invulnerability",
+      "X-Ray Vision"
+    ],
     "pack": {
       "name": "Superman Fun Pack",
       "type": "Fun",
@@ -1081,7 +1110,9 @@
     "characterId": "tina-goldstein",
     "name": "Tina Goldstein",
     "franchise": "Fantastic Beasts",
-    "abilities": [],
+    "abilities": [
+      "Magic"
+    ],
     "pack": {
       "name": "Tina Goldstein Fun Pack",
       "type": "Fun",
@@ -1096,7 +1127,7 @@
   {
     "characterId": "unikitty",
     "name": "Unikitty",
-    "franchise": "The Lego Movie",
+    "franchise": "The LEGO Movie",
     "abilities": [],
     "pack": {
       "name": "Unikitty Fun Pack",
@@ -1142,10 +1173,30 @@
     }
   },
   {
+    "characterId": "wyldstyle",
+    "name": "Wyldstyle",
+    "franchise": "The LEGO Movie",
+    "abilities": [
+      "Acrobat"
+    ],
+    "pack": {
+      "name": "Starter Pack",
+      "type": "Starter",
+      "releaseWave": 1
+    },
+    "voiceActor": "Elizabeth Banks",
+    "minifigure": {
+      "legoId": "dim003",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim003.png"
+    }
+  },
+  {
     "characterId": "zane",
     "name": "Zane",
-    "franchise": "Lego Ninjago",
-    "abilities": [],
+    "franchise": "LEGO Ninjago",
+    "abilities": [
+      "Acrobat"
+    ],
     "pack": {
       "name": "Zane Fun Pack",
       "type": "Fun",
