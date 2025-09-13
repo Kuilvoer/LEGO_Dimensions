@@ -251,7 +251,7 @@
   },
   {
     "name": "Cole",
-    "franchise": "Ninjago",
+    "franchise": "LEGO Ninjago",
     "pack": {
       "type": "Team",
       "name": "Lego Ninjago Team Pack",
@@ -268,7 +268,7 @@
   },
   {
     "name": "Cragger",
-    "franchise": "Legends of Chima",
+    "franchise": "LEGO Legends of Chima",
     "pack": {
       "type": "Fun",
       "name": "Cragger Fun Pack",
@@ -328,7 +328,7 @@
   },
   {
     "name": "E.T.",
-    "franchise": "E.T.",
+    "franchise": "E.T. the Extra-Terrestrial",
     "pack": {
       "type": "Fun",
       "name": "E.T. Fun Pack",
@@ -358,7 +358,7 @@
   },
   {
     "name": "Eris",
-    "franchise": "Legends of Chima",
+    "franchise": "LEGO Legends of Chima",
     "pack": {
       "type": "Fun",
       "name": "Eris Fun Pack",
@@ -581,7 +581,7 @@
   },
   {
     "name": "Jay",
-    "franchise": "Ninjago",
+    "franchise": "LEGO Ninjago",
     "pack": {
       "type": "Fun",
       "name": "Jay Fun Pack",
@@ -598,7 +598,7 @@
   },
   {
     "name": "Kai",
-    "franchise": "Ninjago",
+    "franchise": "LEGO Ninjago",
     "pack": {
       "type": "Team",
       "name": "Lego Ninjago Team Pack",
@@ -623,7 +623,7 @@
     },
     "abilities": [
       "Growth",
-      "HazardCleaner"
+      "Hazard Cleaner"
     ],
     "voiceActor": "Dan Castellaneta",
     "minifigure": {
@@ -633,7 +633,7 @@
   },
   {
     "name": "Laval",
-    "franchise": "Legends of Chima",
+    "franchise": "LEGO Legends of Chima",
     "pack": {
       "type": "Fun",
       "name": "Laval Fun Pack",
@@ -666,7 +666,7 @@
   },
   {
     "name": "Lloyd",
-    "franchise": "Ninjago",
+    "franchise": "LEGO Ninjago",
     "pack": {
       "type": "Fun",
       "name": "Lloyd Fun Pack",
@@ -777,7 +777,7 @@
   },
   {
     "name": "Nya",
-    "franchise": "Ninjago",
+    "franchise": "LEGO Ninjago",
     "pack": {
       "type": "Fun",
       "name": "Nya Fun Pack",
@@ -869,7 +869,7 @@
   },
   {
     "name": "Sensei Wu",
-    "franchise": "Ninjago",
+    "franchise": "LEGO Ninjago",
     "pack": {
       "type": "Fun",
       "name": "Sensei Wu Fun Pack",
@@ -1121,7 +1121,7 @@
   },
   {
     "name": "Zane",
-    "franchise": "Ninjago",
+    "franchise": "LEGO Ninjago",
     "pack": {
       "type": "Fun",
       "name": "Zane Fun Pack",
