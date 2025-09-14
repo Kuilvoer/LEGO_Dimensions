@@ -17,13 +17,13 @@
     "voiceActor": "Troy Baker",
     "minifigure": {
       "legoId": "dim002",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71200_1to1_MF_MUGSHOT_Batman_168.png/revision/latest/scale-to-width-down/75?cb=20150926103046",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim002.png",
       "dimensionsId": "dim002",
       "bricklinkId": "dim002",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71200_1to1_MF_MUGSHOT_Batman_168.png/revision/latest/scale-to-width-down/75?cb=20150926103046"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim002.png",
+          "type": "minifig"
         }
       ]
     },
@@ -50,13 +50,13 @@
     "voiceActor": "Tom Kane",
     "minifigure": {
       "legoId": "dim001",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71200_71170-71174_1to1_MF_MUGSHOT_Gandalf_336.png/revision/latest/scale-to-width-down/75?cb=20170213211416",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim001.png",
       "dimensionsId": "dim001",
       "bricklinkId": "dim001",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71200_71170-71174_1to1_MF_MUGSHOT_Gandalf_336.png/revision/latest/scale-to-width-down/75?cb=20170213211416"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim001.png",
+          "type": "minifig"
         }
       ]
     },
@@ -77,18 +77,19 @@
     "abilities": [
       "Acrobat",
       "Master Build",
+      "Relic Detector",
       "RelicDetector"
     ],
     "voiceActor": "Elizabeth Banks",
     "minifigure": {
       "legoId": "dim003",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/2c/WyldstyleHomepageNew.png/revision/latest/scale-to-width-down/75?cb=20170219125218",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim003.png",
       "dimensionsId": "dim003",
       "bricklinkId": "tlm099",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/2/2c/WyldstyleHomepageNew.png/revision/latest/scale-to-width-down/75?cb=20170219125218"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim003.png",
+          "type": "minifig"
         }
       ]
     },
@@ -110,18 +111,19 @@
       "CharacterChanging",
       "HazardProtection",
       "Intelligence",
-      "Laser"
+      "Laser",
+      "Suspend Ghost"
     ],
     "voiceActor": "Melissa McCarthy",
     "minifigure": {
       "legoId": "dim033",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/47/71242_1to1_MF_MUGSHOT_AbbyYates_336.png/revision/latest/scale-to-width-down/75?cb=20161106101135",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim033.png",
       "dimensionsId": "dim033",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/47/71242_1to1_MF_MUGSHOT_AbbyYates_336.png/revision/latest/scale-to-width-down/75?cb=20161106101135"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim033.png",
+          "type": "minifig"
         }
       ]
     },
@@ -146,13 +148,13 @@
     "voiceActor": "Robert Atkin Downes",
     "minifigure": {
       "legoId": "dim004",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/d6/71205_1to1_MF_MUGSHOT_ACU_336.png/revision/latest/scale-to-width-down/75?cb=20170215192240",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004.png",
       "dimensionsId": "dim004",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/d/d6/71205_1to1_MF_MUGSHOT_ACU_336.png/revision/latest/scale-to-width-down/75?cb=20170215192240"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim004.png",
+          "type": "minifig"
         }
       ]
     },
@@ -171,20 +173,22 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Atlantis",
       "Dive",
       "Growth",
+      "Hazard Cleaner",
       "WaterSpray"
     ],
     "voiceActor": "Brian Bloom",
     "minifigure": {
       "legoId": "dim021",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b3/71237_1to1_MF_MUGSHOT_Aquaman_168.png/revision/latest/scale-to-width-down/75?cb=20160319133047",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021.png",
       "dimensionsId": "dim021",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b3/71237_1to1_MF_MUGSHOT_Aquaman_168.png/revision/latest/scale-to-width-down/75?cb=20160319133047"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim021.png",
+          "type": "minifig"
         }
       ]
     },
@@ -203,19 +207,24 @@
       "releaseDate": "2016"
     },
     "abilities": [
+      "A-Team Master Build",
       "A-Team Master Build (Uniek)",
-      "SuperStrength"
+      "Fix-It",
+      "Silver LEGO Blowup",
+      "Super Strength",
+      "SuperStrength",
+      "Target"
     ],
     "voiceActor": "unknown",
     "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/4f/71251_1to1_MF_MUGSHOT_B_A_Baracus_336.png/revision/latest/scale-to-width-down/75?cb=20161106101646",
+      "legoId": null,
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
       "dimensionsId": "unknown",
       "bricklinkId": "dim024",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/4f/71251_1to1_MF_MUGSHOT_B_A_Baracus_336.png/revision/latest/scale-to-width-down/75?cb=20161106101646"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
+          "type": "minifig"
         }
       ]
     },
@@ -234,18 +243,20 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "unknown"
+      "Laser",
+      "Relic Detector",
+      "Target"
     ],
     "voiceActor": "Liam Neeson",
     "minifigure": {
       "legoId": "dim007",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/bb/71213_1to1_MF_MUGSHOT_Bad_Cop_168.png/revision/latest/scale-to-width-down/75?cb=20150926103258",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007.png",
       "dimensionsId": "dim007",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/b/bb/71213_1to1_MF_MUGSHOT_Bad_Cop_168.png/revision/latest/scale-to-width-down/75?cb=20150926103258"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim007.png",
+          "type": "minifig"
         }
       ]
     },
@@ -264,19 +275,22 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Big Transform",
       "BigTransform",
+      "Hazard Protection",
+      "Super Strength",
       "SuperStrength"
     ],
     "voiceActor": "Steve Blum",
     "minifigure": {
       "legoId": "dim022",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/49/71240_1to1_MF_MUGSHOT_Bane_168.png/revision/latest/scale-to-width-down/75?cb=20160429073913",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022.png",
       "dimensionsId": "dim022",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/49/71240_1to1_MF_MUGSHOT_Bane_168.png/revision/latest/scale-to-width-down/75?cb=20160429073913"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim022.png",
+          "type": "minifig"
         }
       ]
     },
@@ -295,18 +309,19 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "unknown"
+      "Mini Access",
+      "Target"
     ],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": "dim015",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9b/71211_1to1_MF_MUGSHOT_Bart_168.png/revision/latest/scale-to-width-down/75?cb=20151103211834",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015.png",
       "dimensionsId": "dim015",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9b/71211_1to1_MF_MUGSHOT_Bart_168.png/revision/latest/scale-to-width-down/75?cb=20151103211834"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim015.png",
+          "type": "minifig"
         }
       ]
     },
@@ -325,18 +340,19 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Acrobat",
       "Boomerang"
     ],
     "voiceActor": "Rosario Dawson",
     "minifigure": {
       "legoId": "dim044",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9e/71264_1to1_MF_MUGSHOT_Batgirl_336.png/revision/latest/scale-to-width-down/75?cb=20170213193003",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim044.png",
       "dimensionsId": "dim044",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9e/71264_1to1_MF_MUGSHOT_Batgirl_336.png/revision/latest/scale-to-width-down/75?cb=20170213193003"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim044.png",
+          "type": "minifig"
         }
       ]
     },
@@ -356,19 +372,21 @@
     },
     "abilities": [
       "Dive",
+      "Mini Access",
       "Mini Access)",
+      "Tracking",
       "Transformation (Flight"
     ],
     "voiceActor": "unknown",
     "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/d0/Headshots_TTG_BeastBoy.jpg/revision/latest/scale-to-width-down/75?cb=20170913185702",
+      "legoId": null,
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim049.png",
       "dimensionsId": "unknown",
       "bricklinkId": "dim049",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/d/d0/Headshots_TTG_BeastBoy.jpg/revision/latest/scale-to-width-down/75?cb=20170913185702"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim049.png",
+          "type": "minifig"
         }
       ]
     },
@@ -393,13 +411,13 @@
     "voiceActor": "Christopher Swindle",
     "minifigure": {
       "legoId": "dim051",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/41/Headshots_Beetlejuice.jpg/revision/latest/scale-to-width-down/75?cb=20170913190554",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim051.png",
       "dimensionsId": "dim051",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/41/Headshots_Beetlejuice.jpg/revision/latest/scale-to-width-down/75?cb=20170913190554"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim051.png",
+          "type": "minifig"
         }
       ]
     },
@@ -422,6 +440,8 @@
     "abilities": [
       "Glide",
       "Hacking",
+      "Master Build",
+      "Sonar Smash",
       "SonarSmash",
       "Target",
       "Technology"
@@ -429,13 +449,13 @@
     "voiceActor": "Charlie Day",
     "minifigure": {
       "legoId": "dim008",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/60/71214_1to1_MF_MUGSHOT_Benny_168.png/revision/latest/scale-to-width-down/75?cb=20150926103324",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008.png",
       "dimensionsId": "dim008",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/6/60/71214_1to1_MF_MUGSHOT_Benny_168.png/revision/latest/scale-to-width-down/75?cb=20150926103324"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim008.png",
+          "type": "minifig"
         }
       ]
     },
@@ -454,18 +474,19 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "unknown"
+      "Flying",
+      "Rainbow LEGO Objects"
     ],
     "voiceActor": "Amanda Leighton",
     "minifigure": {
       "legoId": "dim052",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/3/32/Headshots_PPG_Blossom.jpg/revision/latest/scale-to-width-down/75?cb=20170913190252",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim052.png",
       "dimensionsId": "dim052",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/3/32/Headshots_PPG_Blossom.jpg/revision/latest/scale-to-width-down/75?cb=20170913190252"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim052.png",
+          "type": "minifig"
         }
       ]
     },
@@ -485,6 +506,7 @@
     },
     "abilities": [
       "Flight",
+      "Flying",
       "HeartRegeneration",
       "Laser",
       "RainbowLEGOObjects",
@@ -493,13 +515,13 @@
     "voiceActor": "Kristen Li",
     "minifigure": {
       "legoId": "dim053",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/44/Headshots_PPG_Bubbles.jpg/revision/latest/scale-to-width-down/75?cb=20170913190352",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim053.png",
       "dimensionsId": "dim053",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/44/Headshots_PPG_Bubbles.jpg/revision/latest/scale-to-width-down/75?cb=20170913190352"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim053.png",
+          "type": "minifig"
         }
       ]
     },
@@ -518,18 +540,19 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "unknown"
+      "Flying",
+      "Super Strength"
     ],
     "voiceActor": "Natalie Palamides",
     "minifigure": {
       "legoId": "dim054",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/7/77/Headshots_PPG_Buttercup.jpg/revision/latest/scale-to-width-down/75?cb=20170913190441",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim054.png",
       "dimensionsId": "dim054",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/7/77/Headshots_PPG_Buttercup.jpg/revision/latest/scale-to-width-down/75?cb=20170913190441"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim054.png",
+          "type": "minifig"
         }
       ]
     },
@@ -549,9 +572,11 @@
     },
     "abilities": [
       "Acrobat",
+      "Drill",
       "Glide",
       "Grapple",
       "Hacking",
+      "Relic Detector",
       "RelicDetector",
       "Target",
       "Tracking",
@@ -560,13 +585,13 @@
     "voiceActor": "Joseph May",
     "minifigure": {
       "legoId": "dim042",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c2/71266_1to1_MF_MUGSHOT_ChaseMcCain_336.png/revision/latest/scale-to-width-down/75?cb=20170509151700",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim042.png",
       "dimensionsId": "dim042",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c2/71266_1to1_MF_MUGSHOT_ChaseMcCain_336.png/revision/latest/scale-to-width-down/75?cb=20170509151700"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim042.png",
+          "type": "minifig"
         }
       ]
     },
@@ -586,19 +611,20 @@
     },
     "abilities": [
       "Acrobat",
+      "Portal Gun",
       "Portal Gun (Uniek)",
       "PortalGun"
     ],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": "dim005",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71203_1to1_MF_MUGSHOT_Chell_168.png/revision/latest/scale-to-width-down/75?cb=20150926103347",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005.png",
       "dimensionsId": "dim005",
       "bricklinkId": "dim006",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71203_1to1_MF_MUGSHOT_Chell_168.png/revision/latest/scale-to-width-down/75?cb=20150926103347"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim005.png",
+          "type": "minifig"
         }
       ]
     },
@@ -617,18 +643,21 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat"
+      "Acrobat",
+      "Spinjitzu",
+      "Stealth",
+      "Super Strength"
     ],
     "voiceActor": "Kirby Morrow",
     "minifigure": {
       "legoId": "dim013",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71207_1to1_MF_MUGSHOT_Cole_168.png/revision/latest/scale-to-width-down/75?cb=20151103211920",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013.png",
       "dimensionsId": "dim013",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71207_1to1_MF_MUGSHOT_Cole_168.png/revision/latest/scale-to-width-down/75?cb=20151103211920"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim013.png",
+          "type": "minifig"
         }
       ]
     },
@@ -647,18 +676,22 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "unknown"
+      "Acrobat",
+      "CHI",
+      "Dive",
+      "Hazard Protection",
+      "Super Strength"
     ],
     "voiceActor": "David Attar",
     "minifigure": {
       "legoId": "dim018",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a9/71223_1to1_MF_MUGSHOT_Cragger_168.png/revision/latest/scale-to-width-down/75?cb=20150926103423",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim018.png",
       "dimensionsId": "dim018",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a9/71223_1to1_MF_MUGSHOT_Cragger_168.png/revision/latest/scale-to-width-down/75?cb=20150926103423"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim018.png",
+          "type": "minifig"
         }
       ]
     },
@@ -678,20 +711,26 @@
     },
     "abilities": [
       "Dive",
+      "Drone",
+      "Hacking",
       "Laser",
+      "Mind Control",
+      "Silver LEGO Blowup",
       "SilverLEGODestruction",
+      "Technology",
+      "X-Ray Vision",
       "XRayVision"
     ],
     "voiceActor": "Nicholas Briggs",
     "minifigure": {
       "legoId": "dim023",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/dc/71238_1to1_MF_MUGSHOT_Gyberman_168.png/revision/latest/scale-to-width-down/75?cb=20160119173923",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim023.png",
       "dimensionsId": "dim023",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/d/dc/71238_1to1_MF_MUGSHOT_Gyberman_168.png/revision/latest/scale-to-width-down/75?cb=20160119173923"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim023.png",
+          "type": "minifig"
         }
       ]
     },
@@ -710,7 +749,11 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Big Transform",
       "BigTransform",
+      "Dive",
+      "Laser",
+      "Super Strength",
       "SuperStrength",
       "Target",
       "Technology"
@@ -718,13 +761,13 @@
     "voiceActor": "Bumper Robinson",
     "minifigure": {
       "legoId": "dim006",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71210_1to1_MF_MUGSHOT_Cyborg_168.png/revision/latest/scale-to-width-down/75?cb=20150926103441",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006.png",
       "dimensionsId": "dim006",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71210_1to1_MF_MUGSHOT_Cyborg_168.png/revision/latest/scale-to-width-down/75?cb=20150926103441"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim006.png",
+          "type": "minifig"
         }
       ]
     },
@@ -743,6 +786,8 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Drone",
+      "Fix-It",
       "FixIt",
       "Hacking",
       "Intelligence",
@@ -751,13 +796,13 @@
     "voiceActor": "Christopher Lloyd",
     "minifigure": {
       "legoId": "dim024",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/8b/71230_1to1_MF_MUGSHOT_Doc_Brown_168.png/revision/latest/scale-to-width-down/75?cb=20160119173957",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
       "dimensionsId": "dim024",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/8/8b/71230_1to1_MF_MUGSHOT_Doc_Brown_168.png/revision/latest/scale-to-width-down/75?cb=20160119173957"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
+          "type": "minifig"
         }
       ]
     },
@@ -777,11 +822,13 @@
     },
     "abilities": [
       "CharacterChanging",
+      "Fix-It",
       "FixIt",
       "Hacking",
       "Illumination",
       "Intelligence",
       "MiniAccess",
+      "Sonar Smash",
       "SonarSmash",
       "TARDIS Travel (Uniek)",
       "Technology"
@@ -789,13 +836,13 @@
     "voiceActor": "Peter Capaldi",
     "minifigure": {
       "legoId": "dim011pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/e1/712041to1MFMUGSHOTDr_Who168.png/revision/latest/scale-to-width-down/75?cb=20151103211708",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png",
       "dimensionsId": "dim011pb01",
       "bricklinkId": "dim009",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/e/e1/712041to1MFMUGSHOTDr_Who168.png/revision/latest/scale-to-width-down/75?cb=20151103211708"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -814,18 +861,21 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "FixIt"
+      "Drill",
+      "Fix-It",
+      "FixIt",
+      "Master Build"
     ],
     "voiceActor": "Chris Pratt",
     "minifigure": {
       "legoId": "dim009",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/63/71212_1to1_MF_MUGSHOT_Emmet_168.png/revision/latest/scale-to-width-down/75?cb=20150926103504",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009.png",
       "dimensionsId": "dim009",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/6/63/71212_1to1_MF_MUGSHOT_Emmet_168.png/revision/latest/scale-to-width-down/75?cb=20150926103504"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim009.png",
+          "type": "minifig"
         }
       ]
     },
@@ -844,19 +894,23 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "CHI",
       "Flight",
-      "SuperStrength"
+      "Flying",
+      "Super Strength",
+      "SuperStrength",
+      "Target"
     ],
     "voiceActor": "Bethany Brown",
     "minifigure": {
       "legoId": "dim019",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/86/71232_1to1_MF_MUGSHOT_Eris_168.png/revision/latest/scale-to-width-down/75?cb=20150926103540",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
       "dimensionsId": "dim019",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/8/86/71232_1to1_MF_MUGSHOT_Eris_168.png/revision/latest/scale-to-width-down/75?cb=20150926103540"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
+          "type": "minifig"
         }
       ]
     },
@@ -875,18 +929,20 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "unknown"
+      "Flying",
+      "Growth",
+      "Mini Access"
     ],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": "dim038",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/23/71258_1to1_MF_MUGSHOT_ET_336.png/revision/latest/scale-to-width-down/75?cb=20161119102038",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim038.png",
       "dimensionsId": "dim038",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/2/23/71258_1to1_MF_MUGSHOT_ET_336.png/revision/latest/scale-to-width-down/75?cb=20161119102038"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim038.png",
+          "type": "minifig"
         }
       ]
     },
@@ -907,20 +963,22 @@
     "abilities": [
       "Acrobat",
       "Dive",
+      "Drone",
       "Grapple",
       "Stealth",
-      "Technology"
+      "Technology",
+      "X-Ray Vision"
     ],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": "dim028",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/8d/71248_1to1_MF_MUGSHOT_EthanHunt_336.png/revision/latest/scale-to-width-down/75?cb=20161106101426",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim028.png",
       "dimensionsId": "dim028",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/8/8d/71248_1to1_MF_MUGSHOT_EthanHunt_336.png/revision/latest/scale-to-width-down/75?cb=20161106101426"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim028.png",
+          "type": "minifig"
         }
       ]
     },
@@ -949,13 +1007,13 @@
     "voiceActor": "Will Arnett",
     "minifigure": {
       "legoId": "dim043",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71344_1to1_MF_MUGSHOT_ExcaliburBatman_336.png/revision/latest/scale-to-width-down/75?cb=20170213193548",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim043.png",
       "dimensionsId": "dim043",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71344_1to1_MF_MUGSHOT_ExcaliburBatman_336.png/revision/latest/scale-to-width-down/75?cb=20170213193548"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim043.png",
+          "type": "minifig"
         }
       ]
     },
@@ -979,13 +1037,13 @@
     "voiceActor": "Jeremy Shada",
     "minifigure": {
       "legoId": "dim026",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/f/f1/71245_1to1_MF_MUGSHOT_FinnTheHuman_336.png/revision/latest/scale-to-width-down/75?cb=20161106101213",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim026.png",
       "dimensionsId": "dim026",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/f/f1/71245_1to1_MF_MUGSHOT_FinnTheHuman_336.png/revision/latest/scale-to-width-down/75?cb=20161106101213"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim026.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1013,13 +1071,13 @@
     "voiceActor": "Josh Keaton",
     "minifigure": {
       "legoId": "dim025",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a5/71235_1to1_MF_MUGSHOT_Retro_Gamer_168.png/revision/latest/scale-to-width-down/75?cb=20160319133023",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim025.png",
       "dimensionsId": "dim025",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a5/71235_1to1_MF_MUGSHOT_Retro_Gamer_168.png/revision/latest/scale-to-width-down/75?cb=20160319133023"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim025.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1038,18 +1096,20 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Mini Access",
+      "Super Strength",
       "SuperStrength"
     ],
     "voiceActor": "John Rhys-Davies",
     "minifigure": {
       "legoId": "dim014",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/2b/71220_1to1_MF_MUGSHOT_Gimli_168.png/revision/latest/scale-to-width-down/75?cb=20150926103520",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014.png",
       "dimensionsId": "dim014",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/2/2b/71220_1to1_MF_MUGSHOT_Gimli_168.png/revision/latest/scale-to-width-down/75?cb=20150926103520"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim014.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1073,13 +1133,13 @@
     "voiceActor": "Howie Mandel",
     "minifigure": {
       "legoId": "dim036",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71256_1to1_MF_MUGSHOT_Gizmo_336.png/revision/latest/scale-to-width-down/75?cb=20161119102018",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim036.png",
       "dimensionsId": "dim036",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71256_1to1_MF_MUGSHOT_Gizmo_336.png/revision/latest/scale-to-width-down/75?cb=20161119102018"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim036.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1101,18 +1161,20 @@
       "Acrobat",
       "Boomerang",
       "Dive",
-      "Magic"
+      "Magic",
+      "Mini Access",
+      "Silver LEGO Blowup"
     ],
     "voiceActor": "Liam O'Brien",
     "minifigure": {
       "legoId": "dim012",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/44/GollumHomepageNew.png/revision/latest/scale-to-width-down/75?cb=20170219123556",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012.png",
       "dimensionsId": "dim012",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/44/GollumHomepageNew.png/revision/latest/scale-to-width-down/75?cb=20170219123556"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim012.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1132,18 +1194,19 @@
     },
     "abilities": [
       "Acrobat",
+      "Super Strength",
       "SuperStrength"
     ],
     "voiceActor": "Tara Strong",
     "minifigure": {
       "legoId": "dim020",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/71229_1to1_MF_MUGSHOT_Harley_Quinn_168.png/revision/latest/scale-to-width-down/75?cb=20160119174026",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020.png",
       "dimensionsId": "dim020",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/71229_1to1_MF_MUGSHOT_Harley_Quinn_168.png/revision/latest/scale-to-width-down/75?cb=20160119174026"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim020.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1175,13 +1238,13 @@
     "voiceActor": "Daniel Radcliffe",
     "minifigure": {
       "legoId": "dim031",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/7/72/71247_1to1_MF_MUGSHOT_HarryPotter_336.png/revision/latest/scale-to-width-down/75?cb=20161106101334",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim031.png",
       "dimensionsId": "dim031",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/7/72/71247_1to1_MF_MUGSHOT_HarryPotter_336.png/revision/latest/scale-to-width-down/75?cb=20161106101334"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim031.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1205,16 +1268,11 @@
     ],
     "voiceActor": "Emma Watson",
     "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/97/71348_1to1_MF_MUGSHOT_HermioneGranger_336.png/revision/latest/scale-to-width-down/75?cb=20170509151744",
+      "legoId": null,
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/9/97/71348_1to1_MF_MUGSHOT_HermioneGranger_336.png/revision/latest/scale-to-width-down/75?cb=20170509151744"
-        }
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "unknown",
     "aliases": [],
@@ -1231,19 +1289,20 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Big Transform",
       "BigTransform",
       "SuperStrength"
     ],
     "voiceActor": "Dan Castellaneta",
     "minifigure": {
       "legoId": "dim009pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5f/71202_1to1_MF_MUGSHOT_Homer_168.png/revision/latest/scale-to-width-down/75?cb=20150926103634",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009pb01.png",
       "dimensionsId": "dim009pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5f/71202_1to1_MF_MUGSHOT_Homer_168.png/revision/latest/scale-to-width-down/75?cb=20150926103634"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim009pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1268,13 +1327,13 @@
     "voiceActor": "John DiMaggio",
     "minifigure": {
       "legoId": "dim027",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/f/fc/71246_1to1_MF_MUGSHOT_JakeTheDog_336.png/revision/latest/scale-to-width-down/75?cb=20161106101236",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim027.png",
       "dimensionsId": "dim027",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/f/fc/71246_1to1_MF_MUGSHOT_JakeTheDog_336.png/revision/latest/scale-to-width-down/75?cb=20161106101236"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim027.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1294,18 +1353,22 @@
     },
     "abilities": [
       "Acrobat",
-      "LaserDeflector"
+      "Electricity",
+      "Fix-It",
+      "LaserDeflector",
+      "Spinjitzu",
+      "Stealth"
     ],
     "voiceActor": "Michael Adamthwaite",
     "minifigure": {
       "legoId": "dim017",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71215_1to1_MF_MUGSHOT_Jay_168.png/revision/latest/scale-to-width-down/75?cb=20150926103622",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017.png",
       "dimensionsId": "dim017",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71215_1to1_MF_MUGSHOT_Jay_168.png/revision/latest/scale-to-width-down/75?cb=20150926103622"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim017.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1326,18 +1389,19 @@
     "abilities": [
       "Electricity",
       "Grapple",
+      "Hazard Protection",
       "Target"
     ],
     "voiceActor": "Christopher Corey Smith",
     "minifigure": {
       "legoId": "dim019",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b4/71229_1to1_MF_MUGSHOT_Joker_168.png/revision/latest/scale-to-width-down/75?cb=20160119174137",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
       "dimensionsId": "dim019",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b4/71229_1to1_MF_MUGSHOT_Joker_168.png/revision/latest/scale-to-width-down/75?cb=20160119174137"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1356,18 +1420,20 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat"
+      "Acrobat",
+      "Spinjitzu",
+      "Stealth"
     ],
     "voiceActor": "Vincent Tong",
     "minifigure": {
       "legoId": "dim012pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71207_1to1_MF_MUGSHOT_Kai_168.png/revision/latest/scale-to-width-down/75?cb=20151103211949",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012pb01.png",
       "dimensionsId": "dim012pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71207_1to1_MF_MUGSHOT_Kai_168.png/revision/latest/scale-to-width-down/75?cb=20151103211949"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim012pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1394,13 +1460,13 @@
     "voiceActor": "Dan Castellaneta",
     "minifigure": {
       "legoId": "dim016",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c8/71227_1to1_MF_MUGSHOT_Krusty_168.png/revision/latest/scale-to-width-down/75?cb=20151103212048",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016.png",
       "dimensionsId": "dim016",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c8/71227_1to1_MF_MUGSHOT_Krusty_168.png/revision/latest/scale-to-width-down/75?cb=20151103212048"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim016.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1419,18 +1485,22 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat"
+      "Acrobat",
+      "CHI",
+      "Sonar Smash",
+      "Super Strength",
+      "Target"
     ],
     "voiceActor": "Scott Shantz",
     "minifigure": {
       "legoId": "dim017pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/90/71222_1to1_MF_MUGSHOT_Laval_168.png/revision/latest/scale-to-width-down/75?cb=20150926103718",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017pb01.png",
       "dimensionsId": "dim017pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/9/90/71222_1to1_MF_MUGSHOT_Laval_168.png/revision/latest/scale-to-width-down/75?cb=20150926103718"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim017pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1452,18 +1522,19 @@
       "Acrobat",
       "GrindRails",
       "Magic",
+      "Pole Vault",
       "Target"
     ],
     "voiceActor": "Orlando Bloom",
     "minifigure": {
       "legoId": "dim013pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71219_1to1_MF_MUGSHOT_Legolas_168.png/revision/latest/scale-to-width-down/75?cb=20150926103743",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013pb01.png",
       "dimensionsId": "dim013pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71219_1to1_MF_MUGSHOT_Legolas_168.png/revision/latest/scale-to-width-down/75?cb=20150926103743"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim013pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1482,18 +1553,21 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat"
+      "Acrobat",
+      "Illumination",
+      "Spinjitzu",
+      "Stealth"
     ],
     "voiceActor": "Jillian Michaels",
     "minifigure": {
       "legoId": "dim023pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71239_1to1_MF_MUGSHOT_Lloyd_168.png/revision/latest/scale-to-width-down/75?cb=20160511115537",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim023pb01.png",
       "dimensionsId": "dim023pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71239_1to1_MF_MUGSHOT_Lloyd_168.png/revision/latest/scale-to-width-down/75?cb=20160511115537"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim023pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1518,19 +1592,20 @@
       "Illumination",
       "Magic",
       "MagicalShield",
+      "Mind Control",
       "SilverLEGODestruction",
       "Target"
     ],
     "voiceActor": "Ralph Fiennes",
     "minifigure": {
       "legoId": "dim032",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9a/71247_1to1_MF_MUGSHOT_LordVoldemort_336.png/revision/latest/scale-to-width-down/75?cb=20161106101359",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim032.png",
       "dimensionsId": "dim032",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9a/71247_1to1_MF_MUGSHOT_LordVoldemort_336.png/revision/latest/scale-to-width-down/75?cb=20161106101359"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim032.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1552,21 +1627,17 @@
       "Boomerang",
       "Flight",
       "HazardProtection",
+      "Rainbow LEGO Objects",
       "SlurpAccess",
       "Target"
     ],
     "voiceActor": "Pendleton Ward",
     "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/e8/71246_1to1_MF_MUGSHOT_LumpySpacePrincess_336.png/revision/latest/scale-to-width-down/75?cb=20161106101259",
+      "legoId": null,
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/e/e8/71246_1to1_MF_MUGSHOT_LumpySpacePrincess_336.png/revision/latest/scale-to-width-down/75?cb=20161106101259"
-        }
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "unknown",
     "aliases": [],
@@ -1578,7 +1649,7 @@
     "pack": {
       "type": "unknown",
       "name": "unknown",
-      "releaseWave": "unknown",
+      "releaseWave": null,
       "setNumber": "71285",
       "releaseDate": "unknown"
     },
@@ -1595,16 +1666,11 @@
     ],
     "voiceActor": "unknown",
     "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/24/71285_1to1_MF_MUGSHOT_MarcelineTheVampireQueen_336.png/revision/latest/scale-to-width-down/75?cb=20170213193309",
+      "legoId": null,
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/2/24/71285_1to1_MF_MUGSHOT_MarcelineTheVampireQueen_336.png/revision/latest/scale-to-width-down/75?cb=20170213193309"
-        }
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "unknown",
     "aliases": [],
@@ -1620,19 +1686,17 @@
       "setNumber": "71201",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "unknown"
-    ],
+    "abilities": [],
     "voiceActor": "Michael J. Fox",
     "minifigure": {
       "legoId": "dim004pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/17/71201_1to1_MF_MUGSHOT_Marty_168.png/revision/latest/scale-to-width-down/75?cb=20150926103759",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004pb01.png",
       "dimensionsId": "dim004pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/1/17/71201_1to1_MF_MUGSHOT_Marty_168.png/revision/latest/scale-to-width-down/75?cb=20150926103759"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim004pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1658,13 +1722,13 @@
     "voiceActor": "Nick Offerman",
     "minifigure": {
       "legoId": "dim045",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b1/71286_1to1_MF_MUGSHOT_MichaelKnight_336.png/revision/latest/scale-to-width-down/75?cb=20170213193410",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim045.png",
       "dimensionsId": "dim045",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b1/71286_1to1_MF_MUGSHOT_MichaelKnight_336.png/revision/latest/scale-to-width-down/75?cb=20170213193410"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim045.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1695,13 +1759,13 @@
     "voiceActor": "Eddie Redmayne",
     "minifigure": {
       "legoId": "dim034",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/f/fb/71253_1to1_MF_MUGSHOT_NewtScamander_01_336.png/revision/latest/scale-to-width-down/75?cb=20161119101952",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim034.png",
       "dimensionsId": "dim034",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/f/fb/71253_1to1_MF_MUGSHOT_NewtScamander_01_336.png/revision/latest/scale-to-width-down/75?cb=20161119101952"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim034.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1720,18 +1784,21 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat"
+      "Acrobat",
+      "Fix-It",
+      "Spinjitzu",
+      "Stealth"
     ],
     "voiceActor": "Kelly Metzger",
     "minifigure": {
       "legoId": "dim016pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b6/71216_1to1_MF_MUGSHOT_Nya_168.png/revision/latest/scale-to-width-down/75?cb=20150926103831",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016pb01.png",
       "dimensionsId": "dim016pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b6/71216_1to1_MF_MUGSHOT_Nya_168.png/revision/latest/scale-to-width-down/75?cb=20150926103831"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim016pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1749,19 +1816,17 @@
       "setNumber": "71205",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "unknown"
-    ],
+    "abilities": [],
     "voiceActor": "Chris Pratt",
     "minifigure": {
       "legoId": "dim005pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/95/71205_1to1_MF_MUGSHOT_Owen_168.png/revision/latest/scale-to-width-down/75?cb=20150926103846",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005pb01.png",
       "dimensionsId": "dim005pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/9/95/71205_1to1_MF_MUGSHOT_Owen_168.png/revision/latest/scale-to-width-down/75?cb=20150926103846"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim005pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1781,19 +1846,21 @@
     },
     "abilities": [
       "CharacterChanging",
+      "Hazard Protection",
       "HazardProtection",
-      "Laser"
+      "Laser",
+      "Suspend Ghost"
     ],
     "voiceActor": "Bill Murray",
     "minifigure": {
       "legoId": "dim019pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a6/71228_1to1_MF_MUGSHOT_Peter_168.png/revision/latest/scale-to-width-down/75?cb=20160119174251",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019pb01.png",
       "dimensionsId": "dim019pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a6/71228_1to1_MF_MUGSHOT_Peter_168.png/revision/latest/scale-to-width-down/75?cb=20160119174251"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim019pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1820,13 +1887,13 @@
     "voiceActor": "Tara Strong",
     "minifigure": {
       "legoId": "dim048",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/55/Headshots_TTG_Raven.jpg/revision/latest/scale-to-width-down/75?cb=20170913190119",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim048.png",
       "dimensionsId": "dim048",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/5/55/Headshots_TTG_Raven.jpg/revision/latest/scale-to-width-down/75?cb=20170913190119"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim048.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1852,13 +1919,13 @@
     "voiceActor": "Michael Cera",
     "minifigure": {
       "legoId": "dim041",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/Headshots_Robin.png/revision/latest/scale-to-width-down/75?cb=20170213193810",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim041.png",
       "dimensionsId": "dim041",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/Headshots_Robin.png/revision/latest/scale-to-width-down/75?cb=20170213193810"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim041.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1879,6 +1946,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Dig",
       "Dive",
       "Glide",
       "Stealth",
@@ -1887,13 +1955,13 @@
     "voiceActor": "Frank Welker",
     "minifigure": {
       "legoId": "dim007pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/25/ScoobyDooHomepageNew.png/revision/latest/scale-to-width-down/75?cb=20170219123019",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007pb01.png",
       "dimensionsId": "dim007pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/2/25/ScoobyDooHomepageNew.png/revision/latest/scale-to-width-down/75?cb=20170219123019"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim007pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1912,18 +1980,21 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat"
+      "Acrobat",
+      "Pole Vault",
+      "Spinjitzu",
+      "Stealth"
     ],
     "voiceActor": "Paul Dobson",
     "minifigure": {
       "legoId": "dim015pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/65/71234_1to1_MF_MUGSHOT_Sensei_Wu_168.png/revision/latest/scale-to-width-down/75?cb=20160119174324",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015pb01.png",
       "dimensionsId": "dim015pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/6/65/71234_1to1_MF_MUGSHOT_Sensei_Wu_168.png/revision/latest/scale-to-width-down/75?cb=20160119174324"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim015pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1942,18 +2013,20 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "unknown"
+      "Illumination",
+      "Stealth",
+      "Tracking"
     ],
     "voiceActor": "Matthew Lillard",
     "minifigure": {
       "legoId": "dim008pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71206_1to1_MF_MUGSHOT_Shaggy_168.png/revision/latest/scale-to-width-down/75?cb=20150926103919",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008pb01.png",
       "dimensionsId": "dim008pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71206_1to1_MF_MUGSHOT_Shaggy_168.png/revision/latest/scale-to-width-down/75?cb=20150926103919"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim008pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -1972,24 +2045,30 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Boomerang",
       "Dive",
       "Flight",
+      "Flying",
+      "Hazard Cleaner",
+      "Hazard Protection",
       "HazardCleaner",
       "HazardProtection",
       "Illumination",
       "Invulnerability",
+      "Mini Access",
+      "Sonar Smash",
       "SonarSmash"
     ],
     "voiceActor": "Frank Welker",
     "minifigure": {
       "legoId": "dim021pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71241_1to1_MF_MUGSHOT_Slimer_168.png/revision/latest/scale-to-width-down/75?cb=20160511115612",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021pb01.png",
       "dimensionsId": "dim021pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71241_1to1_MF_MUGSHOT_Slimer_168.png/revision/latest/scale-to-width-down/75?cb=20160511115612"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim021pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2017,13 +2096,13 @@
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": "dim046",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c7/71267_1to1_MF_MUGSHOT_Sloth_336.png/revision/latest/scale-to-width-down/75?cb=20170509151602",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim046.png",
       "dimensionsId": "dim046",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c7/71267_1to1_MF_MUGSHOT_Sloth_336.png/revision/latest/scale-to-width-down/75?cb=20170509151602"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim046.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2050,13 +2129,13 @@
     "voiceActor": "Roger Craig Smith",
     "minifigure": {
       "legoId": "dim039",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/db/71244_1to1_MF_MUGSHOT_SonicTheHedgehog_336.png/revision/latest/scale-to-width-down/75?cb=20161119101906",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim039.png",
       "dimensionsId": "dim039",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/d/db/71244_1to1_MF_MUGSHOT_SonicTheHedgehog_336.png/revision/latest/scale-to-width-down/75?cb=20161119101906"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim039.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2083,13 +2162,13 @@
     "voiceActor": "Hynden Walch",
     "minifigure": {
       "legoId": "dim050",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/85/Headshots_TTG_Starfire.jpg/revision/latest/scale-to-width-down/75?cb=20170913190003",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim050.png",
       "dimensionsId": "dim050",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/8/85/Headshots_TTG_Starfire.jpg/revision/latest/scale-to-width-down/75?cb=20170913190003"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim050.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2108,19 +2187,22 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Big Transform",
       "BigTransform",
+      "Hazard Protection",
+      "Super Strength",
       "SuperStrength"
     ],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": "dim020pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/26/71233_1to1_MF_MUGSHOT_Stay_Puft_168.png/revision/latest/scale-to-width-down/75?cb=20160319132934",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png",
       "dimensionsId": "dim020pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/2/26/71233_1to1_MF_MUGSHOT_Stay_Puft_168.png/revision/latest/scale-to-width-down/75?cb=20160319132934"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2144,13 +2226,13 @@
     "voiceActor": "Frank Welker",
     "minifigure": {
       "legoId": "dim037",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/87/71256_1to1_MF_MUGSHOT_Stripe_336.png/revision/latest/scale-to-width-down/75?cb=20161119102026",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim037.png",
       "dimensionsId": "dim037",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/8/87/71256_1to1_MF_MUGSHOT_Stripe_336.png/revision/latest/scale-to-width-down/75?cb=20161119102026"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim037.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2171,21 +2253,24 @@
     "abilities": [
       "Dive",
       "Flight",
+      "Flying",
       "Invulnerability",
       "Laser",
+      "Super Strength",
       "SuperStrength",
+      "X-Ray Vision",
       "XRayVision"
     ],
     "voiceActor": "Travis Willingham",
     "minifigure": {
       "legoId": "dim022pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/cb/71236_1to1_MF_MUGSHOT_Superman_168.png/revision/latest/scale-to-width-down/75?cb=20160319133036",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022pb01.png",
       "dimensionsId": "dim022pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/c/cb/71236_1to1_MF_MUGSHOT_Superman_168.png/revision/latest/scale-to-width-down/75?cb=20160319133036"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim022pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2216,13 +2301,13 @@
     "voiceActor": "Katherine Waterston",
     "minifigure": {
       "legoId": "dim035",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/18/71257_1to1_MF_MUGSHOT_TinaGoldstein_01_336.png/revision/latest/scale-to-width-down/75?cb=20161119102005",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim035.png",
       "dimensionsId": "dim035",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/1/18/71257_1to1_MF_MUGSHOT_TinaGoldstein_01_336.png/revision/latest/scale-to-width-down/75?cb=20161119102005"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim035.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2241,20 +2326,23 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Big Transform",
       "BigTransform",
+      "Master Build",
+      "Rainbow LEGO Objects",
       "RainbowLEGOObjects",
       "SuperStrength"
     ],
     "voiceActor": "Alison Brie",
     "minifigure": {
       "legoId": "dim010",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/7/79/UnikittyHomepageNew.png/revision/latest/scale-to-width-down/75?cb=20170219124153",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim010.png",
       "dimensionsId": "dim010",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/7/79/UnikittyHomepageNew.png/revision/latest/scale-to-width-down/75?cb=20170219124153"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim010.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2274,22 +2362,26 @@
     },
     "abilities": [
       "Flight",
+      "Flying",
       "Illumination",
       "Magic",
+      "Magical Shield",
       "MagicalShield",
+      "Mind Control",
       "MindControl",
+      "Silver LEGO Blowup",
       "SilverLEGODestruction"
     ],
     "voiceActor": "Courtenay Taylor",
     "minifigure": {
       "legoId": "dim011",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/ed/71221_1to1_MF_MUGSHOT_WickedWitch_168.png/revision/latest/scale-to-width-down/75?cb=20150926103940",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011.png",
       "dimensionsId": "dim011",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/e/ed/71221_1to1_MF_MUGSHOT_WickedWitch_168.png/revision/latest/scale-to-width-down/75?cb=20150926103940"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim011.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2320,13 +2412,13 @@
     "voiceActor": "Laura Bailey",
     "minifigure": {
       "legoId": "dim006pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/4d/71209_1to1_MF_MUGSHOT_Wonder_Woman_168.png/revision/latest/scale-to-width-down/75?cb=20150926104018",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png",
       "dimensionsId": "dim006pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/4/4d/71209_1to1_MF_MUGSHOT_Wonder_Woman_168.png/revision/latest/scale-to-width-down/75?cb=20150926104018"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2347,19 +2439,22 @@
     "abilities": [
       "Acrobat",
       "Boomerang",
+      "Dive",
+      "Spinjitzu",
       "Stealth",
+      "X-Ray Vision",
       "XRayVision"
     ],
     "voiceActor": "Brent Miller",
     "minifigure": {
       "legoId": "dim014pb01",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71217_1to1_MF_MUGSHOT_Zane_168.png/revision/latest/scale-to-width-down/75?cb=20150926104031",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014pb01.png",
       "dimensionsId": "dim014pb01",
       "bricklinkId": "unknown",
       "imageUrls": [
         {
-          "type": "fandom",
-          "url": "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71217_1to1_MF_MUGSHOT_Zane_168.png/revision/latest/scale-to-width-down/75?cb=20150926104031"
+          "url": "https://img.bricklink.com/ItemImage/MN/0/dim014pb01.png",
+          "type": "minifig"
         }
       ]
     },
@@ -2373,7 +2468,7 @@
     "pack": {
       "type": "unknown",
       "name": "Green Arrow Polybag",
-      "releaseWave": "unknown",
+      "releaseWave": null,
       "setNumber": "71342",
       "releaseDate": "2016"
     },
@@ -2385,11 +2480,16 @@
     ],
     "voiceActor": "unknown",
     "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": null,
+      "legoId": null,
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/sh0153.png",
       "dimensionsId": "unknown",
       "bricklinkId": "sh0153",
-      "imageUrls": []
+      "imageUrls": [
+        {
+          "url": "https://img.bricklink.com/ItemImage/MN/0/sh0153.png",
+          "type": "minifig"
+        }
+      ]
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -2401,7 +2501,7 @@
     "pack": {
       "type": "unknown",
       "name": "unknown",
-      "releaseWave": "unknown",
+      "releaseWave": null,
       "setNumber": "71340",
       "releaseDate": "unknown"
     },
@@ -2409,6 +2509,7 @@
       "Dig",
       "Dive",
       "Flight",
+      "Flying",
       "Grapple",
       "Invulnerability",
       "LEGOConstructs",
@@ -2418,8 +2519,8 @@
     ],
     "voiceActor": "unknown",
     "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": null,
+      "legoId": null,
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
       "imageUrls": []
