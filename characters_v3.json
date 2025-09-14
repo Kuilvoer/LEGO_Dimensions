@@ -1,0 +1,1965 @@
+[
+  {
+    "name": "Abby Yates",
+    "franchise": "Ghostbusters (2016)",
+    "pack": {
+      "type": "Story",
+      "name": "Ghostbusters (2016) Story Pack",
+      "releaseWave": "2",
+      "setNumber": "71242",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [
+      "CharacterChanging",
+      "HazardProtection",
+      "Intelligence",
+      "Laser"
+    ],
+    "voiceActor": "Melissa McCarthy",
+    "minifigure": {
+      "legoId": "dim033",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim033.png",
+      "dimensionsId": "dim033",
+      "bricklinkId": "dim033",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim033.png",
+        "https://images.brickset.com/sets/images/71242-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ghostbusters (2016) Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "ACU Trooper",
+    "franchise": "Jurassic World",
+    "pack": {
+      "type": "Team",
+      "name": "Jurassic World Team Pack",
+      "releaseWave": "1",
+      "setNumber": "71205",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Electricity",
+      "Illumination"
+    ],
+    "voiceActor": "Robert Atkin Downes",
+    "minifigure": {
+      "legoId": "dim004",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004.png",
+      "dimensionsId": "dim004",
+      "bricklinkId": "dim004",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim004.png",
+        "https://images.brickset.com/sets/images/71205-1.jpg"
+      ]
+    },
+    "adventureWorld": "Jurassic World Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Aquaman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Aquaman Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71237",
+      "releaseDate": "2016-05-10"
+    },
+    "abilities": [
+      "Dive"
+    ],
+    "voiceActor": "Brian Bloom",
+    "minifigure": {
+      "legoId": "dim021",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021.png",
+      "dimensionsId": "dim021",
+      "bricklinkId": "dim021",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim021.png",
+        "https://images.brickset.com/sets/images/71237-1.jpg"
+      ]
+    },
+    "adventureWorld": "DC Comics Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "B. A. Baracus",
+    "franchise": "The A-Team",
+    "pack": {
+      "type": "Fun",
+      "name": "The A-Team Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71251",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [
+      "CharacterChanging"
+    ],
+    "voiceActor": "Dave Fennoy",
+    "minifigure": {
+      "legoId": "dim029",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim029.png",
+      "dimensionsId": "dim029",
+      "bricklinkId": "dim029",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim029.png",
+        "https://images.brickset.com/sets/images/71251-1.jpg"
+      ]
+    },
+    "adventureWorld": "The A-Team Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Bad Cop",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Bad Cop Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71213",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Target"
+    ],
+    "voiceActor": "Liam Neeson",
+    "minifigure": {
+      "legoId": "dim007",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007.png",
+      "dimensionsId": "dim007",
+      "bricklinkId": "dim007",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim007.png",
+        "https://images.brickset.com/sets/images/71213-1.jpg"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Bane",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Bane Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71240",
+      "releaseDate": "2016-03-15"
+    },
+    "abilities": [
+      "BigTransform",
+      "SuperStrength"
+    ],
+    "voiceActor": "Steve Blum",
+    "minifigure": {
+      "legoId": "dim022",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022.png",
+      "dimensionsId": "dim022",
+      "bricklinkId": "dim022",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim022.png",
+        "https://images.brickset.com/sets/images/71240-1.jpg"
+      ]
+    },
+    "adventureWorld": "DC Comics Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Bart Simpson",
+    "franchise": "The Simpsons",
+    "pack": {
+      "type": "Fun",
+      "name": "Bart Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71211",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Nancy Cartwright",
+    "minifigure": {
+      "legoId": "dim015",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015.png",
+      "dimensionsId": "dim015",
+      "bricklinkId": "dim015",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim015.png",
+        "https://images.brickset.com/sets/images/71211-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Simpsons Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Batgirl",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Story",
+      "name": "The Lego Batman Movie Story Pack",
+      "releaseWave": "2",
+      "setNumber": "71264",
+      "releaseDate": "2017-02-10"
+    },
+    "abilities": [],
+    "voiceActor": "Rosario Dawson",
+    "minifigure": {
+      "legoId": "dim044",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim044.png",
+      "dimensionsId": "dim044",
+      "bricklinkId": "dim044",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim044.png",
+        "https://images.brickset.com/sets/images/71264-1.jpg"
+      ]
+    },
+    "adventureWorld": "The LEGO Batman Movie Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Batman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Starter",
+      "name": "Starter Pack",
+      "releaseWave": "1",
+      "setNumber": "71171",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Boomerang",
+      "Grapple",
+      "Stealth"
+    ],
+    "voiceActor": "Troy Baker",
+    "minifigure": {
+      "legoId": "dim002",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim002.png",
+      "dimensionsId": "dim002",
+      "bricklinkId": "dim002",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim002.png",
+        "https://images.brickset.com/sets/images/71171-1.jpg"
+      ]
+    },
+    "adventureWorld": "DC Comics Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Beetlejuice",
+    "franchise": "Beetlejuice",
+    "pack": {
+      "type": "Fun",
+      "name": "Beetlejuice Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71349",
+      "releaseDate": "2017-09-12"
+    },
+    "abilities": [],
+    "voiceActor": "Christopher Swindle",
+    "minifigure": {
+      "legoId": "dim051",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim051.png",
+      "dimensionsId": "dim051",
+      "bricklinkId": "dim051",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim051.png",
+        "https://images.brickset.com/sets/images/71349-1.jpg"
+      ]
+    },
+    "adventureWorld": "Beetlejuice Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Benny",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Benny Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71214",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Charlie Day",
+    "minifigure": {
+      "legoId": "dim008",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008.png",
+      "dimensionsId": "dim008",
+      "bricklinkId": "dim008",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim008.png",
+        "https://images.brickset.com/sets/images/71214-1.jpg"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Blossom",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Team",
+      "name": "The Powerpuff Girls Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71346",
+      "releaseDate": "2017-09-12"
+    },
+    "abilities": [],
+    "voiceActor": "Amanda Leighton",
+    "minifigure": {
+      "legoId": "dim052",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim052.png",
+      "dimensionsId": "dim052",
+      "bricklinkId": "dim052",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim052.png",
+        "https://images.brickset.com/sets/images/71346-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Powerpuff Girls Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Bubbles",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Team",
+      "name": "The Powerpuff Girls Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71346",
+      "releaseDate": "2017-09-12"
+    },
+    "abilities": [],
+    "voiceActor": "Kristen Li",
+    "minifigure": {
+      "legoId": "dim053",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim053.png",
+      "dimensionsId": "dim053",
+      "bricklinkId": "dim053",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim053.png",
+        "https://images.brickset.com/sets/images/71346-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Powerpuff Girls Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Buttercup",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Fun",
+      "name": "The Powerpuff Girls Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71343",
+      "releaseDate": "2017-09-12"
+    },
+    "abilities": [],
+    "voiceActor": "Natalie Palamides",
+    "minifigure": {
+      "legoId": "dim054",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim054.png",
+      "dimensionsId": "dim054",
+      "bricklinkId": "dim054",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim054.png",
+        "https://images.brickset.com/sets/images/71343-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Powerpuff Girls Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Chase McCain",
+    "franchise": "LEGO City",
+    "pack": {
+      "type": "Fun",
+      "name": "Lego City Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71266",
+      "releaseDate": "2017-05-09"
+    },
+    "abilities": [],
+    "voiceActor": "Joseph May",
+    "minifigure": {
+      "legoId": "dim042",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim042.png",
+      "dimensionsId": "dim042",
+      "bricklinkId": "dim042",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim042.png",
+        "https://images.brickset.com/sets/images/71266-1.jpg"
+      ]
+    },
+    "adventureWorld": "LEGO City Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Chell",
+    "franchise": "Portal 2",
+    "pack": {
+      "type": "Level",
+      "name": "Portal 2 Level Pack",
+      "releaseWave": "1",
+      "setNumber": "71203",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Acrobat",
+      "PortalGun"
+    ],
+    "voiceActor": "unknown",
+    "minifigure": {
+      "legoId": "dim005",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005.png",
+      "dimensionsId": "dim005",
+      "bricklinkId": "dim005",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim005.png",
+        "https://images.brickset.com/sets/images/71203-1.jpg"
+      ]
+    },
+    "adventureWorld": "Portal 2 Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Cole",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Team",
+      "name": "Lego Ninjago Team Pack",
+      "releaseWave": "1",
+      "setNumber": "71207",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Acrobat"
+    ],
+    "voiceActor": "Kirby Morrow",
+    "minifigure": {
+      "legoId": "dim013",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013.png",
+      "dimensionsId": "dim013",
+      "bricklinkId": "dim013",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim013.png",
+        "https://images.brickset.com/sets/images/71207-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ninjago Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Cragger",
+    "franchise": "Legends of Chima",
+    "pack": {
+      "type": "Fun",
+      "name": "Cragger Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71223",
+      "releaseDate": "2015-11-03"
+    },
+    "abilities": [],
+    "voiceActor": "David Attar",
+    "minifigure": {
+      "legoId": "dim018",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim018.png",
+      "dimensionsId": "dim018",
+      "bricklinkId": "dim018",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim018.png",
+        "https://images.brickset.com/sets/images/71223-1.jpg"
+      ]
+    },
+    "adventureWorld": "Legends of Chima Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Cyberman",
+    "franchise": "Doctor Who",
+    "pack": {
+      "type": "Fun",
+      "name": "Cyberman Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71238",
+      "releaseDate": "2016-05-10"
+    },
+    "abilities": [
+      "Dive",
+      "Laser"
+    ],
+    "voiceActor": "Nicholas Briggs",
+    "minifigure": {
+      "legoId": "dim030",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim030.png",
+      "dimensionsId": "dim030",
+      "bricklinkId": "dim030",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim030.png",
+        "https://images.brickset.com/sets/images/71238-1.jpg"
+      ]
+    },
+    "adventureWorld": "Doctor Who Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Data",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": "Level",
+      "name": "The Goonies Level Pack",
+      "releaseWave": "2",
+      "setNumber": "71267",
+      "releaseDate": "2017-05-09"
+    },
+    "abilities": [
+      "MiniAccess",
+      "RelicDetector",
+      "Technology",
+      "Tracking"
+    ],
+    "voiceActor": "Ke Huy Quan",
+    "minifigure": {
+      "legoId": "dim046",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim046.png",
+      "dimensionsId": "dim046",
+      "bricklinkId": "dim046",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim046.png",
+        "https://images.brickset.com/sets/images/71267-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Goonies Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Doc Brown",
+    "franchise": "Back to the Future",
+    "pack": {
+      "type": "Fun",
+      "name": "Doc Brown Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71230",
+      "releaseDate": "2016-01-19"
+    },
+    "abilities": [
+      "FixIt"
+    ],
+    "voiceActor": "Christopher Lloyd",
+    "minifigure": {
+      "legoId": "dim024",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
+      "dimensionsId": "dim024",
+      "bricklinkId": "dim024",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
+        "https://images.brickset.com/sets/images/71230-1.jpg"
+      ]
+    },
+    "adventureWorld": "Back to the Future Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "E.T.",
+    "franchise": "E.T.",
+    "pack": {
+      "type": "Fun",
+      "name": "E.T. Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71258",
+      "releaseDate": "2016-11-18"
+    },
+    "abilities": [
+      "Flight",
+      "Magic",
+      "Stealth"
+    ],
+    "voiceActor": "James Taylor",
+    "minifigure": {
+      "legoId": "dim049",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim049.png",
+      "dimensionsId": "dim049",
+      "bricklinkId": "dim049",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim049.png",
+        "https://images.brickset.com/sets/images/71258-1.jpg"
+      ]
+    },
+    "adventureWorld": "E.T. Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Emmet",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Emmet Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71212",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "FixIt"
+    ],
+    "voiceActor": "Chris Pratt",
+    "minifigure": {
+      "legoId": "dim009",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009.png",
+      "dimensionsId": "dim009",
+      "bricklinkId": "dim009",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim009.png",
+        "https://images.brickset.com/sets/images/71212-1.jpg"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Eris",
+    "franchise": "Legends of Chima",
+    "pack": {
+      "type": "Fun",
+      "name": "Eris Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71232",
+      "releaseDate": "2016-01-19"
+    },
+    "abilities": [],
+    "voiceActor": "Bethany Brown",
+    "minifigure": {
+      "legoId": "dim019",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
+      "dimensionsId": "dim019",
+      "bricklinkId": "dim019",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
+        "https://images.brickset.com/sets/images/71232-1.jpg"
+      ]
+    },
+    "adventureWorld": "Legends of Chima Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Ethan Hunt",
+    "franchise": "Mission: Impossible",
+    "pack": {
+      "type": "Level",
+      "name": "Mission: Impossible Level Pack",
+      "releaseWave": "2",
+      "setNumber": "71248",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [
+      "Stealth"
+    ],
+    "voiceActor": "unknown",
+    "minifigure": {
+      "legoId": "dim028",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim028.png",
+      "dimensionsId": "dim028",
+      "bricklinkId": "dim028",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim028.png",
+        "https://images.brickset.com/sets/images/71248-1.jpg"
+      ]
+    },
+    "adventureWorld": "Mission: Impossible Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Excalibur Batman",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Excalibur Batman Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71239",
+      "releaseDate": "2017-02-10"
+    },
+    "abilities": [
+      "Boomerang",
+      "Grapple",
+      "LaserDeflector",
+      "Stealth",
+      "SuperStrength",
+      "SwordSwitch"
+    ],
+    "voiceActor": "Will Arnett",
+    "minifigure": {
+      "legoId": "dim043",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim043.png",
+      "dimensionsId": "dim043",
+      "bricklinkId": "dim043",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim043.png",
+        "https://images.brickset.com/sets/images/71239-1.jpg"
+      ]
+    },
+    "adventureWorld": "The LEGO Batman Movie Adventure World",
+    "aliases": [
+      "Batman (The LEGO Batman Movie)"
+    ],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Finn the Human",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Level",
+      "name": "Adventure Time Level Pack",
+      "releaseWave": "2",
+      "setNumber": "71245",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Jeremy Shada",
+    "minifigure": {
+      "legoId": "dim026",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim026.png",
+      "dimensionsId": "dim026",
+      "bricklinkId": "dim026",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim026.png",
+        "https://images.brickset.com/sets/images/71245-1.jpg"
+      ]
+    },
+    "adventureWorld": "Adventure Time Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Gamer Kid",
+    "franchise": "Midway Arcade",
+    "pack": {
+      "type": "Level",
+      "name": "Midway Arcade Level Pack",
+      "releaseWave": "1",
+      "setNumber": "71235",
+      "releaseDate": "2016-03-15"
+    },
+    "abilities": [
+      "Invulnerability",
+      "Laser",
+      "Speed",
+      "SuperStrength"
+    ],
+    "voiceActor": "Josh Keaton",
+    "minifigure": {
+      "legoId": "dim025",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim025.png",
+      "dimensionsId": "dim025",
+      "bricklinkId": "dim025",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim025.png",
+        "https://images.brickset.com/sets/images/71235-1.jpg"
+      ]
+    },
+    "adventureWorld": "Midway Arcade Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Gandalf the Grey",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Starter",
+      "name": "Starter Pack",
+      "releaseWave": "1",
+      "setNumber": "71171",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Magic"
+    ],
+    "voiceActor": "Tom Kane",
+    "minifigure": {
+      "legoId": "dim001",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim001.png",
+      "dimensionsId": "dim001",
+      "bricklinkId": "dim001",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim001.png",
+        "https://images.brickset.com/sets/images/71171-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Lord of the Rings Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Gimli",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Gimli Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71220",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "John Rhys-Davies",
+    "minifigure": {
+      "legoId": "dim014",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014.png",
+      "dimensionsId": "dim014",
+      "bricklinkId": "dim014",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim014.png",
+        "https://images.brickset.com/sets/images/71220-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Lord of the Rings Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Gizmo",
+    "franchise": "Gremlins",
+    "pack": {
+      "type": "Team",
+      "name": "Gremlins Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71256",
+      "releaseDate": "2016-11-18"
+    },
+    "abilities": [],
+    "voiceActor": "Howie Mandel",
+    "minifigure": {
+      "legoId": "dim036",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim036.png",
+      "dimensionsId": "dim036",
+      "bricklinkId": "dim036",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim036.png",
+        "https://images.brickset.com/sets/images/71256-1.jpg"
+      ]
+    },
+    "adventureWorld": "Gremlins Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Gollum",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Gollum Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71218",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Acrobat",
+      "Boomerang"
+    ],
+    "voiceActor": "Liam O'Brien",
+    "minifigure": {
+      "legoId": "dim012",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012.png",
+      "dimensionsId": "dim012",
+      "bricklinkId": "dim012",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim012.png",
+        "https://images.brickset.com/sets/images/71218-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Lord of the Rings Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Green Arrow",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Promotional",
+      "name": "Green Arrow Polybag",
+      "releaseWave": "1",
+      "setNumber": "71342",
+      "releaseDate": "2016-06-01"
+    },
+    "abilities": [
+      "Acrobat",
+      "Grapple",
+      "Target"
+    ],
+    "voiceActor": "Stephen Amell",
+    "minifigure": {
+      "legoId": "dim037",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim037.png",
+      "dimensionsId": "dim037",
+      "bricklinkId": "dim037",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim037.png"
+      ]
+    },
+    "adventureWorld": "DC Comics Adventure World",
+    "aliases": [],
+    "availabilityStatus": "released"
+  },
+  {
+    "name": "Harley Quinn",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Team",
+      "name": "DC Comics Team Pack",
+      "releaseWave": "1",
+      "setNumber": "71229",
+      "releaseDate": "2016-01-19"
+    },
+    "abilities": [],
+    "voiceActor": "Tara Strong",
+    "minifigure": {
+      "legoId": "dim020",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020.png",
+      "dimensionsId": "dim020",
+      "bricklinkId": "dim020",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim020.png",
+        "https://images.brickset.com/sets/images/71229-1.jpg"
+      ]
+    },
+    "adventureWorld": "DC Comics Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Harry Potter",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Team",
+      "name": "Harry Potter Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71247",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [
+      "Magic"
+    ],
+    "voiceActor": "Daniel Radcliffe",
+    "minifigure": {
+      "legoId": "dim031",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim031.png",
+      "dimensionsId": "dim031",
+      "bricklinkId": "dim031",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim031.png",
+        "https://images.brickset.com/sets/images/71247-1.jpg"
+      ]
+    },
+    "adventureWorld": "Harry Potter Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Hermione Granger",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Fun",
+      "name": "Hermione Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71243",
+      "releaseDate": "2017-05-09"
+    },
+    "abilities": [
+      "Magic"
+    ],
+    "voiceActor": "Emma Watson",
+    "minifigure": {
+      "legoId": "dim033pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim033pb01.png",
+      "dimensionsId": "dim033",
+      "bricklinkId": "dim033pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim033pb01.png",
+        "https://images.brickset.com/sets/images/71243-1.jpg"
+      ]
+    },
+    "adventureWorld": "Harry Potter Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Homer Simpson",
+    "franchise": "The Simpsons",
+    "pack": {
+      "type": "Level",
+      "name": "The Simpsons Level Pack",
+      "releaseWave": "1",
+      "setNumber": "71202",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Dan Castellaneta",
+    "minifigure": {
+      "legoId": "dim009pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009pb01.png",
+      "dimensionsId": "dim009",
+      "bricklinkId": "dim009pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim009pb01.png",
+        "https://images.brickset.com/sets/images/71202-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Simpsons Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Jake the Dog",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Team",
+      "name": "Adventure Time Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71246",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "John DiMaggio",
+    "minifigure": {
+      "legoId": "dim027",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim027.png",
+      "dimensionsId": "dim027",
+      "bricklinkId": "dim027",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim027.png",
+        "https://images.brickset.com/sets/images/71246-1.jpg"
+      ]
+    },
+    "adventureWorld": "Adventure Time Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Jay",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Jay Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71215",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Acrobat"
+    ],
+    "voiceActor": "Michael Adamthwaite",
+    "minifigure": {
+      "legoId": "dim017",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017.png",
+      "dimensionsId": "dim017",
+      "bricklinkId": "dim017pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim017.png",
+        "https://images.brickset.com/sets/images/71215-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ninjago Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Joel (Lumpy Space Princess)",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Team",
+      "name": "Adventure Time Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71246",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Pendleton Ward",
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null,
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "unknown"
+      ]
+    },
+    "adventureWorld": "Adventure Time Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Legolas",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Legolas Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71219",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Acrobat",
+      "Target"
+    ],
+    "voiceActor": "Orlando Bloom",
+    "minifigure": {
+      "legoId": "dim011",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011.png",
+      "dimensionsId": "dim011",
+      "bricklinkId": "dim011",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim011.png",
+        "https://images.brickset.com/sets/images/71219-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Lord of the Rings Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Lloyd",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Lloyd Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71239",
+      "releaseDate": "2016-01-19"
+    },
+    "abilities": [
+      "Stealth"
+    ],
+    "voiceActor": "Jill Talley",
+    "minifigure": {
+      "legoId": "dim040",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim040.png",
+      "dimensionsId": "dim040",
+      "bricklinkId": "dim040",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim040.png",
+        "https://images.brickset.com/sets/images/71239-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ninjago Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Lord Voldemort",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Team",
+      "name": "Harry Potter Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71247",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [
+      "Magic"
+    ],
+    "voiceActor": "Ralph Fiennes",
+    "minifigure": {
+      "legoId": "dim032",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim032.png",
+      "dimensionsId": "dim032",
+      "bricklinkId": "dim032",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim032.png",
+        "https://images.brickset.com/sets/images/71247-1.jpg"
+      ]
+    },
+    "adventureWorld": "Harry Potter Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Lumpy Space Princess",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Team",
+      "name": "Adventure Time Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71246",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Pendleton Ward",
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null,
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "unknown"
+      ]
+    },
+    "adventureWorld": "Adventure Time Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Marceline the Vampire Queen",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Fun",
+      "name": "Adventure Time Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71285",
+      "releaseDate": "2017-02-10"
+    },
+    "abilities": [],
+    "voiceActor": "Olivia Olson",
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null,
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "unknown"
+      ]
+    },
+    "adventureWorld": "Adventure Time Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Marty McFly",
+    "franchise": "Back to the Future",
+    "pack": {
+      "type": "Level",
+      "name": "Back to the Future Level Pack",
+      "releaseWave": "1",
+      "setNumber": "71201",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Michael J. Fox",
+    "minifigure": {
+      "legoId": "dim004pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004pb01.png",
+      "dimensionsId": "dim004",
+      "bricklinkId": "dim004pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim004pb01.png",
+        "https://images.brickset.com/sets/images/71201-1.jpg"
+      ]
+    },
+    "adventureWorld": "Back to the Future Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Michael Knight",
+    "franchise": "Knight Rider",
+    "pack": {
+      "type": "Fun",
+      "name": "Knight Rider Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71286",
+      "releaseDate": "2017-02-10"
+    },
+    "abilities": [],
+    "voiceActor": "Nick Offerman",
+    "minifigure": {
+      "legoId": "dim045",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim045.png",
+      "dimensionsId": "dim045",
+      "bricklinkId": "dim045",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim045.png",
+        "https://images.brickset.com/sets/images/71286-1.jpg"
+      ]
+    },
+    "adventureWorld": "Knight Rider Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Newt Scamander",
+    "franchise": "Fantastic Beasts",
+    "pack": {
+      "type": "Story",
+      "name": "Fantastic Beasts Story Pack",
+      "releaseWave": "2",
+      "setNumber": "71253",
+      "releaseDate": "2016-11-18"
+    },
+    "abilities": [
+      "Magic"
+    ],
+    "voiceActor": "Eddie Redmayne",
+    "minifigure": {
+      "legoId": "dim034",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim034.png",
+      "dimensionsId": "dim034",
+      "bricklinkId": "dim034",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim034.png",
+        "https://images.brickset.com/sets/images/71253-1.jpg"
+      ]
+    },
+    "adventureWorld": "Fantastic Beasts Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Nya",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Nya Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71216",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Acrobat"
+    ],
+    "voiceActor": "Kelly Metzger",
+    "minifigure": {
+      "legoId": "dim016pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016pb01.png",
+      "dimensionsId": "dim016",
+      "bricklinkId": "dim016pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim016pb01.png",
+        "https://images.brickset.com/sets/images/71216-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ninjago Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Owen Grady",
+    "franchise": "Jurassic World",
+    "pack": {
+      "type": "Team",
+      "name": "Jurassic World Team Pack",
+      "releaseWave": "1",
+      "setNumber": "71205",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Chris Pratt",
+    "minifigure": {
+      "legoId": "dim005pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005pb01.png",
+      "dimensionsId": "dim005",
+      "bricklinkId": "dim005pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim005pb01.png",
+        "https://images.brickset.com/sets/images/71205-1.jpg"
+      ]
+    },
+    "adventureWorld": "Jurassic World Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Peter Venkman",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Level",
+      "name": "Ghostbusters Level Pack",
+      "releaseWave": "1",
+      "setNumber": "71228",
+      "releaseDate": "2016-01-19"
+    },
+    "abilities": [],
+    "voiceActor": "Bill Murray",
+    "minifigure": {
+      "legoId": "dim019pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019pb01.png",
+      "dimensionsId": "dim019",
+      "bricklinkId": "dim019pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim019pb01.png",
+        "https://images.brickset.com/sets/images/71228-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ghostbusters Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Raven",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": "Team",
+      "name": "Teen Titans Go! Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71255",
+      "releaseDate": "2017-09-12"
+    },
+    "abilities": [],
+    "voiceActor": "Tara Strong",
+    "minifigure": {
+      "legoId": "dim048",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim048.png",
+      "dimensionsId": "dim048",
+      "bricklinkId": "dim048",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim048.png",
+        "https://images.brickset.com/sets/images/71255-1.jpg"
+      ]
+    },
+    "adventureWorld": "Teen Titans Go! Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Robin (LBM)",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Story",
+      "name": "The Lego Batman Movie Story Pack",
+      "releaseWave": "2",
+      "setNumber": "71264",
+      "releaseDate": "2017-02-10"
+    },
+    "abilities": [],
+    "voiceActor": "Michael Cera",
+    "minifigure": {
+      "legoId": "dim041",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim041.png",
+      "dimensionsId": "dim041",
+      "bricklinkId": "dim041",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim041.png",
+        "https://images.brickset.com/sets/images/71264-1.jpg"
+      ]
+    },
+    "adventureWorld": "The LEGO Batman Movie Adventure World",
+    "aliases": [
+      "Robin (The LEGO Batman Movie)"
+    ],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Scooby-Doo",
+    "franchise": "Scooby-Doo",
+    "pack": {
+      "type": "Team",
+      "name": "Scooby-Doo Team Pack",
+      "releaseWave": "1",
+      "setNumber": "71206",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Frank Welker",
+    "minifigure": {
+      "legoId": "dim007pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007pb01.png",
+      "dimensionsId": "dim007",
+      "bricklinkId": "dim007pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim007pb01.png",
+        "https://images.brickset.com/sets/images/71206-1.jpg"
+      ]
+    },
+    "adventureWorld": "Scooby-Doo Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Sensei Wu",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Sensei Wu Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71234",
+      "releaseDate": "2016-01-19"
+    },
+    "abilities": [
+      "Acrobat"
+    ],
+    "voiceActor": "Paul Dobson",
+    "minifigure": {
+      "legoId": "dim015pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015pb01.png",
+      "dimensionsId": "dim015",
+      "bricklinkId": "dim015pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim015pb01.png",
+        "https://images.brickset.com/sets/images/71234-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ninjago Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Shaggy",
+    "franchise": "Scooby-Doo",
+    "pack": {
+      "type": "Team",
+      "name": "Scooby-Doo Team Pack",
+      "releaseWave": "1",
+      "setNumber": "71206",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Matthew Lillard",
+    "minifigure": {
+      "legoId": "dim008pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008pb01.png",
+      "dimensionsId": "dim008",
+      "bricklinkId": "dim008pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim008pb01.png",
+        "https://images.brickset.com/sets/images/71206-1.jpg"
+      ]
+    },
+    "adventureWorld": "Scooby-Doo Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Slimer",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Fun",
+      "name": "Slimer Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71241",
+      "releaseDate": "2016-09-27"
+    },
+    "abilities": [
+      "Flight",
+      "HazardCleaner",
+      "HazardProtection",
+      "Illumination",
+      "Invulnerability",
+      "SonarSmash"
+    ],
+    "voiceActor": "Frank Welker",
+    "minifigure": {
+      "legoId": "dim021pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021pb01.png",
+      "dimensionsId": "dim021",
+      "bricklinkId": "dim021pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim021pb01.png",
+        "https://images.brickset.com/sets/images/71241-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ghostbusters Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Sloth",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": "Level",
+      "name": "The Goonies Level Pack",
+      "releaseWave": "2",
+      "setNumber": "71267",
+      "releaseDate": "2017-05-09"
+    },
+    "abilities": [],
+    "voiceActor": "John Matuszak",
+    "minifigure": {
+      "legoId": "dim046",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim046.png",
+      "dimensionsId": "dim046",
+      "bricklinkId": "dim046",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim046.png",
+        "https://images.brickset.com/sets/images/71267-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Goonies Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "franchise": "Sonic the Hedgehog",
+    "pack": {
+      "type": "Level",
+      "name": "Sonic the Hedgehog Level Pack",
+      "releaseWave": "2",
+      "setNumber": "71244",
+      "releaseDate": "2016-11-18"
+    },
+    "abilities": [
+      "SuperSpeed",
+      "SuperStrength"
+    ],
+    "voiceActor": "Roger Craig Smith",
+    "minifigure": {
+      "legoId": "dim039",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim039.png",
+      "dimensionsId": "dim039",
+      "bricklinkId": "dim039",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim039.png",
+        "https://images.brickset.com/sets/images/71244-1.jpg"
+      ]
+    },
+    "adventureWorld": "Sonic the Hedgehog Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Starfire",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": "Fun",
+      "name": "Teen Titans Go! Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71287",
+      "releaseDate": "2017-09-12"
+    },
+    "abilities": [],
+    "voiceActor": "Hynden Walch",
+    "minifigure": {
+      "legoId": "dim050",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim050.png",
+      "dimensionsId": "dim050",
+      "bricklinkId": "dim050",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim050.png",
+        "https://images.brickset.com/sets/images/71287-1.jpg"
+      ]
+    },
+    "adventureWorld": "Teen Titans Go! Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Stay Puft",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Fun",
+      "name": "Stay Puft Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71233",
+      "releaseDate": "2016-03-15"
+    },
+    "abilities": [
+      "BigTransform",
+      "SuperStrength"
+    ],
+    "voiceActor": "unknown",
+    "minifigure": {
+      "legoId": "dim020pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png",
+      "dimensionsId": "dim020",
+      "bricklinkId": "dim020pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png",
+        "https://images.brickset.com/sets/images/71233-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ghostbusters Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Stripe",
+    "franchise": "Gremlins",
+    "pack": {
+      "type": "Team",
+      "name": "Gremlins Team Pack",
+      "releaseWave": "2",
+      "setNumber": "71256",
+      "releaseDate": "2016-11-18"
+    },
+    "abilities": [],
+    "voiceActor": "Frank Welker",
+    "minifigure": {
+      "legoId": "dim037",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim037.png",
+      "dimensionsId": "dim037",
+      "bricklinkId": "dim037",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim037.png",
+        "https://images.brickset.com/sets/images/71256-1.jpg"
+      ]
+    },
+    "adventureWorld": "Gremlins Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Superman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Superman Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71236",
+      "releaseDate": "2016-03-15"
+    },
+    "abilities": [
+      "Dive",
+      "Flight",
+      "Invulnerability",
+      "XRayVision"
+    ],
+    "voiceActor": "Travis Willingham",
+    "minifigure": {
+      "legoId": "dim022pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022pb01.png",
+      "dimensionsId": "dim022",
+      "bricklinkId": "dim022pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim022pb01.png",
+        "https://images.brickset.com/sets/images/71236-1.jpg"
+      ]
+    },
+    "adventureWorld": "DC Comics Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "The Doctor",
+    "franchise": "Doctor Who",
+    "pack": {
+      "type": "Level",
+      "name": "Doctor Who Level Pack",
+      "releaseWave": "1",
+      "setNumber": "71204",
+      "releaseDate": "2015-11-03"
+    },
+    "abilities": [
+      "CharacterChanging",
+      "Illumination",
+      "Intelligence",
+      "MiniAccess"
+    ],
+    "voiceActor": "Peter Capaldi",
+    "minifigure": {
+      "legoId": "dim011pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png",
+      "dimensionsId": "dim011",
+      "bricklinkId": "dim011pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png",
+        "https://images.brickset.com/sets/images/71204-1.jpg"
+      ]
+    },
+    "adventureWorld": "Doctor Who Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "The Joker",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Team",
+      "name": "DC Comics Team Pack",
+      "releaseWave": "1",
+      "setNumber": "71229",
+      "releaseDate": "2016-01-19"
+    },
+    "abilities": [],
+    "voiceActor": "Christopher Corey Smith",
+    "minifigure": {
+      "legoId": "dim019",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
+      "dimensionsId": "dim019",
+      "bricklinkId": "dim019",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
+        "https://images.brickset.com/sets/images/71229-1.jpg"
+      ]
+    },
+    "adventureWorld": "DC Comics Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Tina Goldstein",
+    "franchise": "Fantastic Beasts",
+    "pack": {
+      "type": "Fun",
+      "name": "Tina Goldstein Fun Pack",
+      "releaseWave": "2",
+      "setNumber": "71257",
+      "releaseDate": "2016-11-18"
+    },
+    "abilities": [
+      "Magic",
+      "SilverLEGODestruction"
+    ],
+    "voiceActor": "Katherine Waterston",
+    "minifigure": {
+      "legoId": "dim035",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim035.png",
+      "dimensionsId": "dim035",
+      "bricklinkId": "dim035",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim035.png",
+        "https://images.brickset.com/sets/images/71257-1.jpg"
+      ]
+    },
+    "adventureWorld": "Fantastic Beasts Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Unikitty",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Unikitty Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71231",
+      "releaseDate": "2016-01-19"
+    },
+    "abilities": [],
+    "voiceActor": "Alison Brie",
+    "minifigure": {
+      "legoId": "dim010",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim010.png",
+      "dimensionsId": "dim010",
+      "bricklinkId": "dim010",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim010.png",
+        "https://images.brickset.com/sets/images/71231-1.jpg"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Wicked Witch of the West",
+    "franchise": "The Wizard of Oz",
+    "pack": {
+      "type": "Fun",
+      "name": "Wicked Witch Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71221",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Courtenay Taylor",
+    "minifigure": {
+      "legoId": "dim011",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011.png",
+      "dimensionsId": "dim011",
+      "bricklinkId": "dim011",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim011.png",
+        "https://images.brickset.com/sets/images/71221-1.jpg"
+      ]
+    },
+    "adventureWorld": "The Wizard of Oz Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Wonder Woman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Wonder Woman Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71209",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [],
+    "voiceActor": "Laura Bailey",
+    "minifigure": {
+      "legoId": "dim006pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png",
+      "dimensionsId": "dim006",
+      "bricklinkId": "dim006pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png",
+        "https://images.brickset.com/sets/images/71209-1.jpg"
+      ]
+    },
+    "adventureWorld": "DC Comics Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Wyldstyle",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Starter",
+      "name": "Starter Pack",
+      "releaseWave": "1",
+      "setNumber": "71171",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Acrobat"
+    ],
+    "voiceActor": "Elizabeth Banks",
+    "minifigure": {
+      "legoId": "dim003",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim003.png",
+      "dimensionsId": "dim003",
+      "bricklinkId": "dim003",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim003.png",
+        "https://images.brickset.com/sets/images/71171-1.jpg"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  },
+  {
+    "name": "Zane",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Zane Fun Pack",
+      "releaseWave": "1",
+      "setNumber": "71217",
+      "releaseDate": "2015-09-27"
+    },
+    "abilities": [
+      "Acrobat",
+      "Boomerang",
+      "Stealth",
+      "XRayVision"
+    ],
+    "voiceActor": "Brent Miller",
+    "minifigure": {
+      "legoId": "dim006pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png",
+      "dimensionsId": "dim006",
+      "bricklinkId": "dim006pb01",
+      "imageUrls": [
+        "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png",
+        "https://images.brickset.com/sets/images/71217-1.jpg"
+      ]
+    },
+    "adventureWorld": "Ninjago Adventure World",
+    "aliases": [],
+    "availabilityStatus": "retired"
+  }
+]
