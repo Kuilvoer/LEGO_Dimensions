@@ -6,12 +6,12 @@
       "type": "Starter",
       "name": "Starter Pack",
       "releaseWave": 1,
-      "setNumber": "71200",
-      "releaseDate": "2015"
+      "setNumber": "unknown",
+      "releaseDate": "unknown"
     },
     "abilities": [
-      "Boomerang",
       "Grapple",
+      "Boomerang",
       "Stealth"
     ],
     "voiceActor": "Troy Baker",
@@ -19,7 +19,7 @@
       "legoId": "dim002",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim002.png",
       "dimensionsId": "dim002",
-      "bricklinkId": "dim002",
+      "bricklinkId": "unknown",
       "imageUrls": [
         {
           "url": "https://img.bricklink.com/ItemImage/MN/0/dim002.png",
@@ -27,7 +27,7 @@
         }
       ]
     },
-    "adventureWorld": "DC Comics",
+    "adventureWorld": "unknown",
     "aliases": [],
     "availabilityStatus": "unknown"
   },
@@ -38,21 +38,20 @@
       "type": "Starter",
       "name": "Starter Pack",
       "releaseWave": 1,
-      "setNumber": "71200",
-      "releaseDate": "2015"
+      "setNumber": "unknown",
+      "releaseDate": "unknown"
     },
     "abilities": [
-      "Illumination",
+      "MagicalShield",
       "Magic",
-      "Magic Shield",
-      "MagicalShield"
+      "Illumination"
     ],
     "voiceActor": "Tom Kane",
     "minifigure": {
       "legoId": "dim001",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim001.png",
       "dimensionsId": "dim001",
-      "bricklinkId": "dim001",
+      "bricklinkId": "unknown",
       "imageUrls": [
         {
           "url": "https://img.bricklink.com/ItemImage/MN/0/dim001.png",
@@ -60,7 +59,7 @@
         }
       ]
     },
-    "adventureWorld": "The Lord of the Rings",
+    "adventureWorld": "unknown",
     "aliases": [],
     "availabilityStatus": "unknown"
   },
@@ -71,20 +70,19 @@
       "type": "Starter",
       "name": "Starter Pack",
       "releaseWave": 1,
-      "setNumber": "71200",
-      "releaseDate": "2015"
+      "setNumber": "unknown",
+      "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Master Build",
-      "RelicDetector"
+      "RelicDetector",
+      "Acrobat"
     ],
     "voiceActor": "Elizabeth Banks",
     "minifigure": {
       "legoId": "dim003",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim003.png",
       "dimensionsId": "dim003",
-      "bricklinkId": "tlm099",
+      "bricklinkId": "unknown",
       "imageUrls": [
         {
           "url": "https://img.bricklink.com/ItemImage/MN/0/dim003.png",
@@ -92,7 +90,7 @@
         }
       ]
     },
-    "adventureWorld": "The LEGO Movie",
+    "adventureWorld": "unknown",
     "aliases": [],
     "availabilityStatus": "unknown"
   },
@@ -107,10 +105,10 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "CharacterChanging",
       "HazardProtection",
-      "Intelligence",
-      "Laser"
+      "CharacterChanging",
+      "Laser",
+      "Intelligence"
     ],
     "voiceActor": "Melissa McCarthy",
     "minifigure": {
@@ -171,8 +169,8 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Dive",
       "Growth",
+      "Dive",
       "WaterSpray"
     ],
     "voiceActor": "Brian Bloom",
@@ -194,27 +192,24 @@
   },
   {
     "name": "B.A. Baracus",
-    "franchise": "The A-Team",
+    "franchise": "unknown",
     "pack": {
       "type": "unknown",
-      "name": "A-Team Fun Pack",
-      "releaseWave": 6,
-      "setNumber": "71251",
-      "releaseDate": "2016"
+      "name": "unknown",
+      "releaseWave": null,
+      "setNumber": "unknown",
+      "releaseDate": "unknown"
     },
-    "abilities": [
-      "A-Team Master Build (Uniek)",
-      "SuperStrength"
-    ],
+    "abilities": [],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
       "imageUrl": null,
       "dimensionsId": "unknown",
-      "bricklinkId": "dim024",
+      "bricklinkId": "unknown",
       "imageUrls": []
     },
-    "adventureWorld": "The A-Team",
+    "adventureWorld": "unknown",
     "aliases": [],
     "availabilityStatus": "unknown"
   },
@@ -337,28 +332,24 @@
   },
   {
     "name": "Beast Boy",
-    "franchise": "Teen Titans Go!",
+    "franchise": "unknown",
     "pack": {
       "type": "unknown",
-      "name": "Teen Titans Go! Team Pack",
-      "releaseWave": 9,
-      "setNumber": "71255",
-      "releaseDate": "2017"
+      "name": "unknown",
+      "releaseWave": null,
+      "setNumber": "unknown",
+      "releaseDate": "unknown"
     },
-    "abilities": [
-      "Dive",
-      "Mini Access)",
-      "Transformation (Flight"
-    ],
+    "abilities": [],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
       "imageUrl": null,
       "dimensionsId": "unknown",
-      "bricklinkId": "dim049",
+      "bricklinkId": "unknown",
       "imageUrls": []
     },
-    "adventureWorld": "Teen Titans Go!",
+    "adventureWorld": "unknown",
     "aliases": [],
     "availabilityStatus": "unknown"
   },
@@ -406,11 +397,11 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Glide",
       "Hacking",
       "SonarSmash",
       "Target",
-      "Technology"
+      "Technology",
+      "Glide"
     ],
     "voiceActor": "Charlie Day",
     "minifigure": {
@@ -471,8 +462,8 @@
       "Flight",
       "HeartRegeneration",
       "Laser",
-      "RainbowLEGOObjects",
-      "SuperStrength"
+      "SuperStrength",
+      "RainbowLEGOObjects"
     ],
     "voiceActor": "Kristen Li",
     "minifigure": {
@@ -530,14 +521,14 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Glide",
       "Grapple",
+      "Acrobat",
       "Hacking",
       "RelicDetector",
       "Target",
-      "Tracking",
-      "WaterSpray"
+      "WaterSpray",
+      "Glide",
+      "Tracking"
     ],
     "voiceActor": "Joseph May",
     "minifigure": {
@@ -564,11 +555,10 @@
       "name": "Portal 2 Level Pack",
       "releaseWave": 1,
       "setNumber": "71203",
-      "releaseDate": "2015"
+      "releaseDate": "unknown"
     },
     "abilities": [
       "Acrobat",
-      "Portal Gun (Uniek)",
       "PortalGun"
     ],
     "voiceActor": "unknown",
@@ -576,7 +566,7 @@
       "legoId": "dim005",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005.png",
       "dimensionsId": "dim005",
-      "bricklinkId": "dim006",
+      "bricklinkId": "unknown",
       "imageUrls": [
         {
           "url": "https://img.bricklink.com/ItemImage/MN/0/dim005.png",
@@ -584,7 +574,7 @@
         }
       ]
     },
-    "adventureWorld": "Portal 2",
+    "adventureWorld": "unknown",
     "aliases": [],
     "availabilityStatus": "unknown"
   },
@@ -657,10 +647,10 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Dive",
+      "XRayVision",
       "Laser",
-      "SilverLEGODestruction",
-      "XRayVision"
+      "Dive",
+      "SilverLEGODestruction"
     ],
     "voiceActor": "Nicholas Briggs",
     "minifigure": {
@@ -691,9 +681,9 @@
     },
     "abilities": [
       "BigTransform",
-      "SuperStrength",
+      "Technology",
       "Target",
-      "Technology"
+      "SuperStrength"
     ],
     "voiceActor": "Bumper Robinson",
     "minifigure": {
@@ -725,8 +715,8 @@
     "abilities": [
       "FixIt",
       "Hacking",
-      "Intelligence",
-      "Technology"
+      "Technology",
+      "Intelligence"
     ],
     "voiceActor": "Christopher Lloyd",
     "minifigure": {
@@ -751,19 +741,18 @@
     "pack": {
       "type": "Level",
       "name": "Doctor Who Level Pack",
-      "releaseWave": 2,
+      "releaseWave": 1,
       "setNumber": "71204",
-      "releaseDate": "2015"
+      "releaseDate": "unknown"
     },
     "abilities": [
+      "MiniAccess",
       "CharacterChanging",
-      "FixIt",
       "Hacking",
+      "SonarSmash",
       "Illumination",
       "Intelligence",
-      "MiniAccess",
-      "SonarSmash",
-      "TARDIS Travel (Uniek)",
+      "FixIt",
       "Technology"
     ],
     "voiceActor": "Peter Capaldi",
@@ -771,7 +760,7 @@
       "legoId": "dim011pb01",
       "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png",
       "dimensionsId": "dim011pb01",
-      "bricklinkId": "dim009",
+      "bricklinkId": "unknown",
       "imageUrls": [
         {
           "url": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png",
@@ -779,7 +768,7 @@
         }
       ]
     },
-    "adventureWorld": "Doctor Who",
+    "adventureWorld": "unknown",
     "aliases": [],
     "availabilityStatus": "unknown"
   },
@@ -824,8 +813,8 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Flight",
-      "SuperStrength"
+      "SuperStrength",
+      "Flight"
     ],
     "voiceActor": "Bethany Brown",
     "minifigure": {
@@ -883,11 +872,11 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Dive",
       "Grapple",
+      "Acrobat",
       "Stealth",
-      "Technology"
+      "Technology",
+      "Dive"
     ],
     "voiceActor": "unknown",
     "minifigure": {
@@ -917,12 +906,12 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Boomerang",
       "Grapple",
       "LaserDeflector",
+      "Boomerang",
       "Stealth",
-      "SuperStrength",
-      "SwordSwitch"
+      "SwordSwitch",
+      "SuperStrength"
     ],
     "voiceActor": "Will Arnett",
     "minifigure": {
@@ -984,9 +973,9 @@
     "abilities": [
       "Invulnerability",
       "Laser",
-      "Speed",
       "Stealth",
-      "SuperStrength"
+      "SuperStrength",
+      "Speed"
     ],
     "voiceActor": "Josh Keaton",
     "minifigure": {
@@ -1076,10 +1065,10 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
       "Boomerang",
-      "Dive",
-      "Magic"
+      "Acrobat",
+      "Magic",
+      "Dive"
     ],
     "voiceActor": "Liam O'Brien",
     "minifigure": {
@@ -1140,15 +1129,15 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Flight",
-      "Growth",
       "HazardCleaner",
+      "Flight",
+      "MagicalShield",
+      "Magic",
       "Illumination",
       "Intelligence",
-      "Magic",
-      "MagicalShield",
       "SilverLEGODestruction",
-      "Target"
+      "Target",
+      "Growth"
     ],
     "voiceActor": "Daniel Radcliffe",
     "minifigure": {
@@ -1297,9 +1286,9 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Electricity",
+      "Target",
       "Grapple",
-      "Target"
+      "Electricity"
     ],
     "voiceActor": "Christopher Corey Smith",
     "minifigure": {
@@ -1359,9 +1348,9 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Growth",
       "HazardCleaner",
       "Target",
+      "Growth",
       "WaterSpray"
     ],
     "voiceActor": "Dan Castellaneta",
@@ -1422,10 +1411,10 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
+      "Target",
       "GrindRails",
-      "Magic",
-      "Target"
+      "Acrobat",
+      "Magic"
     ],
     "voiceActor": "Orlando Bloom",
     "minifigure": {
@@ -1485,14 +1474,14 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Flight",
-      "Growth",
       "HazardCleaner",
-      "Illumination",
-      "Magic",
+      "Flight",
       "MagicalShield",
+      "Magic",
+      "Illumination",
       "SilverLEGODestruction",
-      "Target"
+      "Target",
+      "Growth"
     ],
     "voiceActor": "Ralph Fiennes",
     "minifigure": {
@@ -1525,8 +1514,8 @@
       "Boomerang",
       "Flight",
       "HazardProtection",
-      "SlurpAccess",
-      "Target"
+      "Target",
+      "SlurpAccess"
     ],
     "voiceActor": "Pendleton Ward",
     "minifigure": {
@@ -1552,14 +1541,14 @@
     },
     "abilities": [
       "Acrobat",
-      "Flight",
-      "HeartRegeneration",
-      "MindControl",
       "MiniAccess",
-      "RopeSwing",
+      "HeartRegeneration",
+      "Flight",
+      "VineCut",
+      "MindControl",
       "Stealth",
-      "Tracking",
-      "VineCut"
+      "RopeSwing",
+      "Tracking"
     ],
     "voiceActor": "unknown",
     "minifigure": {
@@ -1612,8 +1601,8 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Technology",
       "Tracking",
+      "Technology",
       "XRayVision"
     ],
     "voiceActor": "Nick Offerman",
@@ -1644,14 +1633,14 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "CharacterChanging",
-      "FixIt",
-      "Growth",
-      "Intelligence",
       "LaserDeflector",
-      "Magic",
       "MagicalShield",
-      "Technology"
+      "CharacterChanging",
+      "Magic",
+      "Intelligence",
+      "FixIt",
+      "Technology",
+      "Growth"
     ],
     "voiceActor": "Eddie Redmayne",
     "minifigure": {
@@ -1739,8 +1728,8 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "CharacterChanging",
       "HazardProtection",
+      "CharacterChanging",
       "Laser"
     ],
     "voiceActor": "Bill Murray",
@@ -1771,9 +1760,9 @@
       "releaseDate": "unknown"
     },
     "abilities": [
+      "Magic",
       "Electricity",
       "Flight",
-      "Magic",
       "MagicalShield"
     ],
     "voiceActor": "Tara Strong",
@@ -1804,8 +1793,8 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
       "Grapple",
+      "Acrobat",
       "Stealth"
     ],
     "voiceActor": "Michael Cera",
@@ -1838,10 +1827,10 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Dive",
       "Glide",
-      "Stealth",
-      "Tracking"
+      "Tracking",
+      "Dive",
+      "Stealth"
     ],
     "voiceActor": "Frank Welker",
     "minifigure": {
@@ -1929,13 +1918,13 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Dive",
-      "Flight",
       "HazardCleaner",
-      "HazardProtection",
-      "Illumination",
       "Invulnerability",
-      "SonarSmash"
+      "Flight",
+      "HazardProtection",
+      "SonarSmash",
+      "Illumination",
+      "Dive"
     ],
     "voiceActor": "Frank Welker",
     "minifigure": {
@@ -1965,11 +1954,11 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Dive",
       "Grapple",
       "RopeSwing",
       "SuperStrength",
-      "Tracking"
+      "Tracking",
+      "Dive"
     ],
     "voiceActor": "unknown",
     "minifigure": {
@@ -1999,10 +1988,10 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Speed",
       "SuperSpeed",
-      "SuperStrength"
+      "Acrobat",
+      "SuperStrength",
+      "Speed"
     ],
     "voiceActor": "Roger Craig Smith",
     "minifigure": {
@@ -2032,10 +2021,10 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Flight",
+      "Laser",
       "HeartRegeneration",
-      "LEGOConstructs",
-      "Laser"
+      "Flight",
+      "LEGOConstructs"
     ],
     "voiceActor": "Hynden Walch",
     "minifigure": {
@@ -2126,12 +2115,12 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Dive",
-      "Flight",
       "Invulnerability",
       "Laser",
+      "Flight",
+      "XRayVision",
       "SuperStrength",
-      "XRayVision"
+      "Dive"
     ],
     "voiceActor": "Travis Willingham",
     "minifigure": {
@@ -2162,10 +2151,10 @@
     },
     "abilities": [
       "Acrobat",
-      "CharacterChanging",
       "LaserDeflector",
-      "Magic",
       "MagicalShield",
+      "CharacterChanging",
+      "Magic",
       "SilverLEGODestruction",
       "Target",
       "WaterSpray"
@@ -2199,8 +2188,8 @@
     },
     "abilities": [
       "BigTransform",
-      "RainbowLEGOObjects",
-      "SuperStrength"
+      "SuperStrength",
+      "RainbowLEGOObjects"
     ],
     "voiceActor": "Alison Brie",
     "minifigure": {
@@ -2231,10 +2220,10 @@
     },
     "abilities": [
       "Flight",
-      "Illumination",
-      "Magic",
       "MagicalShield",
+      "Magic",
       "MindControl",
+      "Illumination",
       "SilverLEGODestruction"
     ],
     "voiceActor": "Courtenay Taylor",
@@ -2267,12 +2256,12 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Boomerang",
-      "Dive",
-      "Flight",
       "Invulnerability",
-      "XRayVision"
+      "Acrobat",
+      "Flight",
+      "Boomerang",
+      "XRayVision",
+      "Dive"
     ],
     "voiceActor": "Laura Bailey",
     "minifigure": {
@@ -2304,8 +2293,8 @@
     "abilities": [
       "Acrobat",
       "Boomerang",
-      "Stealth",
-      "XRayVision"
+      "XRayVision",
+      "Stealth"
     ],
     "voiceActor": "Brent Miller",
     "minifigure": {
@@ -2326,29 +2315,28 @@
   },
   {
     "name": "Green Arrow",
-    "franchise": "DC Comics",
+    "franchise": "unknown",
     "pack": {
       "type": "unknown",
-      "name": "Green Arrow Polybag",
+      "name": "unknown",
       "releaseWave": null,
       "setNumber": "71342",
-      "releaseDate": "2016"
+      "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
+      "Target",
       "Grapple",
-      "Pole Vault",
-      "Target"
+      "Acrobat"
     ],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
       "imageUrl": null,
       "dimensionsId": "unknown",
-      "bricklinkId": "sh0153",
+      "bricklinkId": "unknown",
       "imageUrls": []
     },
-    "adventureWorld": "DC Comics",
+    "adventureWorld": "unknown",
     "aliases": [],
     "availabilityStatus": "unknown"
   },
@@ -2363,15 +2351,15 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Dig",
-      "Dive",
-      "Flight",
-      "Grapple",
       "Invulnerability",
-      "LEGOConstructs",
+      "Grapple",
       "Laser",
+      "Flight",
+      "XRayVision",
+      "LEGOConstructs",
       "SuperStrength",
-      "XRayVision"
+      "Dig",
+      "Dive"
     ],
     "voiceActor": "unknown",
     "minifigure": {
