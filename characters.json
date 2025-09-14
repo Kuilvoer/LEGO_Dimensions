@@ -5,9 +5,7 @@
     "pack": {
       "type": "Starter",
       "name": "Starter Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Boomerang",
@@ -17,19 +15,8 @@
     "voiceActor": "Troy Baker",
     "minifigure": {
       "legoId": "dim002",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim002.png",
-      "dimensionsId": "dim002",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim002.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim002.png"
+    }
   },
   {
     "name": "Gandalf the Grey",
@@ -37,9 +24,7 @@
     "pack": {
       "type": "Starter",
       "name": "Starter Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Magic"
@@ -47,19 +32,8 @@
     "voiceActor": "Tom Kane",
     "minifigure": {
       "legoId": "dim001",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim001.png",
-      "dimensionsId": "dim001",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim001.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim001.png"
+    }
   },
   {
     "name": "Wyldstyle",
@@ -67,9 +41,7 @@
     "pack": {
       "type": "Starter",
       "name": "Starter Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat"
@@ -77,19 +49,8 @@
     "voiceActor": "Elizabeth Banks",
     "minifigure": {
       "legoId": "dim003",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim003.png",
-      "dimensionsId": "dim003",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim003.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim003.png"
+    }
   },
   {
     "name": "Abby Yates",
@@ -97,27 +58,14 @@
     "pack": {
       "type": "Story",
       "name": "Ghostbusters (2016) Story Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Melissa McCarthy",
     "minifigure": {
       "legoId": "dim033",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim033.png",
-      "dimensionsId": "dim033",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim033.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim033.png"
+    }
   },
   {
     "name": "ACU Trooper",
@@ -125,9 +73,7 @@
     "pack": {
       "type": "Team",
       "name": "Jurassic World Team Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Electricity",
@@ -136,19 +82,8 @@
     "voiceActor": "Robert Atkin Downes",
     "minifigure": {
       "legoId": "dim004",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004.png",
-      "dimensionsId": "dim004",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim004.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004.png"
+    }
   },
   {
     "name": "Aquaman",
@@ -156,55 +91,29 @@
     "pack": {
       "type": "Fun",
       "name": "Aquaman Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Brian Bloom",
     "minifigure": {
       "legoId": "dim021",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021.png",
-      "dimensionsId": "dim021",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim021.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021.png"
+    }
   },
   {
-    "name": "B. A. Baracus",
-    "franchise": "The A-Team",
+    "name": "B.A. Baracus",
+    "franchise": "unknown",
     "pack": {
-      "type": "Fun",
-      "name": "The A-Team Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "type": "unknown",
+      "name": "unknown",
+      "releaseWave": null
     },
     "abilities": [],
-    "voiceActor": "Dave Fennoy",
+    "voiceActor": "unknown",
     "minifigure": {
-      "legoId": "dim029",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim029.png",
-      "dimensionsId": "dim029",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim029.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "legoId": null,
+      "imageUrl": null
+    }
   },
   {
     "name": "Bad Cop",
@@ -212,27 +121,14 @@
     "pack": {
       "type": "Fun",
       "name": "Bad Cop Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Liam Neeson",
     "minifigure": {
       "legoId": "dim007",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007.png",
-      "dimensionsId": "dim007",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim007.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007.png"
+    }
   },
   {
     "name": "Bane",
@@ -240,27 +136,14 @@
     "pack": {
       "type": "Fun",
       "name": "Bane Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Steve Blum",
     "minifigure": {
       "legoId": "dim022",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022.png",
-      "dimensionsId": "dim022",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim022.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022.png"
+    }
   },
   {
     "name": "Bart Simpson",
@@ -268,27 +151,14 @@
     "pack": {
       "type": "Fun",
       "name": "Bart Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
-    "voiceActor": "unknown",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim015",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015.png",
-      "dimensionsId": "dim015",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim015.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015.png"
+    }
   },
   {
     "name": "Batgirl",
@@ -296,27 +166,14 @@
     "pack": {
       "type": "Story",
       "name": "The LEGO Batman Movie Story Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Rosario Dawson",
     "minifigure": {
       "legoId": "dim044",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim044.png",
-      "dimensionsId": "dim044",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim044.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim044.png"
+    }
   },
   {
     "name": "Beast Boy",
@@ -324,50 +181,32 @@
     "pack": {
       "type": "unknown",
       "name": "unknown",
-      "releaseWave": null,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": null
     },
     "abilities": [],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
-      "imageUrl": null,
-      "dimensionsId": "unknown",
-      "bricklinkId": "unknown",
-      "imageUrls": []
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": null
+    }
   },
   {
-    "name": "Beetlejuice",
+    "name": "Betelgeuse",
     "franchise": "Beetlejuice",
     "pack": {
       "type": "Fun",
       "name": "Beetlejuice Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Christopher Swindle",
     "minifigure": {
       "legoId": "dim051",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim051.png",
-      "dimensionsId": "dim051",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim051.png",
-          "type": "minifig"
-        }
-      ]
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim051.png"
     },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+    "aliases": [
+      "Beetlejuice"
+    ]
   },
   {
     "name": "Benny",
@@ -375,27 +214,14 @@
     "pack": {
       "type": "Fun",
       "name": "Benny Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Charlie Day",
     "minifigure": {
       "legoId": "dim008",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008.png",
-      "dimensionsId": "dim008",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim008.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008.png"
+    }
   },
   {
     "name": "Blossom",
@@ -403,27 +229,14 @@
     "pack": {
       "type": "Team",
       "name": "The Powerpuff Girls Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Amanda Leighton",
     "minifigure": {
       "legoId": "dim052",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim052.png",
-      "dimensionsId": "dim052",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim052.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim052.png"
+    }
   },
   {
     "name": "Bubbles",
@@ -431,27 +244,14 @@
     "pack": {
       "type": "Team",
       "name": "The Powerpuff Girls Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Kristen Li",
     "minifigure": {
       "legoId": "dim053",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim053.png",
-      "dimensionsId": "dim053",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim053.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim053.png"
+    }
   },
   {
     "name": "Buttercup",
@@ -459,27 +259,14 @@
     "pack": {
       "type": "Fun",
       "name": "The Powerpuff Girls Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Natalie Palamides",
     "minifigure": {
       "legoId": "dim054",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim054.png",
-      "dimensionsId": "dim054",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim054.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim054.png"
+    }
   },
   {
     "name": "Chase McCain",
@@ -487,27 +274,14 @@
     "pack": {
       "type": "Fun",
       "name": "LEGO City Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Joseph May",
     "minifigure": {
       "legoId": "dim042",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim042.png",
-      "dimensionsId": "dim042",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim042.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim042.png"
+    }
   },
   {
     "name": "Chell",
@@ -515,30 +289,17 @@
     "pack": {
       "type": "Level",
       "name": "Portal 2 Level Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat",
       "PortalGun"
     ],
-    "voiceActor": "unknown",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim005",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005.png",
-      "dimensionsId": "dim005",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim005.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005.png"
+    }
   },
   {
     "name": "Cole",
@@ -546,9 +307,7 @@
     "pack": {
       "type": "Team",
       "name": "LEGO Ninjago Team Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat"
@@ -556,19 +315,8 @@
     "voiceActor": "Kirby Morrow",
     "minifigure": {
       "legoId": "dim013",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013.png",
-      "dimensionsId": "dim013",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim013.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013.png"
+    }
   },
   {
     "name": "Cragger",
@@ -576,27 +324,14 @@
     "pack": {
       "type": "Fun",
       "name": "Cragger Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "David Attar",
     "minifigure": {
       "legoId": "dim018",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim018.png",
-      "dimensionsId": "dim018",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim018.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim018.png"
+    }
   },
   {
     "name": "Cyberman",
@@ -604,27 +339,14 @@
     "pack": {
       "type": "Fun",
       "name": "Cyberman Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Nicholas Briggs",
     "minifigure": {
       "legoId": "dim023",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim023.png",
-      "dimensionsId": "dim023",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim023.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim023.png"
+    }
   },
   {
     "name": "Cyborg",
@@ -632,27 +354,14 @@
     "pack": {
       "type": "Fun",
       "name": "Cyborg Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Bumper Robinson",
     "minifigure": {
       "legoId": "dim006",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006.png",
-      "dimensionsId": "dim006",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim006.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006.png"
+    }
   },
   {
     "name": "Doc Brown",
@@ -660,27 +369,14 @@
     "pack": {
       "type": "Fun",
       "name": "Doc Brown Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Christopher Lloyd",
     "minifigure": {
       "legoId": "dim024",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
-      "dimensionsId": "dim024",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim024.png"
+    }
   },
   {
     "name": "The Doctor",
@@ -688,27 +384,14 @@
     "pack": {
       "type": "Level",
       "name": "Doctor Who Level Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Peter Capaldi",
     "minifigure": {
       "legoId": "dim011pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png",
-      "dimensionsId": "dim011pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png"
+    }
   },
   {
     "name": "Emmet",
@@ -716,27 +399,14 @@
     "pack": {
       "type": "Fun",
       "name": "Emmet Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Chris Pratt",
     "minifigure": {
       "legoId": "dim009",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009.png",
-      "dimensionsId": "dim009",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim009.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009.png"
+    }
   },
   {
     "name": "Eris",
@@ -744,27 +414,14 @@
     "pack": {
       "type": "Fun",
       "name": "Eris Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Bethany Brown",
     "minifigure": {
       "legoId": "dim019",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
-      "dimensionsId": "dim019",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png"
+    }
   },
   {
     "name": "E.T.",
@@ -772,27 +429,14 @@
     "pack": {
       "type": "Fun",
       "name": "E.T. Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
-    "voiceActor": "unknown",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim038",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim038.png",
-      "dimensionsId": "dim038",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim038.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim038.png"
+    }
   },
   {
     "name": "Ethan Hunt",
@@ -800,27 +444,14 @@
     "pack": {
       "type": "Level",
       "name": "Mission: Impossible Level Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
-    "voiceActor": "unknown",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim028",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim028.png",
-      "dimensionsId": "dim028",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim028.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim028.png"
+    }
   },
   {
     "name": "Excalibur Batman",
@@ -828,9 +459,7 @@
     "pack": {
       "type": "Fun",
       "name": "Excalibur Batman Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [
       "Boomerang",
@@ -840,19 +469,8 @@
     "voiceActor": "Will Arnett",
     "minifigure": {
       "legoId": "dim043",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim043.png",
-      "dimensionsId": "dim043",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim043.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim043.png"
+    }
   },
   {
     "name": "Finn the Human",
@@ -860,27 +478,14 @@
     "pack": {
       "type": "Level",
       "name": "Adventure Time Level Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Jeremy Shada",
     "minifigure": {
       "legoId": "dim026",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim026.png",
-      "dimensionsId": "dim026",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim026.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim026.png"
+    }
   },
   {
     "name": "Gamer Kid",
@@ -888,27 +493,14 @@
     "pack": {
       "type": "Level",
       "name": "Midway Arcade Level Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Josh Keaton",
     "minifigure": {
       "legoId": "dim025",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim025.png",
-      "dimensionsId": "dim025",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim025.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim025.png"
+    }
   },
   {
     "name": "Gimli",
@@ -916,27 +508,14 @@
     "pack": {
       "type": "Fun",
       "name": "Gimli Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "John Rhys-Davies",
     "minifigure": {
       "legoId": "dim014",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014.png",
-      "dimensionsId": "dim014",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim014.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014.png"
+    }
   },
   {
     "name": "Gizmo",
@@ -944,27 +523,14 @@
     "pack": {
       "type": "Team",
       "name": "Gremlins Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Howie Mandel",
     "minifigure": {
       "legoId": "dim036",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim036.png",
-      "dimensionsId": "dim036",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim036.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim036.png"
+    }
   },
   {
     "name": "Gollum",
@@ -972,9 +538,7 @@
     "pack": {
       "type": "Fun",
       "name": "Gollum Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat",
@@ -983,19 +547,8 @@
     "voiceActor": "Liam O'Brien",
     "minifigure": {
       "legoId": "dim012",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012.png",
-      "dimensionsId": "dim012",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim012.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012.png"
+    }
   },
   {
     "name": "Harley Quinn",
@@ -1003,27 +556,14 @@
     "pack": {
       "type": "Team",
       "name": "DC Comics Team Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Tara Strong",
     "minifigure": {
       "legoId": "dim020",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020.png",
-      "dimensionsId": "dim020",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim020.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020.png"
+    }
   },
   {
     "name": "Harry Potter",
@@ -1031,9 +571,7 @@
     "pack": {
       "type": "Team",
       "name": "Harry Potter Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [
       "Magic"
@@ -1041,19 +579,8 @@
     "voiceActor": "Daniel Radcliffe",
     "minifigure": {
       "legoId": "dim031",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim031.png",
-      "dimensionsId": "dim031",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim031.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim031.png"
+    }
   },
   {
     "name": "Hermione Granger",
@@ -1061,9 +588,7 @@
     "pack": {
       "type": "Fun",
       "name": "Hermione Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [
       "Magic"
@@ -1071,14 +596,8 @@
     "voiceActor": "Emma Watson",
     "minifigure": {
       "legoId": null,
-      "imageUrl": null,
-      "dimensionsId": "unknown",
-      "bricklinkId": "unknown",
-      "imageUrls": []
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": null
+    }
   },
   {
     "name": "Homer Simpson",
@@ -1086,27 +605,14 @@
     "pack": {
       "type": "Level",
       "name": "The Simpsons Level Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Dan Castellaneta",
     "minifigure": {
       "legoId": "dim009pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009pb01.png",
-      "dimensionsId": "dim009pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim009pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009pb01.png"
+    }
   },
   {
     "name": "Jake the Dog",
@@ -1114,27 +620,14 @@
     "pack": {
       "type": "Team",
       "name": "Adventure Time Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "John DiMaggio",
     "minifigure": {
       "legoId": "dim027",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim027.png",
-      "dimensionsId": "dim027",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim027.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim027.png"
+    }
   },
   {
     "name": "Jay",
@@ -1142,9 +635,7 @@
     "pack": {
       "type": "Fun",
       "name": "Jay Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat"
@@ -1152,19 +643,8 @@
     "voiceActor": "Michael Adamthwaite",
     "minifigure": {
       "legoId": "dim017",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017.png",
-      "dimensionsId": "dim017",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim017.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017.png"
+    }
   },
   {
     "name": "The Joker",
@@ -1172,27 +652,14 @@
     "pack": {
       "type": "Team",
       "name": "DC Comics Team Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Christopher Corey Smith",
     "minifigure": {
       "legoId": "dim019",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
-      "dimensionsId": "dim019",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim019.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png"
+    }
   },
   {
     "name": "Kai",
@@ -1200,9 +667,7 @@
     "pack": {
       "type": "Team",
       "name": "LEGO Ninjago Team Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat"
@@ -1210,19 +675,8 @@
     "voiceActor": "Vincent Tong",
     "minifigure": {
       "legoId": "dim012pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012pb01.png",
-      "dimensionsId": "dim012pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim012pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012pb01.png"
+    }
   },
   {
     "name": "Krusty the Clown",
@@ -1230,9 +684,7 @@
     "pack": {
       "type": "Fun",
       "name": "Krusty Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Growth",
@@ -1241,19 +693,8 @@
     "voiceActor": "Dan Castellaneta",
     "minifigure": {
       "legoId": "dim016",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016.png",
-      "dimensionsId": "dim016",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim016.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016.png"
+    }
   },
   {
     "name": "Laval",
@@ -1261,27 +702,14 @@
     "pack": {
       "type": "Fun",
       "name": "Laval Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Scott Shantz",
     "minifigure": {
       "legoId": "dim017pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017pb01.png",
-      "dimensionsId": "dim017pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim017pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017pb01.png"
+    }
   },
   {
     "name": "Legolas",
@@ -1289,9 +717,7 @@
     "pack": {
       "type": "Fun",
       "name": "Legolas Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat",
@@ -1300,19 +726,8 @@
     "voiceActor": "Orlando Bloom",
     "minifigure": {
       "legoId": "dim013pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013pb01.png",
-      "dimensionsId": "dim013pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim013pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013pb01.png"
+    }
   },
   {
     "name": "Lloyd",
@@ -1320,9 +735,7 @@
     "pack": {
       "type": "Fun",
       "name": "Lloyd Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat"
@@ -1330,19 +743,8 @@
     "voiceActor": "Jillian Michaels",
     "minifigure": {
       "legoId": "dim023pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim023pb01.png",
-      "dimensionsId": "dim023pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim023pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim023pb01.png"
+    }
   },
   {
     "name": "Lord Voldemort",
@@ -1350,9 +752,7 @@
     "pack": {
       "type": "Team",
       "name": "Harry Potter Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [
       "Magic"
@@ -1360,19 +760,8 @@
     "voiceActor": "Ralph Fiennes",
     "minifigure": {
       "legoId": "dim032",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim032.png",
-      "dimensionsId": "dim032",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim032.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim032.png"
+    }
   },
   {
     "name": "Lumpy Space Princess",
@@ -1380,22 +769,14 @@
     "pack": {
       "type": "Team",
       "name": "Adventure Time Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Pendleton Ward",
     "minifigure": {
       "legoId": null,
-      "imageUrl": null,
-      "dimensionsId": "unknown",
-      "bricklinkId": "unknown",
-      "imageUrls": []
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": null
+    }
   },
   {
     "name": "Marceline",
@@ -1403,22 +784,14 @@
     "pack": {
       "type": "unknown",
       "name": "unknown",
-      "releaseWave": null,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": null
     },
     "abilities": [],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
-      "imageUrl": null,
-      "dimensionsId": "unknown",
-      "bricklinkId": "unknown",
-      "imageUrls": []
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": null
+    }
   },
   {
     "name": "Marty McFly",
@@ -1426,27 +799,14 @@
     "pack": {
       "type": "Level",
       "name": "Back to the Future Level Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Michael J. Fox",
     "minifigure": {
       "legoId": "dim004pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004pb01.png",
-      "dimensionsId": "dim004pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim004pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004pb01.png"
+    }
   },
   {
     "name": "Michael Knight",
@@ -1454,27 +814,14 @@
     "pack": {
       "type": "Fun",
       "name": "Knight Rider Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Nick Offerman",
     "minifigure": {
       "legoId": "dim045",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim045.png",
-      "dimensionsId": "dim045",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim045.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim045.png"
+    }
   },
   {
     "name": "Newt Scamander",
@@ -1482,9 +829,7 @@
     "pack": {
       "type": "Story",
       "name": "Fantastic Beasts Story Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [
       "Magic"
@@ -1492,19 +837,8 @@
     "voiceActor": "Eddie Redmayne",
     "minifigure": {
       "legoId": "dim034",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim034.png",
-      "dimensionsId": "dim034",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim034.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim034.png"
+    }
   },
   {
     "name": "Nya",
@@ -1512,9 +846,7 @@
     "pack": {
       "type": "Fun",
       "name": "Nya Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat"
@@ -1522,19 +854,8 @@
     "voiceActor": "Kelly Metzger",
     "minifigure": {
       "legoId": "dim016pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016pb01.png",
-      "dimensionsId": "dim016pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim016pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016pb01.png"
+    }
   },
   {
     "name": "Owen Grady",
@@ -1542,27 +863,14 @@
     "pack": {
       "type": "Team",
       "name": "Jurassic World Team Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Chris Pratt",
     "minifigure": {
       "legoId": "dim005pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005pb01.png",
-      "dimensionsId": "dim005pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim005pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005pb01.png"
+    }
   },
   {
     "name": "Peter Venkman",
@@ -1570,27 +878,14 @@
     "pack": {
       "type": "Level",
       "name": "Ghostbusters Level Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Bill Murray",
     "minifigure": {
       "legoId": "dim019pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019pb01.png",
-      "dimensionsId": "dim019pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim019pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019pb01.png"
+    }
   },
   {
     "name": "Raven",
@@ -1598,55 +893,32 @@
     "pack": {
       "type": "Team",
       "name": "Teen Titans Go! Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Tara Strong",
     "minifigure": {
       "legoId": "dim048",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim048.png",
-      "dimensionsId": "dim048",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim048.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim048.png"
+    }
   },
   {
-    "name": "Robin (LBM)",
+    "name": "Robin",
     "franchise": "The LEGO Batman Movie",
     "pack": {
       "type": "Story",
       "name": "The LEGO Batman Movie Story Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Michael Cera",
     "minifigure": {
       "legoId": "dim041",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim041.png",
-      "dimensionsId": "dim041",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim041.png",
-          "type": "minifig"
-        }
-      ]
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim041.png"
     },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+    "aliases": [
+      "Robin (LBM)"
+    ]
   },
   {
     "name": "Scooby-Doo",
@@ -1654,27 +926,14 @@
     "pack": {
       "type": "Team",
       "name": "Scooby-Doo Team Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Frank Welker",
     "minifigure": {
       "legoId": "dim007pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007pb01.png",
-      "dimensionsId": "dim007pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim007pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007pb01.png"
+    }
   },
   {
     "name": "Sensei Wu",
@@ -1682,9 +941,7 @@
     "pack": {
       "type": "Fun",
       "name": "Sensei Wu Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat"
@@ -1692,19 +949,8 @@
     "voiceActor": "Paul Dobson",
     "minifigure": {
       "legoId": "dim015pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015pb01.png",
-      "dimensionsId": "dim015pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim015pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015pb01.png"
+    }
   },
   {
     "name": "Shaggy",
@@ -1712,27 +958,14 @@
     "pack": {
       "type": "Team",
       "name": "Scooby-Doo Team Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Matthew Lillard",
     "minifigure": {
       "legoId": "dim008pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008pb01.png",
-      "dimensionsId": "dim008pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim008pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008pb01.png"
+    }
   },
   {
     "name": "Slimer",
@@ -1740,27 +973,14 @@
     "pack": {
       "type": "Fun",
       "name": "Slimer Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Frank Welker",
     "minifigure": {
       "legoId": "dim021pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021pb01.png",
-      "dimensionsId": "dim021pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim021pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021pb01.png"
+    }
   },
   {
     "name": "Sloth",
@@ -1768,27 +988,14 @@
     "pack": {
       "type": "Level",
       "name": "The Goonies Level Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
-    "voiceActor": "unknown",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim046",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim046.png",
-      "dimensionsId": "dim046",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim046.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim046.png"
+    }
   },
   {
     "name": "Sonic the Hedgehog",
@@ -1796,9 +1003,7 @@
     "pack": {
       "type": "Level",
       "name": "Sonic the Hedgehog Level Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [
       "SuperSpeed"
@@ -1806,19 +1011,8 @@
     "voiceActor": "Roger Craig Smith",
     "minifigure": {
       "legoId": "dim039",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim039.png",
-      "dimensionsId": "dim039",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim039.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim039.png"
+    }
   },
   {
     "name": "Starfire",
@@ -1826,27 +1020,14 @@
     "pack": {
       "type": "Fun",
       "name": "Teen Titans Go! Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Hynden Walch",
     "minifigure": {
       "legoId": "dim050",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim050.png",
-      "dimensionsId": "dim050",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim050.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim050.png"
+    }
   },
   {
     "name": "Stay Puft",
@@ -1854,27 +1035,14 @@
     "pack": {
       "type": "Fun",
       "name": "Stay Puft Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
-    "voiceActor": "unknown",
+    "voiceActor": null,
     "minifigure": {
       "legoId": "dim020pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png",
-      "dimensionsId": "dim020pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png"
+    }
   },
   {
     "name": "Stripe",
@@ -1882,27 +1050,14 @@
     "pack": {
       "type": "Team",
       "name": "Gremlins Team Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [],
     "voiceActor": "Frank Welker",
     "minifigure": {
       "legoId": "dim037",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim037.png",
-      "dimensionsId": "dim037",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim037.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim037.png"
+    }
   },
   {
     "name": "Superman",
@@ -1910,9 +1065,7 @@
     "pack": {
       "type": "Fun",
       "name": "Superman Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Flight",
@@ -1922,19 +1075,8 @@
     "voiceActor": "Travis Willingham",
     "minifigure": {
       "legoId": "dim022pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022pb01.png",
-      "dimensionsId": "dim022pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim022pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022pb01.png"
+    }
   },
   {
     "name": "Tina Goldstein",
@@ -1942,9 +1084,7 @@
     "pack": {
       "type": "Fun",
       "name": "Tina Goldstein Fun Pack",
-      "releaseWave": 2,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 2
     },
     "abilities": [
       "Magic"
@@ -1952,19 +1092,8 @@
     "voiceActor": "Katherine Waterston",
     "minifigure": {
       "legoId": "dim035",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim035.png",
-      "dimensionsId": "dim035",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim035.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim035.png"
+    }
   },
   {
     "name": "Unikitty",
@@ -1972,55 +1101,32 @@
     "pack": {
       "type": "Fun",
       "name": "Unikitty Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Alison Brie",
     "minifigure": {
       "legoId": "dim010",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim010.png",
-      "dimensionsId": "dim010",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim010.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim010.png"
+    }
   },
   {
-    "name": "Wicked Witch of the West",
+    "name": "Wicked Witch",
     "franchise": "The Wizard of Oz",
     "pack": {
       "type": "Fun",
       "name": "Wicked Witch Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Courtenay Taylor",
     "minifigure": {
       "legoId": "dim011",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011.png",
-      "dimensionsId": "dim011",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim011.png",
-          "type": "minifig"
-        }
-      ]
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011.png"
     },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+    "aliases": [
+      "Wicked Witch of the West"
+    ]
   },
   {
     "name": "Wonder Woman",
@@ -2028,27 +1134,14 @@
     "pack": {
       "type": "Fun",
       "name": "Wonder Woman Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [],
     "voiceActor": "Laura Bailey",
     "minifigure": {
       "legoId": "dim006pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png",
-      "dimensionsId": "dim006pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png",
-          "type": "minifig"
-        }
-      ]
-    },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png"
+    }
   },
   {
     "name": "Zane",
@@ -2056,9 +1149,7 @@
     "pack": {
       "type": "Fun",
       "name": "Zane Fun Pack",
-      "releaseWave": 1,
-      "setNumber": "unknown",
-      "releaseDate": "unknown"
+      "releaseWave": 1
     },
     "abilities": [
       "Acrobat"
@@ -2066,18 +1157,37 @@
     "voiceActor": "Brent Miller",
     "minifigure": {
       "legoId": "dim014pb01",
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014pb01.png",
-      "dimensionsId": "dim014pb01",
-      "bricklinkId": "unknown",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim014pb01.png",
-          "type": "minifig"
-        }
-      ]
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014pb01.png"
+    }
+  },
+  {
+    "name": "Green Arrow",
+    "franchise": "unknown",
+    "pack": {
+      "type": "unknown",
+      "name": "unknown",
+      "releaseWave": null
     },
-    "adventureWorld": "unknown",
-    "aliases": [],
-    "availabilityStatus": "unknown"
+    "abilities": [],
+    "voiceActor": "unknown",
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Supergirl",
+    "franchise": "unknown",
+    "pack": {
+      "type": "unknown",
+      "name": "unknown",
+      "releaseWave": null
+    },
+    "abilities": [],
+    "voiceActor": "unknown",
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
   }
 ]
