@@ -1,0 +1,2045 @@
+[
+  {
+    "name": "Andy",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Acrobat",
+      "Character Changing",
+      "Sonar Smash"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Beast Boy",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Dig",
+      "Dive",
+      "Drones",
+      "Mini Access",
+      "Shape Shift",
+      "Slurp Access",
+      "Tracking"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Brand",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Acrobat",
+      "Character Changing",
+      "Dive"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Chunk",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Mini Access",
+      "Target",
+      "Vine Cut"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Cyborg (Teen Titans Go!)",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Dive",
+      "Fix-It (Repair)",
+      "Flying",
+      "Laser",
+      "Super Strength",
+      "Target",
+      "Technology"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Data",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Fix-It (Repair)",
+      "Grapple",
+      "Illumination",
+      "Intelligence",
+      "Mini Access",
+      "Rope Swing",
+      "Technology",
+      "Tracking",
+      "X-Ray Vision"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Egon Spengler",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Hazard Protection",
+      "Laser"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Erin Gilbert",
+    "franchise": "Ghostbusters (2016)",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Hazard Protection",
+      "Intelligence",
+      "Laser",
+      "Silver LEGO Destruction",
+      "Technology"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Fern",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Acrobat",
+      "Character Changing",
+      "Cursed Red LEGO Objects",
+      "Laser",
+      "Laser Deflector",
+      "Grapple",
+      "Rope Swing",
+      "Sword Switch",
+      "Target",
+      "Vine Cut"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Franz Krieger",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Target"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Green Arrow",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Acrobat",
+      "Grapple",
+      "Target"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "H.M. “Howling Mad” Murdock",
+    "franchise": "The A-Team",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Jacob Kowalski",
+    "franchise": "Fantastic Beasts",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Silver LEGO Destruction"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Jillian Holtzmann",
+    "franchise": "Ghostbusters (2016)",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Fix-It (Repair)",
+      "Grapple",
+      "Hazard Protection",
+      "Intelligence",
+      "Laser",
+      "Rope Swing",
+      "Technology"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "John “Hannibal” Smith",
+    "franchise": "The A-Team",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Mikey",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Intelligence",
+      "Mini Access",
+      "Silver LEGO Destruction"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Mouth",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Dig",
+      "Hazard Protection",
+      "Mini Access",
+      "Silver LEGO Destruction",
+      "Laser Deflector"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Patty Tolan",
+    "franchise": "Ghostbusters (2016)",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Hazard Protection",
+      "Intelligence",
+      "Laser",
+      "Technology",
+      "Super Strength"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Queenie Goldstein",
+    "franchise": "Fantastic Beasts",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Growth (Plants)",
+      "Hazard Cleaner",
+      "Illumination",
+      "Magic",
+      "Magical Shield",
+      "Mind Control",
+      "Water Spray"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Raymond Stantz",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Hazard Protection",
+      "Laser"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Robin (Teen Titans Go!)",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Acrobat",
+      "Character Changing",
+      "Dive",
+      "Grapple",
+      "Rope Swing",
+      "Target"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Robin (Nightwing)",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Glide"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Stef",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Acrobat",
+      "Character Changing",
+      "Dive",
+      "Target"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Supergirl",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Dig",
+      "Dive",
+      "Flying",
+      "Freeze Breath",
+      "Invulnerability",
+      "Laser",
+      "LEGO Constructs",
+      "Super Strength",
+      "X-Ray Vision",
+      "Grapple"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Templeton “Faceman” Peck",
+    "franchise": "The A-Team",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Winston Zeddemore",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": null,
+      "name": null,
+      "releaseWave": null
+    },
+    "abilities": [
+      "Character Changing",
+      "Hazard Protection",
+      "Laser"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Abby Yates",
+    "franchise": "Ghostbusters (2016)",
+    "pack": {
+      "type": "Story",
+      "name": "Ghostbusters (2016) Story Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Character Changing",
+      "Hazard Protection",
+      "Intelligence",
+      "Laser"
+    ],
+    "voiceActor": "Melissa McCarthy",
+    "minifigure": {
+      "legoId": "dim033",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim033.png"
+    }
+  },
+  {
+    "name": "Aquaman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Aquaman Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Dive",
+      "Growth (Plants)",
+      "Hazard Cleaner",
+      "Water Spray"
+    ],
+    "voiceActor": "Brian Bloom",
+    "minifigure": {
+      "legoId": "dim021",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021.png"
+    }
+  },
+  {
+    "name": "B. A. Baracus",
+    "franchise": "The A-Team",
+    "pack": {
+      "type": "Fun",
+      "name": "The A-Team Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Character Changing",
+      "Fix-It (Repair)",
+      "Laser Deflector",
+      "Silver LEGO Destruction",
+      "Super Strength",
+      "Target"
+    ],
+    "voiceActor": "Dave Fennoy",
+    "minifigure": {
+      "legoId": "dim029",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim029.png"
+    }
+  },
+  {
+    "name": "Bad Cop",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Bad Cop Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Laser",
+      "Relic Detector (Scan)",
+      "Target"
+    ],
+    "voiceActor": "Liam Neeson",
+    "minifigure": {
+      "legoId": "dim007",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007.png"
+    }
+  },
+  {
+    "name": "Bane",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Bane Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Big Transform",
+      "Hazard Protection",
+      "Super Strength"
+    ],
+    "voiceActor": "Steve Blum",
+    "minifigure": {
+      "legoId": "dim022",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022.png"
+    }
+  },
+  {
+    "name": "Bart Simpson",
+    "franchise": "The Simpsons",
+    "pack": {
+      "type": "Fun",
+      "name": "Bart Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Mini Access",
+      "Target"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": "dim015",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015.png"
+    }
+  },
+  {
+    "name": "Batgirl",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Story",
+      "name": "The Lego Batman Movie Story Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Batarang (Boomerang)",
+      "Glide",
+      "Grapple",
+      "Rope Swing",
+      "Stealth"
+    ],
+    "voiceActor": "Rosario Dawson",
+    "minifigure": {
+      "legoId": "dim044",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim044.png"
+    }
+  },
+  {
+    "name": "Beetlejuice",
+    "franchise": "Beetlejuice",
+    "pack": {
+      "type": "Fun",
+      "name": "Beetlejuice Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Magic",
+      "Mind Control",
+      "Mini Access",
+      "Slurp Access",
+      "Super Strength"
+    ],
+    "voiceActor": "Christopher Swindle",
+    "minifigure": {
+      "legoId": "dim051",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim051.png"
+    }
+  },
+  {
+    "name": "Benny",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Benny Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Glide",
+      "Hacking",
+      "Sonar Smash",
+      "Target",
+      "Technology"
+    ],
+    "voiceActor": "Charlie Day",
+    "minifigure": {
+      "legoId": "dim008",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008.png"
+    }
+  },
+  {
+    "name": "Blossom",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Team",
+      "name": "The Powerpuff Girls Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Dive",
+      "Flying",
+      "Freeze Breath",
+      "Heart Regeneration",
+      "Intelligence",
+      "Laser",
+      "LEGO Constructs",
+      "Super Strength",
+      "X-Ray Vision"
+    ],
+    "voiceActor": "Amanda Leighton",
+    "minifigure": {
+      "legoId": "dim052",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim052.png"
+    }
+  },
+  {
+    "name": "Bubbles",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Team",
+      "name": "The Powerpuff Girls Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Dive",
+      "Flying",
+      "Heart Regeneration",
+      "Laser",
+      "LEGO Constructs",
+      "Rainbow LEGO Objects",
+      "Sonar Smash",
+      "Super Strength",
+      "X-Ray Vision"
+    ],
+    "voiceActor": "Kristen Li",
+    "minifigure": {
+      "legoId": "dim053",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim053.png"
+    }
+  },
+  {
+    "name": "Buttercup",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Fun",
+      "name": "The Powerpuff Girls Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Dive",
+      "Flying",
+      "Heart Regeneration",
+      "Gyrosphere Switches",
+      "LEGO Constructs",
+      "Super Strength"
+    ],
+    "voiceActor": "Natalie Palamides",
+    "minifigure": {
+      "legoId": "dim054",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim054.png"
+    }
+  },
+  {
+    "name": "Chase McCain",
+    "franchise": "LEGO City",
+    "pack": {
+      "type": "Fun",
+      "name": "Lego City Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Acrobat",
+      "Flying",
+      "Glide",
+      "Grapple",
+      "Growth (Plants)",
+      "Hacking",
+      "Hazard Cleaner",
+      "Illumination",
+      "Relic Detector (Scan)",
+      "Silver LEGO Destruction",
+      "Super Strength",
+      "Target",
+      "Tracking",
+      "Water Spray"
+    ],
+    "voiceActor": "Joseph May",
+    "minifigure": {
+      "legoId": "dim042",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim042.png"
+    }
+  },
+  {
+    "name": "Cole",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Team",
+      "name": "Lego Ninjago Team Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Laser Deflector",
+      "Stealth",
+      "Super Strength"
+    ],
+    "voiceActor": "Kirby Morrow",
+    "minifigure": {
+      "legoId": "dim013",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013.png"
+    }
+  },
+  {
+    "name": "Cragger",
+    "franchise": "Legends of Chima",
+    "pack": {
+      "type": "Fun",
+      "name": "Cragger Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Dive",
+      "Hazard Protection",
+      "Super Strength"
+    ],
+    "voiceActor": "David Attar",
+    "minifigure": {
+      "legoId": "dim018",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim018.png"
+    }
+  },
+  {
+    "name": "Cyberman",
+    "franchise": "Doctor Who",
+    "pack": {
+      "type": "Fun",
+      "name": "Cyberman Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Dive",
+      "Drones",
+      "Hacking",
+      "Mind Control",
+      "Silver LEGO Destruction",
+      "Technology",
+      "X-Ray Vision"
+    ],
+    "voiceActor": "Nicholas Briggs",
+    "minifigure": {
+      "legoId": "dim023",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim023.png"
+    }
+  },
+  {
+    "name": "Cyborg",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Cyborg Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Big Transform",
+      "Dive",
+      "Laser",
+      "Super Strength",
+      "Technology"
+    ],
+    "voiceActor": "Bumper Robinson",
+    "minifigure": {
+      "legoId": "dim006",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006.png"
+    }
+  },
+  {
+    "name": "Doc Brown",
+    "franchise": "Back to the Future",
+    "pack": {
+      "type": "Fun",
+      "name": "Doc Brown Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Drones",
+      "Fix-It (Repair)",
+      "Hacking",
+      "Intelligence",
+      "Technology"
+    ],
+    "voiceActor": "Christopher Lloyd",
+    "minifigure": {
+      "legoId": "dim024",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim024.png"
+    }
+  },
+  {
+    "name": "E.T.",
+    "franchise": "E.T.",
+    "pack": {
+      "type": "Fun",
+      "name": "E.T. Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Fix-It (Repair)",
+      "Growth (Plants)",
+      "Heart Regeneration",
+      "Illumination",
+      "Magic",
+      "Mini Access",
+      "Stealth"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": "dim038",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim038.png"
+    }
+  },
+  {
+    "name": "Emmet",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Emmet Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Fix-It (Repair)"
+    ],
+    "voiceActor": "Chris Pratt",
+    "minifigure": {
+      "legoId": "dim009",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009.png"
+    }
+  },
+  {
+    "name": "Eris",
+    "franchise": "Legends of Chima",
+    "pack": {
+      "type": "Fun",
+      "name": "Eris Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Flying",
+      "Super Strength",
+      "Target"
+    ],
+    "voiceActor": "Bethany Brown",
+    "minifigure": {
+      "legoId": "dim019",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png"
+    }
+  },
+  {
+    "name": "Ethan Hunt",
+    "franchise": "Mission: Impossible",
+    "pack": {
+      "type": "Level",
+      "name": "Mission: Impossible Level Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Acrobat",
+      "Character Changing",
+      "Dive",
+      "Drones",
+      "Grapple",
+      "Rope Swing",
+      "Silver LEGO Destruction",
+      "Stealth",
+      "Target",
+      "Technology",
+      "X-Ray Vision"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": "dim028",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim028.png"
+    }
+  },
+  {
+    "name": "Excalibur Batman",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Excalibur Batman Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Batarang (Boomerang)",
+      "Grapple",
+      "Stealth",
+      "Laser Deflector",
+      "Rope Swing",
+      "Silver LEGO Destruction",
+      "Super Strength",
+      "Sword Switch"
+    ],
+    "voiceActor": "Will Arnett",
+    "minifigure": {
+      "legoId": "dim043",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim043.png"
+    }
+  },
+  {
+    "name": "Finn the Human",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Level",
+      "name": "Adventure Time Level Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Acrobat",
+      "Character Changing",
+      "Cursed Red LEGO Objects",
+      "Laser",
+      "Laser Deflector",
+      "Rope Swing",
+      "Sword Switch",
+      "Target",
+      "Vine Cut",
+      "Grapple"
+    ],
+    "voiceActor": "Jeremy Shada",
+    "minifigure": {
+      "legoId": "dim026",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim026.png"
+    }
+  },
+  {
+    "name": "Gamer Kid",
+    "franchise": "Midway Arcade",
+    "pack": {
+      "type": "Level",
+      "name": "Midway Arcade Level Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Invulnerability",
+      "Laser",
+      "Speed",
+      "Stealth",
+      "Super Strength"
+    ],
+    "voiceActor": "Josh Keaton",
+    "minifigure": {
+      "legoId": "dim025",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim025.png"
+    }
+  },
+  {
+    "name": "Gandalf the Grey",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Starter",
+      "name": "Starter Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Magic",
+      "Illumination",
+      "Magical Shield"
+    ],
+    "voiceActor": "Tom Kane",
+    "minifigure": {
+      "legoId": "dim001",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim001.png"
+    }
+  },
+  {
+    "name": "Gimli",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Gimli Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Mini Access",
+      "Super Strength"
+    ],
+    "voiceActor": "John Rhys-Davies",
+    "minifigure": {
+      "legoId": "dim014",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014.png"
+    }
+  },
+  {
+    "name": "Gizmo",
+    "franchise": "Gremlins",
+    "pack": {
+      "type": "Team",
+      "name": "Gremlins Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Acrobat",
+      "Dig",
+      "Grapple",
+      "Mini Access",
+      "Rope Swing",
+      "Silver LEGO Destruction",
+      "Target",
+      "Vine Cut"
+    ],
+    "voiceActor": "Howie Mandel",
+    "minifigure": {
+      "legoId": "dim036",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim036.png"
+    }
+  },
+  {
+    "name": "Gollum",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Gollum Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Magic",
+      "Batarang (Boomerang)",
+      "Dive",
+      "Mini Access",
+      "Silver LEGO Destruction"
+    ],
+    "voiceActor": "Liam O'Brien",
+    "minifigure": {
+      "legoId": "dim012",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012.png"
+    }
+  },
+  {
+    "name": "Harley Quinn",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Team",
+      "name": "DC Comics Team Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Super Strength"
+    ],
+    "voiceActor": "Tara Strong",
+    "minifigure": {
+      "legoId": "dim020",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020.png"
+    }
+  },
+  {
+    "name": "Harry Potter",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Team",
+      "name": "Harry Potter Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Magic",
+      "Flying",
+      "Growth (Plants)",
+      "Hazard Cleaner",
+      "Illumination",
+      "Laser Deflector",
+      "Magical Shield",
+      "Silver LEGO Destruction",
+      "Stealth",
+      "Target",
+      "Water Spray"
+    ],
+    "voiceActor": "Daniel Radcliffe",
+    "minifigure": {
+      "legoId": "dim031",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim031.png"
+    }
+  },
+  {
+    "name": "Hermione Granger",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Fun",
+      "name": "Hermione Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Magic",
+      "Acrobat",
+      "Growth (Plants)",
+      "Hazard Cleaner",
+      "Illumination",
+      "Intelligence",
+      "Laser Deflector",
+      "Magical Shield",
+      "Silver LEGO Destruction",
+      "Target",
+      "Water Spray"
+    ],
+    "voiceActor": "Emma Watson",
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Homer Simpson",
+    "franchise": "The Simpsons",
+    "pack": {
+      "type": "Level",
+      "name": "The Simpsons Level Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Big Transform",
+      "Sonar Smash",
+      "Super Strength"
+    ],
+    "voiceActor": "Dan Castellaneta",
+    "minifigure": {
+      "legoId": "dim009pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim009pb01.png"
+    }
+  },
+  {
+    "name": "Jake the Dog",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Team",
+      "name": "Adventure Time Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Big Transform",
+      "Dig",
+      "Dive",
+      "Drones",
+      "Grapple",
+      "Gyrosphere Switches",
+      "Mini Access",
+      "Rope Swing",
+      "Shape Shift",
+      "Slurp Access",
+      "Sonar Smash",
+      "Super Strength",
+      "Tracking"
+    ],
+    "voiceActor": "John DiMaggio",
+    "minifigure": {
+      "legoId": "dim027",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim027.png"
+    }
+  },
+  {
+    "name": "Jay",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Jay Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Electricity",
+      "Fix-It (Repair)",
+      "Intelligence",
+      "Laser Deflector",
+      "Stealth"
+    ],
+    "voiceActor": "Michael Adamthwaite",
+    "minifigure": {
+      "legoId": "dim017",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017.png"
+    }
+  },
+  {
+    "name": "Kai",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Team",
+      "name": "Lego Ninjago Team Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Laser",
+      "Laser Deflector",
+      "Stealth"
+    ],
+    "voiceActor": "Vincent Tong",
+    "minifigure": {
+      "legoId": "dim012pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim012pb01.png"
+    }
+  },
+  {
+    "name": "Krusty the Clown",
+    "franchise": "The Simpsons",
+    "pack": {
+      "type": "Fun",
+      "name": "Krusty Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Growth (Plants)",
+      "Hazard Cleaner",
+      "Target",
+      "Water Spray"
+    ],
+    "voiceActor": "Dan Castellaneta",
+    "minifigure": {
+      "legoId": "dim016",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016.png"
+    }
+  },
+  {
+    "name": "Laval",
+    "franchise": "Legends of Chima",
+    "pack": {
+      "type": "Fun",
+      "name": "Laval Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Laser Deflector",
+      "Sonar Smash",
+      "Super Strength"
+    ],
+    "voiceActor": "Scott Shantz",
+    "minifigure": {
+      "legoId": "dim017pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim017pb01.png"
+    }
+  },
+  {
+    "name": "Legolas",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Legolas Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Magic",
+      "Grind Rails",
+      "Target"
+    ],
+    "voiceActor": "Orlando Bloom",
+    "minifigure": {
+      "legoId": "dim013pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim013pb01.png"
+    }
+  },
+  {
+    "name": "Lloyd",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Lloyd Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Illumination",
+      "Laser Deflector",
+      "Stealth"
+    ],
+    "voiceActor": "Jillian Michaels",
+    "minifigure": {
+      "legoId": "dim023pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim023pb01.png"
+    }
+  },
+  {
+    "name": "Lord Voldemort",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Team",
+      "name": "Harry Potter Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Magic",
+      "Flying",
+      "Growth (Plants)",
+      "Hazard Cleaner",
+      "Illumination",
+      "Laser Deflector",
+      "Magical Shield",
+      "Mind Control",
+      "Silver LEGO Destruction",
+      "Target",
+      "Water Spray"
+    ],
+    "voiceActor": "Ralph Fiennes",
+    "minifigure": {
+      "legoId": "dim032",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim032.png"
+    }
+  },
+  {
+    "name": "Lumpy Space Princess",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Team",
+      "name": "Adventure Time Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Batarang (Boomerang)",
+      "Flying",
+      "Hazard Protection",
+      "Mini Access",
+      "Rainbow LEGO Objects",
+      "Slurp Access",
+      "Target"
+    ],
+    "voiceActor": "Pendleton Ward",
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Marceline the Vampire Queen",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Fun",
+      "name": "Adventure Time Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Acrobat",
+      "Cursed Red LEGO Objects",
+      "Dig",
+      "Flying",
+      "Heart Regeneration",
+      "Magic",
+      "Mini Access",
+      "Slurp Access",
+      "Sonar Smash",
+      "Stealth",
+      "Super Strength",
+      "Tracking",
+      "Vine Cut"
+    ],
+    "voiceActor": "Olivia Olson",
+    "minifigure": {
+      "legoId": null,
+      "imageUrl": null
+    }
+  },
+  {
+    "name": "Marty McFly",
+    "franchise": "Back to the Future",
+    "pack": {
+      "type": "Level",
+      "name": "Back to the Future Level Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Sonar Smash"
+    ],
+    "voiceActor": "Michael J. Fox",
+    "minifigure": {
+      "legoId": "dim004pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim004pb01.png"
+    }
+  },
+  {
+    "name": "Michael Knight",
+    "franchise": "Knight Rider",
+    "pack": {
+      "type": "Fun",
+      "name": "Knight Rider Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Acrobat",
+      "Hacking",
+      "Technology",
+      "Tracking",
+      "X-Ray Vision"
+    ],
+    "voiceActor": "Nick Offerman",
+    "minifigure": {
+      "legoId": "dim045",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim045.png"
+    }
+  },
+  {
+    "name": "Newt Scamander",
+    "franchise": "Fantastic Beasts",
+    "pack": {
+      "type": "Story",
+      "name": "Fantastic Beasts Story Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Magic",
+      "Character Changing",
+      "Fix-It (Repair)",
+      "Growth (Plants)",
+      "Hazard Cleaner",
+      "Illumination",
+      "Intelligence",
+      "Laser Deflector",
+      "Magical Shield",
+      "Silver LEGO Destruction",
+      "Target",
+      "Water Spray"
+    ],
+    "voiceActor": "Eddie Redmayne",
+    "minifigure": {
+      "legoId": "dim034",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim034.png"
+    }
+  },
+  {
+    "name": "Nya",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Nya Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Fix-It (Repair)",
+      "Laser Deflector",
+      "Stealth"
+    ],
+    "voiceActor": "Kelly Metzger",
+    "minifigure": {
+      "legoId": "dim016pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim016pb01.png"
+    }
+  },
+  {
+    "name": "Owen Grady",
+    "franchise": "Jurassic World",
+    "pack": {
+      "type": "Team",
+      "name": "Jurassic World Team Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Stealth",
+      "Target",
+      "Tracking",
+      "Vine Cut"
+    ],
+    "voiceActor": "Chris Pratt",
+    "minifigure": {
+      "legoId": "dim005pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim005pb01.png"
+    }
+  },
+  {
+    "name": "Peter Venkman",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Level",
+      "name": "Ghostbusters Level Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Character Changing",
+      "Hazard Protection",
+      "Laser"
+    ],
+    "voiceActor": "Bill Murray",
+    "minifigure": {
+      "legoId": "dim019pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019pb01.png"
+    }
+  },
+  {
+    "name": "Raven",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": "Team",
+      "name": "Teen Titans Go! Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Character Changing",
+      "Drones",
+      "Electricity",
+      "Flying",
+      "Intelligence",
+      "Laser",
+      "LEGO Constructs",
+      "Magic",
+      "Magical Shield"
+    ],
+    "voiceActor": "Tara Strong",
+    "minifigure": {
+      "legoId": "dim048",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim048.png"
+    }
+  },
+  {
+    "name": "Robin (LBM)",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Story",
+      "name": "The Lego Batman Movie Story Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Character Changing",
+      "Dive",
+      "Fix-It (Repair)",
+      "Grapple",
+      "Illumination",
+      "Laser Deflector"
+    ],
+    "voiceActor": "Michael Cera",
+    "minifigure": {
+      "legoId": "dim041",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim041.png"
+    }
+  },
+  {
+    "name": "Scooby-Doo",
+    "franchise": "Scooby-Doo",
+    "pack": {
+      "type": "Team",
+      "name": "Scooby-Doo Team Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Dig",
+      "Dive",
+      "Glide",
+      "Stealth",
+      "Tracking"
+    ],
+    "voiceActor": "Frank Welker",
+    "minifigure": {
+      "legoId": "dim007pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim007pb01.png"
+    }
+  },
+  {
+    "name": "Sensei Wu",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Sensei Wu Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Glide",
+      "Stealth"
+    ],
+    "voiceActor": "Paul Dobson",
+    "minifigure": {
+      "legoId": "dim015pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim015pb01.png"
+    }
+  },
+  {
+    "name": "Shaggy",
+    "franchise": "Scooby-Doo",
+    "pack": {
+      "type": "Team",
+      "name": "Scooby-Doo Team Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Glide",
+      "Illumination",
+      "Stealth",
+      "Tracking"
+    ],
+    "voiceActor": "Matthew Lillard",
+    "minifigure": {
+      "legoId": "dim008pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim008pb01.png"
+    }
+  },
+  {
+    "name": "Slimer",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Fun",
+      "name": "Slimer Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Batarang (Boomerang)",
+      "Dive",
+      "Flying",
+      "Hazard Cleaner",
+      "Hazard Protection",
+      "Illumination",
+      "Invulnerability",
+      "Mini Access",
+      "Slurp Access",
+      "Sonar Smash"
+    ],
+    "voiceActor": "Frank Welker",
+    "minifigure": {
+      "legoId": "dim021pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim021pb01.png"
+    }
+  },
+  {
+    "name": "Sloth",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": "Level",
+      "name": "The Goonies Level Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Acrobat",
+      "Character Changing",
+      "Dig",
+      "Dive",
+      "Grapple",
+      "Rope Swing",
+      "Super Strength"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": "dim046",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim046.png"
+    }
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "franchise": "Sonic the Hedgehog",
+    "pack": {
+      "type": "Level",
+      "name": "Sonic the Hedgehog Level Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Speed",
+      "Invulnerability",
+      "Laser Deflector",
+      "Super Jump",
+      "Super Strength"
+    ],
+    "voiceActor": "Roger Craig Smith",
+    "minifigure": {
+      "legoId": "dim039",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim039.png"
+    }
+  },
+  {
+    "name": "Starfire",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": "Fun",
+      "name": "Teen Titans Go! Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Flying",
+      "Heart Regeneration",
+      "Laser",
+      "Rainbow LEGO Objects"
+    ],
+    "voiceActor": "Hynden Walch",
+    "minifigure": {
+      "legoId": "dim050",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim050.png"
+    }
+  },
+  {
+    "name": "Stay Puft",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Fun",
+      "name": "Stay Puft Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Big Transform",
+      "Hazard Protection",
+      "Super Strength"
+    ],
+    "voiceActor": null,
+    "minifigure": {
+      "legoId": "dim020pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim020pb01.png"
+    }
+  },
+  {
+    "name": "Stripe",
+    "franchise": "Gremlins",
+    "pack": {
+      "type": "Team",
+      "name": "Gremlins Team Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Acrobat",
+      "Dig",
+      "Target",
+      "Vine Cut"
+    ],
+    "voiceActor": "Frank Welker",
+    "minifigure": {
+      "legoId": "dim037",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim037.png"
+    }
+  },
+  {
+    "name": "Superman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Superman Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Flying",
+      "Invulnerability",
+      "X-Ray Vision",
+      "Dive",
+      "Freeze Breath",
+      "Laser",
+      "Super Strength"
+    ],
+    "voiceActor": "Travis Willingham",
+    "minifigure": {
+      "legoId": "dim022pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim022pb01.png"
+    }
+  },
+  {
+    "name": "The Doctor",
+    "franchise": "Doctor Who",
+    "pack": {
+      "type": "Level",
+      "name": "Doctor Who Level Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Fix-It (Repair)",
+      "Hacking",
+      "Intelligence",
+      "Sonar Smash",
+      "Technology"
+    ],
+    "voiceActor": "Peter Capaldi",
+    "minifigure": {
+      "legoId": "dim011pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011pb01.png"
+    }
+  },
+  {
+    "name": "The Joker",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Team",
+      "name": "DC Comics Team Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Electricity",
+      "Grapple",
+      "Hazard Protection",
+      "Target"
+    ],
+    "voiceActor": "Christopher Corey Smith",
+    "minifigure": {
+      "legoId": "dim019",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim019.png"
+    }
+  },
+  {
+    "name": "Tina Goldstein",
+    "franchise": "Fantastic Beasts",
+    "pack": {
+      "type": "Fun",
+      "name": "Tina Goldstein Fun Pack",
+      "releaseWave": "2"
+    },
+    "abilities": [
+      "Magic",
+      "Acrobat",
+      "Character Changing",
+      "Growth (Plants)",
+      "Hazard Cleaner",
+      "Illumination",
+      "Intelligence",
+      "Laser Deflector",
+      "Magical Shield",
+      "Silver LEGO Destruction",
+      "Target",
+      "Water Spray"
+    ],
+    "voiceActor": "Katherine Waterston",
+    "minifigure": {
+      "legoId": "dim035",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim035.png"
+    }
+  },
+  {
+    "name": "Unikitty",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Unikitty Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Big Transform",
+      "Rainbow LEGO Objects",
+      "Super Strength"
+    ],
+    "voiceActor": "Alison Brie",
+    "minifigure": {
+      "legoId": "dim010",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim010.png"
+    }
+  },
+  {
+    "name": "Wicked Witch of the West",
+    "franchise": "The Wizard of Oz",
+    "pack": {
+      "type": "Fun",
+      "name": "Wicked Witch Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Flying",
+      "Illumination",
+      "Magic",
+      "Magical Shield",
+      "Mind Control",
+      "Silver LEGO Destruction"
+    ],
+    "voiceActor": "Courtenay Taylor",
+    "minifigure": {
+      "legoId": "dim011",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim011.png"
+    }
+  },
+  {
+    "name": "Wonder Woman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Wonder Woman Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Batarang (Boomerang)",
+      "Dive",
+      "Grapple",
+      "Invulnerability",
+      "Laser Deflector",
+      "Mind Control",
+      "Super Strength"
+    ],
+    "voiceActor": "Laura Bailey",
+    "minifigure": {
+      "legoId": "dim006pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim006pb01.png"
+    }
+  },
+  {
+    "name": "Wyldstyle",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Starter",
+      "name": "Starter Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Relic Detector (Scan)"
+    ],
+    "voiceActor": "Elizabeth Banks",
+    "minifigure": {
+      "legoId": "dim003",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim003.png"
+    }
+  },
+  {
+    "name": "Zane",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Zane Fun Pack",
+      "releaseWave": "1"
+    },
+    "abilities": [
+      "Acrobat",
+      "Batarang (Boomerang)",
+      "Dive",
+      "Stealth",
+      "X-Ray Vision"
+    ],
+    "voiceActor": "Brent Miller",
+    "minifigure": {
+      "legoId": "dim014pb01",
+      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim014pb01.png"
+    }
+  }
+]
