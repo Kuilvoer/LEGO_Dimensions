@@ -77,7 +77,6 @@
     "abilities": [
       "Acrobat",
       "Master Build",
-      "Relic Detector",
       "RelicDetector"
     ],
     "voiceActor": "Elizabeth Banks",
@@ -111,8 +110,7 @@
       "CharacterChanging",
       "HazardProtection",
       "Intelligence",
-      "Laser",
-      "Suspend Ghost"
+      "Laser"
     ],
     "voiceActor": "Melissa McCarthy",
     "minifigure": {
@@ -173,10 +171,8 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Atlantis",
       "Dive",
       "Growth",
-      "Hazard Cleaner",
       "WaterSpray"
     ],
     "voiceActor": "Brian Bloom",
@@ -207,13 +203,8 @@
       "releaseDate": "2016"
     },
     "abilities": [
-      "A-Team Master Build",
       "A-Team Master Build (Uniek)",
-      "Fix-It",
-      "Silver LEGO Blowup",
-      "Super Strength",
-      "SuperStrength",
-      "Target"
+      "SuperStrength"
     ],
     "voiceActor": "unknown",
     "minifigure": {
@@ -237,11 +228,7 @@
       "setNumber": "71213",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "Laser",
-      "Relic Detector",
-      "Target"
-    ],
+    "abilities": [],
     "voiceActor": "Liam Neeson",
     "minifigure": {
       "legoId": "dim007",
@@ -270,10 +257,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Big Transform",
       "BigTransform",
-      "Hazard Protection",
-      "Super Strength",
       "SuperStrength"
     ],
     "voiceActor": "Steve Blum",
@@ -303,10 +287,7 @@
       "setNumber": "unknown",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "Mini Access",
-      "Target"
-    ],
+    "abilities": [],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": "dim015",
@@ -335,7 +316,6 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
       "Boomerang"
     ],
     "voiceActor": "Rosario Dawson",
@@ -367,9 +347,7 @@
     },
     "abilities": [
       "Dive",
-      "Mini Access",
       "Mini Access)",
-      "Tracking",
       "Transformation (Flight"
     ],
     "voiceActor": "unknown",
@@ -430,8 +408,6 @@
     "abilities": [
       "Glide",
       "Hacking",
-      "Master Build",
-      "Sonar Smash",
       "SonarSmash",
       "Target",
       "Technology"
@@ -463,10 +439,7 @@
       "setNumber": "71346",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "Flying",
-      "Rainbow LEGO Objects"
-    ],
+    "abilities": [],
     "voiceActor": "Amanda Leighton",
     "minifigure": {
       "legoId": "dim052",
@@ -496,7 +469,6 @@
     },
     "abilities": [
       "Flight",
-      "Flying",
       "HeartRegeneration",
       "Laser",
       "RainbowLEGOObjects",
@@ -529,10 +501,7 @@
       "setNumber": "71343",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "Flying",
-      "Super Strength"
-    ],
+    "abilities": [],
     "voiceActor": "Natalie Palamides",
     "minifigure": {
       "legoId": "dim054",
@@ -562,11 +531,9 @@
     },
     "abilities": [
       "Acrobat",
-      "Drill",
       "Glide",
       "Grapple",
       "Hacking",
-      "Relic Detector",
       "RelicDetector",
       "Target",
       "Tracking",
@@ -601,7 +568,6 @@
     },
     "abilities": [
       "Acrobat",
-      "Portal Gun",
       "Portal Gun (Uniek)",
       "PortalGun"
     ],
@@ -633,10 +599,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Spinjitzu",
-      "Stealth",
-      "Super Strength"
+      "Acrobat"
     ],
     "voiceActor": "Kirby Morrow",
     "minifigure": {
@@ -665,13 +628,7 @@
       "setNumber": "71223",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "Acrobat",
-      "CHI",
-      "Dive",
-      "Hazard Protection",
-      "Super Strength"
-    ],
+    "abilities": [],
     "voiceActor": "David Attar",
     "minifigure": {
       "legoId": "dim018",
@@ -701,14 +658,8 @@
     },
     "abilities": [
       "Dive",
-      "Drone",
-      "Hacking",
       "Laser",
-      "Mind Control",
-      "Silver LEGO Blowup",
       "SilverLEGODestruction",
-      "Technology",
-      "X-Ray Vision",
       "XRayVision"
     ],
     "voiceActor": "Nicholas Briggs",
@@ -739,11 +690,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Big Transform",
       "BigTransform",
-      "Dive",
-      "Laser",
-      "Super Strength",
       "SuperStrength",
       "Target",
       "Technology"
@@ -776,8 +723,6 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Drone",
-      "Fix-It",
       "FixIt",
       "Hacking",
       "Intelligence",
@@ -812,13 +757,11 @@
     },
     "abilities": [
       "CharacterChanging",
-      "Fix-It",
       "FixIt",
       "Hacking",
       "Illumination",
       "Intelligence",
       "MiniAccess",
-      "Sonar Smash",
       "SonarSmash",
       "TARDIS Travel (Uniek)",
       "Technology"
@@ -851,10 +794,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Drill",
-      "Fix-It",
-      "FixIt",
-      "Master Build"
+      "FixIt"
     ],
     "voiceActor": "Chris Pratt",
     "minifigure": {
@@ -884,12 +824,8 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "CHI",
       "Flight",
-      "Flying",
-      "Super Strength",
-      "SuperStrength",
-      "Target"
+      "SuperStrength"
     ],
     "voiceActor": "Bethany Brown",
     "minifigure": {
@@ -918,11 +854,7 @@
       "setNumber": "unknown",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "Flying",
-      "Growth",
-      "Mini Access"
-    ],
+    "abilities": [],
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": "dim038",
@@ -953,11 +885,9 @@
     "abilities": [
       "Acrobat",
       "Dive",
-      "Drone",
       "Grapple",
       "Stealth",
-      "Technology",
-      "X-Ray Vision"
+      "Technology"
     ],
     "voiceActor": "unknown",
     "minifigure": {
@@ -1086,8 +1016,6 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Mini Access",
-      "Super Strength",
       "SuperStrength"
     ],
     "voiceActor": "John Rhys-Davies",
@@ -1151,9 +1079,7 @@
       "Acrobat",
       "Boomerang",
       "Dive",
-      "Magic",
-      "Mini Access",
-      "Silver LEGO Blowup"
+      "Magic"
     ],
     "voiceActor": "Liam O'Brien",
     "minifigure": {
@@ -1184,7 +1110,6 @@
     },
     "abilities": [
       "Acrobat",
-      "Super Strength",
       "SuperStrength"
     ],
     "voiceActor": "Tara Strong",
@@ -1279,7 +1204,6 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Big Transform",
       "BigTransform",
       "SuperStrength"
     ],
@@ -1343,11 +1267,7 @@
     },
     "abilities": [
       "Acrobat",
-      "Electricity",
-      "Fix-It",
-      "LaserDeflector",
-      "Spinjitzu",
-      "Stealth"
+      "LaserDeflector"
     ],
     "voiceActor": "Michael Adamthwaite",
     "minifigure": {
@@ -1379,7 +1299,6 @@
     "abilities": [
       "Electricity",
       "Grapple",
-      "Hazard Protection",
       "Target"
     ],
     "voiceActor": "Christopher Corey Smith",
@@ -1410,9 +1329,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Spinjitzu",
-      "Stealth"
+      "Acrobat"
     ],
     "voiceActor": "Vincent Tong",
     "minifigure": {
@@ -1475,11 +1392,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "CHI",
-      "Sonar Smash",
-      "Super Strength",
-      "Target"
+      "Acrobat"
     ],
     "voiceActor": "Scott Shantz",
     "minifigure": {
@@ -1512,7 +1425,6 @@
       "Acrobat",
       "GrindRails",
       "Magic",
-      "Pole Vault",
       "Target"
     ],
     "voiceActor": "Orlando Bloom",
@@ -1543,10 +1455,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Illumination",
-      "Spinjitzu",
-      "Stealth"
+      "Acrobat"
     ],
     "voiceActor": "Jillian Michaels",
     "minifigure": {
@@ -1582,7 +1491,6 @@
       "Illumination",
       "Magic",
       "MagicalShield",
-      "Mind Control",
       "SilverLEGODestruction",
       "Target"
     ],
@@ -1617,7 +1525,6 @@
       "Boomerang",
       "Flight",
       "HazardProtection",
-      "Rainbow LEGO Objects",
       "SlurpAccess",
       "Target"
     ],
@@ -1774,10 +1681,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Fix-It",
-      "Spinjitzu",
-      "Stealth"
+      "Acrobat"
     ],
     "voiceActor": "Kelly Metzger",
     "minifigure": {
@@ -1836,10 +1740,8 @@
     },
     "abilities": [
       "CharacterChanging",
-      "Hazard Protection",
       "HazardProtection",
-      "Laser",
-      "Suspend Ghost"
+      "Laser"
     ],
     "voiceActor": "Bill Murray",
     "minifigure": {
@@ -1936,7 +1838,6 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Dig",
       "Dive",
       "Glide",
       "Stealth",
@@ -1970,10 +1871,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Acrobat",
-      "Pole Vault",
-      "Spinjitzu",
-      "Stealth"
+      "Acrobat"
     ],
     "voiceActor": "Paul Dobson",
     "minifigure": {
@@ -2002,11 +1900,7 @@
       "setNumber": "71206",
       "releaseDate": "unknown"
     },
-    "abilities": [
-      "Illumination",
-      "Stealth",
-      "Tracking"
-    ],
+    "abilities": [],
     "voiceActor": "Matthew Lillard",
     "minifigure": {
       "legoId": "dim008pb01",
@@ -2035,18 +1929,12 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Boomerang",
       "Dive",
       "Flight",
-      "Flying",
-      "Hazard Cleaner",
-      "Hazard Protection",
       "HazardCleaner",
       "HazardProtection",
       "Illumination",
       "Invulnerability",
-      "Mini Access",
-      "Sonar Smash",
       "SonarSmash"
     ],
     "voiceActor": "Frank Welker",
@@ -2177,10 +2065,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Big Transform",
       "BigTransform",
-      "Hazard Protection",
-      "Super Strength",
       "SuperStrength"
     ],
     "voiceActor": "unknown",
@@ -2243,12 +2128,9 @@
     "abilities": [
       "Dive",
       "Flight",
-      "Flying",
       "Invulnerability",
       "Laser",
-      "Super Strength",
       "SuperStrength",
-      "X-Ray Vision",
       "XRayVision"
     ],
     "voiceActor": "Travis Willingham",
@@ -2316,10 +2198,7 @@
       "releaseDate": "unknown"
     },
     "abilities": [
-      "Big Transform",
       "BigTransform",
-      "Master Build",
-      "Rainbow LEGO Objects",
       "RainbowLEGOObjects",
       "SuperStrength"
     ],
@@ -2352,14 +2231,10 @@
     },
     "abilities": [
       "Flight",
-      "Flying",
       "Illumination",
       "Magic",
-      "Magical Shield",
       "MagicalShield",
-      "Mind Control",
       "MindControl",
-      "Silver LEGO Blowup",
       "SilverLEGODestruction"
     ],
     "voiceActor": "Courtenay Taylor",
@@ -2429,10 +2304,7 @@
     "abilities": [
       "Acrobat",
       "Boomerang",
-      "Dive",
-      "Spinjitzu",
       "Stealth",
-      "X-Ray Vision",
       "XRayVision"
     ],
     "voiceActor": "Brent Miller",
@@ -2494,7 +2366,6 @@
       "Dig",
       "Dive",
       "Flight",
-      "Flying",
       "Grapple",
       "Invulnerability",
       "LEGOConstructs",
