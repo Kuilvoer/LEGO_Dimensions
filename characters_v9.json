@@ -218,15 +218,10 @@
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
+      "imageUrl": null,
       "dimensionsId": "unknown",
       "bricklinkId": "dim024",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim024.png",
-          "type": "minifig"
-        }
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The A-Team",
     "aliases": [],
@@ -380,15 +375,10 @@
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/dim049.png",
+      "imageUrl": null,
       "dimensionsId": "unknown",
       "bricklinkId": "dim049",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/dim049.png",
-          "type": "minifig"
-        }
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Teen Titans Go!",
     "aliases": [],
@@ -1269,7 +1259,7 @@
     "voiceActor": "Emma Watson",
     "minifigure": {
       "legoId": null,
-      "imageUrl": "unknown",
+      "imageUrl": null,
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
       "imageUrls": []
@@ -1634,7 +1624,7 @@
     "voiceActor": "Pendleton Ward",
     "minifigure": {
       "legoId": null,
-      "imageUrl": "unknown",
+      "imageUrl": null,
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
       "imageUrls": []
@@ -1667,7 +1657,7 @@
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
-      "imageUrl": "unknown",
+      "imageUrl": null,
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
       "imageUrls": []
@@ -2481,15 +2471,10 @@
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
-      "imageUrl": "https://img.bricklink.com/ItemImage/MN/0/sh0153.png",
+      "imageUrl": null,
       "dimensionsId": "unknown",
       "bricklinkId": "sh0153",
-      "imageUrls": [
-        {
-          "url": "https://img.bricklink.com/ItemImage/MN/0/sh0153.png",
-          "type": "minifig"
-        }
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -2520,7 +2505,7 @@
     "voiceActor": "unknown",
     "minifigure": {
       "legoId": null,
-      "imageUrl": "unknown",
+      "imageUrl": null,
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
       "imageUrls": []
