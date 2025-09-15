@@ -43,26 +43,9 @@
     .meta{color:var(--muted);font-size:12px}
     .abilities{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
     .ability{background:var(--chip2);border:1px solid #334973;color:#cfe2ff;padding:4px 8px;border-radius:999px;font-size:12px}
-    /* Nettere layout voor de pack-regel */
-    .pack {
-      display: flex;
-      flex-wrap: wrap;          /* mag naar een volgende regel */
-      gap: 8px 10px;            /* horizontale + verticale ruimte */
-      align-items: center;
-      margin-top: 10px;
-      line-height: 1.35;
-      font-size: 13px;
-    }
-    .pack .pill { flex: 0 0 auto; }
-    .pack .pack-name {
-      font-weight: 700;
-      word-break: keep-all;     /* niet midden in woorden breken */
-      overflow-wrap: anywhere;  /* mag wel op spaties breken */
-      color:#cfe2ff;            /* zelfde kleur als eerst */
-    }
-    .pack .pack-wave { color: var(--muted); flex: 0 0 auto; }
-
-    .count { font-weight:600; color:#b7d9ff }
+    .pack{margin-top:10px;font-size:13px}
+    .pack b{color:#cfe2ff}
+    .count{font-weight:600;color:#b7d9ff}
 
     .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:8px}
     .btn{background:#1a2544;border:1px solid #2a3c63;color:#d7e6ff;padding:8px 12px;border-radius:12px;font-weight:600;cursor:pointer}
@@ -234,13 +217,8 @@
       $('.name',el).textContent=c.name;
       $('.franchise',el).textContent=`${c.franchise||'Onbekend'} • Voice: ${c.voiceActor||'—'}`;
       const ab=$('.abilities',el);(c.abilities||[]).forEach(a=>{const s=document.createElement('span');s.className='ability';s.textContent=a;ab.appendChild(s);});
-      const p = $('.pack', el);
-      const waveTxt = c.pack?.releaseWave != null ? `Wave ${c.pack.releaseWave}` : 'Wave ?';
-      p.innerHTML = [
-        `<span class="pill">${c.pack?.type || 'Pack'}</span>`,
-        `<b class="pack-name">${c.pack?.name || 'Onbekend'}</b>`,
-        `<span class="pack-wave">• ${waveTxt}</span>`
-      ].join('');
+      const p=$('.pack',el);const wave=c.pack?.releaseWave!=null?`Wave ${c.pack.releaseWave}`:'Wave ?';
+      p.innerHTML=`<span class="pill">${c.pack?.type||'Pack'}</span> <b>${c.pack?.name||'Onbekend'}</b> • ${wave}`;
       return el;
     }
 
