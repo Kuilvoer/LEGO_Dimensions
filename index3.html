@@ -55,21 +55,14 @@
     .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
     footer{border-top:1px solid #243254}
     a{color:#9bd6ff}
-
-    /* Groep titels */
-    .group-title{
-      grid-column: 1 / -1;
-      margin:24px 6px 8px;
-      font-size:18px;
-      color:var(--muted);
-    }
   </style>
 </head>
 <body>
   <header>
     <div class="container">
       <h1>LEGO Dimensions – Characters</h1>
-      <p class="sub">Filter op ability, franchise, pack type of wave. Zoek binnen naam of franchise.</p>
+      <p class="sub">Filter op ability, franchise, pack type of wave. Zoek binnen naam of franchise.
+      </p>
       <div class="controls" role="search">
         <div>
           <label for="q">Zoeken</label>
@@ -130,8 +123,11 @@
     const $ = (q, el=document) => el.querySelector(q);
     const $$ = (q, el=document) => Array.from(el.querySelectorAll(q));
 
+    // Some JSONs may contain dangling "abilities":, which is invalid.
     function sanitizeCharactersJSON(text){
+      // Replace occurrences of '"abilities":,' or '"abilities": ,' with empty array.
       let t = text.replace(/"abilities"\s*:\s*,/g, '"abilities": [],');
+      // Also remove any trailing commas before closing object/array (common copy errors)
       t = t.replace(/,\s*(\}|\])/g, '$1');
       return t;
     }
@@ -168,6 +164,7 @@
         $('#grid').innerHTML = `<div class="card" role="alert">`+
           `<div class="card-body"><h3>Oeps! characters.json kon niet gelezen worden.</h3>`+
           `<p class="meta">Controleer of het bestand in dezelfde map staat en geldige JSON bevat.`+
+          ` Deze pagina probeert kleine fouten (lege abilities) te herstellen, maar bij grote fouten faalt het alsnog.`+
           `</p></div></div>`;
       }
     }
@@ -175,6 +172,7 @@
     function normalize(list){
       for(const c of list){
         if(!Array.isArray(c.abilities)) c.abilities = [];
+        // Pack defaults
         c.pack = c.pack || {}; c.pack.type = c.pack.type || 'Onbekend';
         if(c.pack.releaseWave!=null) c.pack.releaseWave = String(c.pack.releaseWave);
       }
@@ -199,6 +197,7 @@
       const ab = p.get('abilities');
       state.filters.abilities = ab ? ab.split('|') : [];
 
+      // Reflect in UI
       $('#q').value = state.filters.q;
       $('#franchise').value = state.filters.franchise;
       $('#type').value = state.filters.type;
@@ -222,7 +221,7 @@
       wrap.innerHTML = '';
       const add = (label, onRemove) => {
         const b = document.createElement('button');
-        b.type='button'; b.className='chip'; b.innerHTML = label + ' ×';
+        b.type='button'; b.className='chip'; b.innerHTML = label + ' \u00d7';
         b.onclick = onRemove; wrap.appendChild(b);
       };
       if(state.filters.q) add(`Zoek: "${state.filters.q}"`, ()=>{state.filters.q=''; $('#q').value=''; trigger();});
@@ -260,12 +259,11 @@
       grid.innerHTML = '';
 
       if(state.groupByPack){
-        const grouped = groupBy(items, c => `${c.pack?.type||'Onbekend'} | ${c.pack?.name||'Onbekende pack'} | Wave ${c.pack?.releaseWave||'?'}`);
+        const grouped = groupBy(items, c => `${c.pack?.type||'Onbekend'} | ${c.pack?.name||'Onbekende pack'} | Wave ${c.pack?.releaseWave||'?'} `);
         const groups = Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'nl'));
         for(const [title, list] of groups){
           const h = document.createElement('h2');
-          h.className = 'group-title';
-          h.textContent = title;
+          h.textContent = title; h.style.margin = '24px 6px 8px'; h.style.fontSize='18px'; h.style.color='var(--muted)';
           grid.appendChild(h);
           for(const c of list){ grid.appendChild(card(c)); }
         }
@@ -308,32 +306,12 @@
     });
     $('#clearFilters').addEventListener('click', ()=>{
       state.filters = { q:'', franchise:'', type:'', wave:'', abilities:[] };
-      $('#q').
-      $('#q').value='';
-      $('#franchise').value='';
-      $('#type').value='';
-      $('#wave').value='';
+      $('#q').value=''; $('#franchise').value=''; $('#type').value=''; $('#wave').value='';
       trigger();
     });
-
     $('#groupPack').addEventListener('click', (e)=>{
-      state.groupByPack = !state.groupByPack;
-      e.currentTarget.setAttribute('aria-pressed', String(state.groupByPack));
-      render();
+      state.groupByPack = !state.groupByPack; e.currentTarget.setAttribute('aria-pressed', String(state.groupByPack)); render();
     });
-
-    // Extra: knop om huidige filters te delen
-    const shareBtn = document.createElement('button');
-    shareBtn.className = 'btn ghost';
-    shareBtn.textContent = 'Deel link';
-    shareBtn.type = 'button';
-    shareBtn.addEventListener('click', ()=>{
-      navigator.clipboard.writeText(location.href).then(()=>{
-        shareBtn.textContent = 'Link gekopieerd!';
-        setTimeout(()=>shareBtn.textContent='Deel link', 1500);
-      });
-    });
-    document.querySelector('.toolbar').appendChild(shareBtn);
 
     function trigger(){ render(); }
 
