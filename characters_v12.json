@@ -16,12 +16,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71200_1to1_MF_MUGSHOT_Batman_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71200_1to1_MF_MUGSHOT_Batman_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -41,7 +39,7 @@
       "Acrobat",
       "Boomerang",
       "Dive",
-      "Flying",
+      "Flight",
       "Grapple",
       "Invulnerability",
       "Laser Deflector",
@@ -50,12 +48,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/4d/71209_1to1_MF_MUGSHOT_Wonder_Woman_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/4/4d/71209_1to1_MF_MUGSHOT_Wonder_Woman_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -81,12 +77,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71210_1to1_MF_MUGSHOT_Cyborg_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71210_1to1_MF_MUGSHOT_Cyborg_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -110,12 +104,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b4/71229_1to1_MF_MUGSHOT_Joker_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/b/b4/71229_1to1_MF_MUGSHOT_Joker_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [
@@ -139,12 +131,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/71229_1to1_MF_MUGSHOT_Harley_Quinn_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/71229_1to1_MF_MUGSHOT_Harley_Quinn_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -162,7 +152,7 @@
     },
     "abilities": [
       "Dive",
-      "Flying",
+      "Flight",
       "Freeze Breath",
       "Invulnerability",
       "Laser",
@@ -171,12 +161,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/cb/71236_1to1_MF_MUGSHOT_Superman_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/c/cb/71236_1to1_MF_MUGSHOT_Superman_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -200,12 +188,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b3/71237_1to1_MF_MUGSHOT_Aquaman_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/b/b3/71237_1to1_MF_MUGSHOT_Aquaman_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -228,12 +214,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/49/71240_1to1_MF_MUGSHOT_Bane_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/4/49/71240_1to1_MF_MUGSHOT_Bane_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
@@ -256,12 +240,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/2c/WyldstyleHomepageNew.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/2/2c/WyldstyleHomepageNew.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [
@@ -281,17 +263,15 @@
     },
     "abilities": [
       "Drill",
-      "Fix-It",
+      "Fix It",
       "Master Build"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/63/71212_1to1_MF_MUGSHOT_Emmet_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/6/63/71212_1to1_MF_MUGSHOT_Emmet_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [],
@@ -314,12 +294,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/bb/71213_1to1_MF_MUGSHOT_Bad_Cop_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/b/bb/71213_1to1_MF_MUGSHOT_Bad_Cop_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [],
@@ -344,12 +322,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/60/71214_1to1_MF_MUGSHOT_Benny_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/6/60/71214_1to1_MF_MUGSHOT_Benny_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [],
@@ -372,12 +348,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/7/79/UnikittyHomepageNew.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/7/79/UnikittyHomepageNew.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [],
@@ -400,12 +374,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71200_71170-71174_1to1_MF_MUGSHOT_Gandalf_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71200_71170-71174_1to1_MF_MUGSHOT_Gandalf_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Lord of the Rings",
     "aliases": [
@@ -428,16 +400,14 @@
       "Boomerang",
       "Dive",
       "Mini Access",
-      "Silver LEGO Blowup"
+      "Silver LEGO Destruction"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/44/GollumHomepageNew.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/4/44/GollumHomepageNew.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Lord of the Rings",
     "aliases": [],
@@ -460,12 +430,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71219_1to1_MF_MUGSHOT_Legolas_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71219_1to1_MF_MUGSHOT_Legolas_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Lord of the Rings",
     "aliases": [],
@@ -487,12 +455,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/2b/71220_1to1_MF_MUGSHOT_Gimli_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/2/2b/71220_1to1_MF_MUGSHOT_Gimli_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Lord of the Rings",
     "aliases": [],
@@ -513,12 +479,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/17/71201_1to1_MF_MUGSHOT_Marty_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/1/17/71201_1to1_MF_MUGSHOT_Marty_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Back to the Future",
     "aliases": [],
@@ -536,18 +500,16 @@
     },
     "abilities": [
       "Drone",
-      "Fix-It",
+      "Fix It",
       "Hacking",
       "Technology"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/8b/71230_1to1_MF_MUGSHOT_Doc_Brown_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/8/8b/71230_1to1_MF_MUGSHOT_Doc_Brown_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Back to the Future",
     "aliases": [
@@ -571,19 +533,17 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71203_1to1_MF_MUGSHOT_Chell_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71203_1to1_MF_MUGSHOT_Chell_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Portal 2",
     "aliases": [],
     "availabilityStatus": "released"
   },
   {
-    "name": "Homer",
+    "name": "Homer Simpson",
     "franchise": "The Simpsons",
     "pack": {
       "type": "Level",
@@ -599,12 +559,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5f/71202_1to1_MF_MUGSHOT_Homer_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/5/5f/71202_1to1_MF_MUGSHOT_Homer_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Simpsons",
     "aliases": [],
@@ -626,19 +584,17 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9b/71211_1to1_MF_MUGSHOT_Bart_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/9/9b/71211_1to1_MF_MUGSHOT_Bart_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Simpsons",
     "aliases": [],
     "availabilityStatus": "released"
   },
   {
-    "name": "Krusty",
+    "name": "Krusty the Clown",
     "franchise": "The Simpsons",
     "pack": {
       "type": "Fun",
@@ -653,19 +609,17 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c8/71227_1to1_MF_MUGSHOT_Krusty_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/c/c8/71227_1to1_MF_MUGSHOT_Krusty_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Simpsons",
     "aliases": [],
     "availabilityStatus": "released"
   },
   {
-    "name": "Owen",
+    "name": "Owen Grady",
     "franchise": "Jurassic World",
     "pack": {
       "type": "Team",
@@ -682,12 +636,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/95/71205_1to1_MF_MUGSHOT_Owen_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/9/95/71205_1to1_MF_MUGSHOT_Owen_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Jurassic World",
     "aliases": [],
@@ -705,20 +657,14 @@
     },
     "abilities": [
       "Electricity",
-      "Illumination",
-      "Atlantis",
-      "Dive",
-      "Growth",
-      "Hazard Cleaner"
+      "Illumination"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/d6/71205_1to1_MF_MUGSHOT_ACU_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/d/d6/71205_1to1_MF_MUGSHOT_ACU_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Jurassic World",
     "aliases": [],
@@ -742,12 +688,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/25/ScoobyDooHomepageNew.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/2/25/ScoobyDooHomepageNew.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Scooby-Doo!",
     "aliases": [],
@@ -770,12 +714,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71206_1to1_MF_MUGSHOT_Shaggy_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71206_1to1_MF_MUGSHOT_Shaggy_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Scooby-Doo!",
     "aliases": [
@@ -802,12 +744,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/90/71222_1to1_MF_MUGSHOT_Laval_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/9/90/71222_1to1_MF_MUGSHOT_Laval_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Legends of Chima",
     "aliases": [],
@@ -831,12 +771,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a9/71223_1to1_MF_MUGSHOT_Cragger_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a9/71223_1to1_MF_MUGSHOT_Cragger_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Legends of Chima",
     "aliases": [],
@@ -854,18 +792,16 @@
     },
     "abilities": [
       "CHI",
-      "Flying",
+      "Flight",
       "Super Strength",
       "Target"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/86/71232_1to1_MF_MUGSHOT_Eris_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/8/86/71232_1to1_MF_MUGSHOT_Eris_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Legends of Chima",
     "aliases": [],
@@ -882,21 +818,19 @@
       "releaseDate": "2015"
     },
     "abilities": [
-      "Flying",
+      "Flight",
       "Illumination",
       "Magic",
       "Magical Shield",
       "Mind Control",
-      "Silver LEGO Blowup"
+      "Silver LEGO Destruction"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/ed/71221_1to1_MF_MUGSHOT_WickedWitch_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/e/ed/71221_1to1_MF_MUGSHOT_WickedWitch_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Wizard of Oz",
     "aliases": [
@@ -905,7 +839,7 @@
     "availabilityStatus": "released"
   },
   {
-    "name": "The Doctor",
+    "name": "Twelfth Doctor",
     "franchise": "Doctor Who",
     "pack": {
       "type": "Level",
@@ -915,7 +849,7 @@
       "releaseDate": "2015"
     },
     "abilities": [
-      "Fix-It",
+      "Fix It",
       "Hacking",
       "Sonar Smash",
       "Technology"
@@ -948,7 +882,7 @@
       "Drone",
       "Hacking",
       "Mind Control",
-      "Silver LEGO Blowup",
+      "Silver LEGO Destruction",
       "Technology",
       "X-Ray Vision"
     ],
@@ -981,12 +915,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71207_1to1_MF_MUGSHOT_Kai_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71207_1to1_MF_MUGSHOT_Kai_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
@@ -1011,12 +943,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71207_1to1_MF_MUGSHOT_Cole_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71207_1to1_MF_MUGSHOT_Cole_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
@@ -1035,18 +965,16 @@
     "abilities": [
       "Acrobat",
       "Electricity",
-      "Fix-It",
+      "Fix It",
       "Spinjitzu",
       "Stealth"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71215_1to1_MF_MUGSHOT_Jay_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71215_1to1_MF_MUGSHOT_Jay_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
@@ -1064,7 +992,7 @@
     },
     "abilities": [
       "Acrobat",
-      "Fix-It",
+      "Fix It",
       "Laser Deflector",
       "Spinjitzu",
       "Stealth"
@@ -1100,12 +1028,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71217_1to1_MF_MUGSHOT_Zane_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71217_1to1_MF_MUGSHOT_Zane_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
@@ -1130,12 +1056,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71239_1to1_MF_MUGSHOT_Lloyd_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71239_1to1_MF_MUGSHOT_Lloyd_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ninjago",
     "aliases": [
@@ -1161,12 +1085,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/65/71234_1to1_MF_MUGSHOT_Sensei_Wu_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/6/65/71234_1to1_MF_MUGSHOT_Sensei_Wu_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ninjago",
     "aliases": [
@@ -1191,12 +1113,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a6/71228_1to1_MF_MUGSHOT_Peter_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a6/71228_1to1_MF_MUGSHOT_Peter_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ghostbusters",
     "aliases": [],
@@ -1219,12 +1139,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/26/71233_1to1_MF_MUGSHOT_Stay_Puft_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/2/26/71233_1to1_MF_MUGSHOT_Stay_Puft_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ghostbusters",
     "aliases": [
@@ -1245,7 +1163,7 @@
     "abilities": [
       "Boomerang",
       "Dive",
-      "Flying",
+      "Flight",
       "Hazard Cleaner",
       "Hazard Protection",
       "Illumination",
@@ -1254,12 +1172,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71241_1to1_MF_MUGSHOT_Slimer_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71241_1to1_MF_MUGSHOT_Slimer_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Ghostbusters",
     "aliases": [],
@@ -1332,11 +1248,9 @@
       "releaseDate": "2016"
     },
     "abilities": [
-      "Flying",
+      "Flight",
       "Invulnerability",
-      "X-Ray Vision",
-      "Laser",
-      "Super Strength"
+      "X-Ray Vision"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1362,7 +1276,7 @@
       "releaseDate": "2016"
     },
     "abilities": [
-      "Character Swap",
+      "Character Changing",
       "Hazard Protection",
       "Intelligence",
       "Laser"
@@ -1468,12 +1382,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/f/f1/71245_1to1_MF_MUGSHOT_FinnTheHuman_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/f/f1/71245_1to1_MF_MUGSHOT_FinnTheHuman_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Adventure Time",
     "aliases": [
@@ -1497,12 +1409,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/f/fc/71246_1to1_MF_MUGSHOT_JakeTheDog_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/f/fc/71246_1to1_MF_MUGSHOT_JakeTheDog_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Adventure Time",
     "aliases": [
@@ -1522,18 +1432,16 @@
     },
     "abilities": [
       "Boomerang",
-      "Flying",
+      "Flight",
       "Hazard Protection",
       "Target"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/e8/71246_1to1_MF_MUGSHOT_LumpySpacePrincess_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/e/e8/71246_1to1_MF_MUGSHOT_LumpySpacePrincess_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Adventure Time",
     "aliases": [
@@ -1553,7 +1461,7 @@
     },
     "abilities": [
       "Acrobat",
-      "Flying",
+      "Flight",
       "Heart Regeneration",
       "Mind Control",
       "Mini Access",
@@ -1564,12 +1472,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/24/71285_1to1_MF_MUGSHOT_MarcelineTheVampireQueen_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/2/24/71285_1to1_MF_MUGSHOT_MarcelineTheVampireQueen_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Adventure Time",
     "aliases": [
@@ -1616,14 +1522,14 @@
       "releaseDate": "2016"
     },
     "abilities": [
-      "Flying",
+      "Flight",
       "Growth",
       "Hazard Cleaner",
       "Illumination",
       "Intelligence",
       "Magic",
       "Magical Shield",
-      "Silver LEGO Blowup",
+      "Silver LEGO Destruction",
       "Target"
     ],
     "minifigure": {
@@ -1648,23 +1554,21 @@
       "releaseDate": "2016"
     },
     "abilities": [
-      "Flying",
+      "Flight",
       "Growth",
       "Hazard Cleaner",
       "Illumination",
       "Magic",
       "Magical Shield",
-      "Silver LEGO Blowup",
+      "Silver LEGO Destruction",
       "Target"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9a/71247_1to1_MF_MUGSHOT_LordVoldemort_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/9/9a/71247_1to1_MF_MUGSHOT_LordVoldemort_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Harry Potter",
     "aliases": [
@@ -1709,16 +1613,14 @@
     },
     "abilities": [
       "Super Strength",
-      "Master Build"
+      "A-Team Master Build"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/4f/71251_1to1_MF_MUGSHOT_B_A_Baracus_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/4/4f/71251_1to1_MF_MUGSHOT_B_A_Baracus_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The A-Team",
     "aliases": [
@@ -1737,8 +1639,8 @@
       "releaseDate": "2016"
     },
     "abilities": [
-      "Character Swap",
-      "Fix-It",
+      "Character Changing",
+      "Fix It",
       "Growth",
       "Intelligence",
       "Laser Deflector",
@@ -1773,12 +1675,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/db/71244_1to1_MF_MUGSHOT_SonicTheHedgehog_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/d/db/71244_1to1_MF_MUGSHOT_SonicTheHedgehog_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Sonic the Hedgehog",
     "aliases": [
@@ -1801,12 +1701,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71256_1to1_MF_MUGSHOT_Gizmo_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71256_1to1_MF_MUGSHOT_Gizmo_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Gremlins",
     "aliases": [],
@@ -1828,12 +1726,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/87/71256_1to1_MF_MUGSHOT_Stripe_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/8/87/71256_1to1_MF_MUGSHOT_Stripe_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Gremlins",
     "aliases": [],
@@ -1854,12 +1750,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9e/71264_1to1_MF_MUGSHOT_Batgirl_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/9/9e/71264_1to1_MF_MUGSHOT_Batgirl_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The LEGO Batman Movie",
     "aliases": [],
@@ -1881,12 +1775,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/Headshots_Robin.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/Headshots_Robin.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The LEGO Batman Movie",
     "aliases": [],
@@ -1912,12 +1804,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71344_1to1_MF_MUGSHOT_ExcaliburBatman_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71344_1to1_MF_MUGSHOT_ExcaliburBatman_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The LEGO Batman Movie",
     "aliases": [],
@@ -1940,12 +1830,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b1/71286_1to1_MF_MUGSHOT_MichaelKnight_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/b/b1/71286_1to1_MF_MUGSHOT_MichaelKnight_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Knight Rider",
     "aliases": [],
@@ -1967,12 +1855,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c7/71267_1to1_MF_MUGSHOT_Sloth_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/c/c7/71267_1to1_MF_MUGSHOT_Sloth_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "The Goonies",
     "aliases": [],
@@ -2000,12 +1886,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c2/71266_1to1_MF_MUGSHOT_ChaseMcCain_336.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/c/c2/71266_1to1_MF_MUGSHOT_ChaseMcCain_336.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "LEGO City",
     "aliases": [],
@@ -2022,17 +1906,7 @@
       "releaseDate": "2017"
     },
     "abilities": [
-      "Flying",
-      "LEGO Constructs",
-      "Laser",
-      "Melt Ice",
-      "Freeze Breath",
-      "Energy Shield",
-      "Intelligence",
-      "Super Strength",
-      "Dive",
-      "X-Ray Vision",
-      "Heart Regeneration"
+      "unknown"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2056,13 +1930,11 @@
       "releaseDate": "2017"
     },
     "abilities": [
-      "Flying",
+      "Flight",
       "Heart Regeneration",
       "Laser",
       "Rainbow LEGO Objects",
-      "Super Strength",
-      "Freeze Breath",
-      "Illumination"
+      "Super Strength"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2086,15 +1958,7 @@
       "releaseDate": "2017"
     },
     "abilities": [
-      "Flying",
-      "LEGO Constructs",
-      "Super Strength",
-      "Super Strength Handles",
-      "Energy Shield",
-      "Gyrosphere Switches",
-      "Dive",
-      "Spinjitzu",
-      "Heart Regeneration"
+      "unknown"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2118,16 +1982,8 @@
       "releaseDate": "2017"
     },
     "abilities": [
-      "Acrobat",
-      "Mini Access",
-      "Atlantis Elemental",
-      "Shape Shift",
-      "Flying (Bird)",
-      "Dive (Dolphin)",
-      "Slurp Access (Mouse)",
-      "Drone Mazes (Mouse)",
-      "Dig (Dog)",
-      "Tracking (Dog)"
+      "Dive",
+      "Transformation"
     ],
     "minifigure": {
       "legoId": "unknown",
