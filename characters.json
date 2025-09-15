@@ -1385,81 +1385,6 @@
     "availabilityStatus": "released"
   },
   {
-    "name": "Erin Gilbert",
-    "franchise": "Ghostbusters",
-    "pack": {
-      "type": "Story",
-      "name": "Ghostbusters (2016) Story Pack",
-      "releaseWave": 2,
-      "setNumber": "71242",
-      "releaseDate": "2016"
-    },
-    "abilities": [
-      "Hazard Protection",
-      "Laser"
-    ],
-    "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": "unknown",
-      "dimensionsId": "unknown",
-      "bricklinkId": "unknown",
-      "imageUrls": []
-    },
-    "adventureWorld": "Ghostbusters",
-    "aliases": [],
-    "availabilityStatus": "released"
-  },
-  {
-    "name": "Jillian Holtzmann",
-    "franchise": "Ghostbusters",
-    "pack": {
-      "type": "Story",
-      "name": "Ghostbusters (2016) Story Pack",
-      "releaseWave": 2,
-      "setNumber": "71242",
-      "releaseDate": "2016"
-    },
-    "abilities": [
-      "Hazard Protection",
-      "Laser"
-    ],
-    "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": "unknown",
-      "dimensionsId": "unknown",
-      "bricklinkId": "unknown",
-      "imageUrls": []
-    },
-    "adventureWorld": "Ghostbusters",
-    "aliases": [],
-    "availabilityStatus": "released"
-  },
-  {
-    "name": "Patty Tolan",
-    "franchise": "Ghostbusters",
-    "pack": {
-      "type": "Story",
-      "name": "Ghostbusters (2016) Story Pack",
-      "releaseWave": 2,
-      "setNumber": "71242",
-      "releaseDate": "2016"
-    },
-    "abilities": [
-      "Hazard Protection",
-      "Laser"
-    ],
-    "minifigure": {
-      "legoId": "unknown",
-      "imageUrl": "unknown",
-      "dimensionsId": "unknown",
-      "bricklinkId": "unknown",
-      "imageUrls": []
-    },
-    "adventureWorld": "Ghostbusters",
-    "aliases": [],
-    "availabilityStatus": "released"
-  },
-  {
     "name": "Finn the Human",
     "franchise": "Adventure Time",
     "pack": {
@@ -2122,6 +2047,32 @@
     "availabilityStatus": "released"
   },
   {
+    "name": "Starfire",
+    "franchise": "Teen Titans Go!",
+    "adventureWorld": "Teen Titans Go!",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "pack": {
+      "type": "Fun Pack",
+      "name": "Starfire Fun Pack",
+      "setNumber": "71287",
+      "releaseWave": 9,
+      "releaseYear": 2017
+    },
+    "pieces": 56,
+    "minifigs": 1,
+    "abilities": [
+      "Acrobat",
+      "Flying",
+      "Laser",
+      "Rainbow LEGO Objects",
+      "Dive",
+      "Atlantis Elemental",
+      "Parseltongue Doors",
+      "Heart Regeneration"
+    ]
+  },
+  {
     "name": "Beast Boy",
     "franchise": "Teen Titans Go!",
     "pack": {
@@ -2231,7 +2182,7 @@
     }
   },
   {
-    "name": "Porpentina Goldstein",
+    "name": "Tina Goldstein",
     "aliases": [
       "Tina Goldstein",
       "Tina"
