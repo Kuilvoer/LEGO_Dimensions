@@ -232,7 +232,7 @@
       const el=tpl.content.firstElementChild.cloneNode(true);
       $('img',el).src=c.minifigure?.imageUrl||'';
       $('.name',el).textContent=c.name;
-      $('.franchise',el).textContent=`${c.franchise||'Onbekend'} • Voice: ${c.voiceActor||'—'}`;
+      $('.franchise', el).textContent = c.franchise || 'Onbekend';
       const ab=$('.abilities',el);(c.abilities||[]).forEach(a=>{const s=document.createElement('span');s.className='ability';s.textContent=a;ab.appendChild(s);});
       const p = $('.pack', el);
       const waveTxt = c.pack?.releaseWave != null ? `Wave ${c.pack.releaseWave}` : 'Wave ?';
