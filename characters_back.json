@@ -148,15 +148,7 @@
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 1",
-    "gameYear": 1,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Superman",
@@ -504,15 +496,7 @@
     },
     "adventureWorld": "The Lord of the Rings",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 1",
-    "gameYear": 1,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Marty McFly",
@@ -538,15 +522,7 @@
     },
     "adventureWorld": "Back to the Future",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 1",
-    "gameYear": 1,
-    "verification": {
-      "userClaimCount": 1,
-      "verifiedCount": 1,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Doc Brown",
@@ -604,15 +580,7 @@
     },
     "adventureWorld": "Portal 2",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 1",
-    "gameYear": 1,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Homer",
@@ -667,15 +635,7 @@
     },
     "adventureWorld": "The Simpsons",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 1",
-    "gameYear": 1,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Krusty",
@@ -702,15 +662,7 @@
     },
     "adventureWorld": "The Simpsons",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 1",
-    "gameYear": 1,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Owen",
@@ -1451,10 +1403,7 @@
       "releaseDate": "2016"
     },
     "abilities": [
-      "Pole Vault",
-      "Vine Cut",
-      "Sword Switch",
-      "Cursed Red LEGO Objects"
+      "Acrobat"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1469,15 +1418,7 @@
     "aliases": [
       "Finn"
     ],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 1,
-      "verifiedCount": 4,
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Jake the Dog",
@@ -1491,10 +1432,7 @@
     },
     "abilities": [
       "Big Transform",
-      "Super Strength",
-      "Drill",
-      "Grapple",
-      "Tracking"
+      "Super Strength"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1509,15 +1447,7 @@
     "aliases": [
       "Jake"
     ],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 16,
-      "status": "Drastisch incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Lumpy Space Princess",
@@ -1710,15 +1640,7 @@
     },
     "adventureWorld": "Harry Potter",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "B.A. Baracus",
@@ -1747,15 +1669,7 @@
     "aliases": [
       "BA Baracus"
     ],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 2,
-      "status": "Incorrect (Nuance)",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Newt Scamander",
@@ -1802,8 +1716,7 @@
     },
     "abilities": [
       "Speed",
-      "Invulnerability",
-      "Grind Rails"
+      "Invulnerability"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1818,15 +1731,7 @@
     "aliases": [
       "Sonic"
     ],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 3,
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Gizmo",
@@ -1839,9 +1744,7 @@
       "releaseDate": "2017"
     },
     "abilities": [
-      "Acrobat",
-      "Mini Access",
-      "Target"
+      "Acrobat"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1854,15 +1757,7 @@
     },
     "adventureWorld": "Gremlins",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 1,
-      "verifiedCount": "3+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Stripe",
@@ -1876,9 +1771,7 @@
     },
     "abilities": [
       "Acrobat",
-      "Claws",
-      "Vine Cut",
-      "Mini Access"
+      "Claws"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1891,15 +1784,7 @@
     },
     "adventureWorld": "Gremlins",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": "4+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Batgirl",
@@ -1912,11 +1797,7 @@
       "releaseDate": "2017"
     },
     "abilities": [
-      "Boomerang",
-      "Glide",
-      "Stealth",
-      "High-Security Access",
-      "Detective Mode"
+      "Boomerang"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1929,15 +1810,7 @@
     },
     "adventureWorld": "The LEGO Batman Movie",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 1,
-      "verifiedCount": 5,
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Robin",
@@ -1951,10 +1824,7 @@
     },
     "abilities": [
       "Acrobat",
-      "Rope Swing",
-      "Vent Access",
-      "Dive",
-      "Glide"
+      "Rope Swing"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1967,15 +1837,7 @@
     },
     "adventureWorld": "The LEGO Batman Movie",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 1",
-    "gameYear": 1,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": "5+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Excalibur Batman",
@@ -2048,8 +1910,7 @@
     },
     "abilities": [
       "Super Strength",
-      "Climb",
-      "Big Transform"
+      "Climb"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2062,15 +1923,7 @@
     },
     "adventureWorld": "The Goonies",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": 3,
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Chase McCain",
@@ -2286,8 +2139,7 @@
     },
     "abilities": [
       "Magic",
-      "Teleport",
-      "Flying"
+      "Teleport"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2300,15 +2152,7 @@
     },
     "adventureWorld": "Teen Titans Go!",
     "aliases": [],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": "3+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "Beetlejuice",
@@ -2322,8 +2166,7 @@
     },
     "abilities": [
       "Magic",
-      "Mind Control",
-      "Teleport"
+      "Mind Control"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2338,15 +2181,7 @@
     "aliases": [
       "Betelgeuse"
     ],
-    "availabilityStatus": "released",
-    "gameYearLabel": "Year 2",
-    "gameYear": 2,
-    "verification": {
-      "userClaimCount": 2,
-      "verifiedCount": "3+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+    "availabilityStatus": "released"
   },
   {
     "name": "E.T.",
