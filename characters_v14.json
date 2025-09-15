@@ -922,12 +922,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/e1/712041to1MFMUGSHOTDr_Who168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/e/e1/712041to1MFMUGSHOTDr_Who168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Doctor Who",
     "aliases": [
@@ -956,12 +954,10 @@
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/dc/71238_1to1_MF_MUGSHOT_Gyberman_168.png",
+      "imageUrl": "unknown",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/d/dc/71238_1to1_MF_MUGSHOT_Gyberman_168.png"
-      ]
+      "imageUrls": []
     },
     "adventureWorld": "Doctor Who",
     "aliases": [],
@@ -2205,59 +2201,5 @@
       "Betelgeuse"
     ],
     "availabilityStatus": "released"
-  },
-  {
-    "name": "E.T.",
-    "aliases": [
-      "ET",
-      "Extra-Terrestrial"
-    ],
-    "franchise": "E.T. the Extra-Terrestrial",
-    "pack": "71258 Fun Pack",
-    "abilities": [
-      "Mini Access",
-      "Fix-It",
-      "Illumination",
-      "Stealth",
-      "Magic",
-      "Growth",
-      "Heart Regeneration"
-    ],
-    "minifigure": {
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/23/71258_1to1_MF_MUGSHOT_ET_336.png",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/2/23/71258_1to1_MF_MUGSHOT_ET_336.png"
-      ]
-    }
-  },
-  {
-    "name": "Porpentina Goldstein",
-    "aliases": [
-      "Tina Goldstein",
-      "Tina"
-    ],
-    "franchise": "Fantastic Beasts and Where to Find Them",
-    "pack": "71257 Fun Pack",
-    "abilities": [
-      "Magic",
-      "Illumination",
-      "Magical Shield",
-      "Target",
-      "Acrobat",
-      "Diffindo",
-      "Silver LEGO Blowup",
-      "Laser Deflector",
-      "Water Spray",
-      "Growth",
-      "Hazard Cleaner",
-      "Apparate Access",
-      "Character Changing"
-    ],
-    "minifigure": {
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/18/71257_1to1_MF_MUGSHOT_TinaGoldstein_01_336.png",
-      "imageUrls": [
-        "https://static.wikia.nocookie.net/lego-dimensions/images/1/18/71257_1to1_MF_MUGSHOT_TinaGoldstein_01_336.png"
-      ]
-    }
   }
 ]
