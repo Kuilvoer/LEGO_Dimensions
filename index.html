@@ -73,6 +73,25 @@
     a{color:#9bd6ff}
 
     .group-title{ grid-column:1 / -1; margin:24px 6px 8px; font-size:18px; color:var(--muted); }
+
+    /* pistiaan toevoeging */
+    .card {
+    position: relative; /* so checkbox can be positioned inside */
+    }
+
+    .owned-checkbox {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      width: 20px;
+      height: 20px;
+      cursor: pointer;
+    }
+
+    .card.owned {
+      border: 2px solid limegreen;
+      box-shadow: 0 0 10px rgba(50, 205, 50, 0.6);
+    }
   </style>
 </head>
 <body>
@@ -359,5 +378,6 @@
       });
     }
   </script>
+  <script src="selection.js"></script>
 </body>
 </html>
