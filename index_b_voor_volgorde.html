@@ -231,22 +231,12 @@
       // chips boven de grid
       renderChips();
 
-      if (state.groupByPack) {
+      if(state.groupByPack){
         const grouped = groupBy(items, c => `${c.pack?.type} | ${c.pack?.name} | Year ${c.pack?.releaseWave}`);
-
-        const groups = Object.entries(grouped).sort((a, b) => {
-    // 1) meeste minifigs eerst
-        const bySize = b[1].length - a[1].length;
-      if (bySize !== 0) return bySize;
-
-    // 2) Year oplopend (neem jaar van het eerste item in de groep)
-        const ay = Number(a[1][0]?.pack?.releaseWave ?? Infinity);
-        const by = Number(b[1][0]?.pack?.releaseWave ?? Infinity);
-      if (ay !== by) return ay - by;
-
-    // 3) alfabetisch op de groepstitel
-        return a[0].localeCompare(b[0], 'nl');
-  });
+        const groups  = Object.entries(grouped).sort((a, b) => {
+          const bySize = b[1].length - a[1].length;      // meeste minifigs eerst
+          return bySize !== 0 ? bySize : a[0].localeCompare(b[0], 'nl'); // daarna alfabetisch op titel
+      });
 
         for(const [title,list] of groups){
           const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
