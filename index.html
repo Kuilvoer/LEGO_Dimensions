@@ -249,7 +249,7 @@
   for (const [title, list] of groups) {
     const h = document.createElement('h2');
     h.className = 'group-title';
-    h.textContent = title; optioneel: aantal erbij tonen
+    h.textContent = title; // optioneel: aantal erbij tonen
     grid.appendChild(h);
     list.forEach(c => grid.appendChild(card(c)));
   }
