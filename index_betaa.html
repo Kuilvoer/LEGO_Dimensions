@@ -229,13 +229,7 @@
 
       if (state.groupByPack) {
         const grouped = groupBy(items, c => `${c.pack?.type || 'Pack'} | ${c.pack?.name || 'Unknown'} | ${c._yearLabel} • ${waveText(c)}`);
-        const groups = Object.entries(grouped).sort((a,b)=>{
-          // Extract wave number from key string
-          const aw = +(a[0].match(/Wave (\d+)/)||[])[1] || Infinity;
-          const bw = +(b[0].match(/Wave (\d+)/)||[])[1] || Infinity;
-          if (aw!==bw) return aw-bw;
-          return a[0].localeCompare(b[0],'en');
-        });
+        const groups = Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'en'));
         for(const [title,list] of groups){
           const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
           list.forEach(c=>grid.appendChild(card(c)));
