@@ -5,14 +5,19 @@
     "pack": {
       "type": "Starter",
       "name": "Starter Pack",
-      "releaseWave": 1,
+      "releaseWave": 8,
       "setNumber": "71200",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 2
     },
     "abilities": [
       "Boomerang",
+      "Cracked LEGO Objects",
       "Grapple",
-      "Stealth"
+      "Laser Deflector",
+      "Master Build",
+      "Stealth",
+      "Sword Switch"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -25,7 +30,46 @@
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Boomerang",
+        "category": "Ranged",
+        "subcategory": "Boomerang"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Master Build",
+        "category": "Builder",
+        "subcategory": "Master Build"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Sword Switch",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Wonder Woman",
@@ -35,18 +79,19 @@
       "name": "Wonder Woman Fun Pack",
       "releaseWave": 1,
       "setNumber": "71209",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
       "Boomerang",
+      "Cracked LEGO Objects",
       "Dive",
-      "Flying",
+      "Flight",
       "Grapple",
       "Invulnerability",
       "Laser Deflector",
-      "Mind Control",
-      "Super Strength"
+      "Mind Control"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -59,7 +104,56 @@
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Boomerang",
+        "category": "Ranged",
+        "subcategory": "Boomerang"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Invulnerability",
+        "category": "General"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Mind Control",
+        "category": "Special",
+        "subcategory": "Mind Control"
+      }
+    ]
   },
   {
     "name": "Cyborg",
@@ -69,13 +163,14 @@
       "name": "Cyborg Fun Pack",
       "releaseWave": 1,
       "setNumber": "71210",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Big Transform",
+      "Cracked LEGO Objects",
       "Dive",
       "Laser",
-      "Super Strength",
       "Target",
       "Technology"
     ],
@@ -90,7 +185,42 @@
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Big Transform",
+        "category": "General"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Technology",
+        "category": "Builder",
+        "subcategory": "Operate Tech"
+      }
+    ]
   },
   {
     "name": "The Joker",
@@ -98,9 +228,10 @@
     "pack": {
       "type": "Team",
       "name": "DC Comics Team Pack",
-      "releaseWave": 1,
+      "releaseWave": 3,
       "setNumber": "71229",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Electricity",
@@ -121,7 +252,32 @@
     "aliases": [
       "Joker"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Electricity",
+        "category": "Tech",
+        "subcategory": "Electricity"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Harley Quinn",
@@ -129,13 +285,14 @@
     "pack": {
       "type": "Team",
       "name": "DC Comics Team Pack",
-      "releaseWave": 1,
+      "releaseWave": 3,
       "setNumber": "71229",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
-      "Super Strength"
+      "Cracked LEGO Objects"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -154,9 +311,21 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      }
+    ]
   },
   {
     "name": "Superman",
@@ -164,17 +333,18 @@
     "pack": {
       "type": "Fun",
       "name": "Superman Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 4,
       "setNumber": "71236",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
+      "Cracked LEGO Objects",
       "Dive",
-      "Flying",
+      "Flight",
       "Freeze Breath",
       "Invulnerability",
       "Laser",
-      "Super Strength",
       "X-Ray Vision"
     ],
     "minifigure": {
@@ -188,7 +358,46 @@
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Freeze Breath",
+        "category": "General"
+      },
+      {
+        "name": "Invulnerability",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "X-Ray Vision",
+        "category": "Detection",
+        "subcategory": "X-Ray"
+      }
+    ]
   },
   {
     "name": "Aquaman",
@@ -196,9 +405,10 @@
     "pack": {
       "type": "Fun",
       "name": "Aquaman Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 4,
       "setNumber": "71237",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Atlantis",
@@ -217,7 +427,31 @@
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Atlantis",
+        "category": "General"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Growth",
+        "category": "General"
+      },
+      {
+        "name": "Hazard Cleaner",
+        "category": "Utility",
+        "subcategory": "Hazard Cleaner"
+      }
+    ]
   },
   {
     "name": "Bane",
@@ -225,14 +459,15 @@
     "pack": {
       "type": "Fun",
       "name": "Bane Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 5,
       "setNumber": "71240",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Big Transform",
-      "Hazard Protection",
-      "Super Strength"
+      "Cracked LEGO Objects",
+      "Hazard Protection"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -245,7 +480,26 @@
     },
     "adventureWorld": "DC Comics",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Big Transform",
+        "category": "General"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Wyldstyle",
@@ -255,7 +509,8 @@
       "name": "Starter Pack",
       "releaseWave": 1,
       "setNumber": "71200",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
@@ -275,7 +530,28 @@
     "aliases": [
       "Lucy"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Master Build",
+        "category": "Builder",
+        "subcategory": "Master Build"
+      },
+      {
+        "name": "Relic Detector",
+        "category": "Detection",
+        "subcategory": "Relics"
+      }
+    ]
   },
   {
     "name": "Emmet",
@@ -285,7 +561,8 @@
       "name": "Emmet Fun Pack",
       "releaseWave": 1,
       "setNumber": "71212",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Drill",
@@ -303,7 +580,27 @@
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Drill",
+        "category": "General"
+      },
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Master Build",
+        "category": "Builder",
+        "subcategory": "Master Build"
+      }
+    ]
   },
   {
     "name": "Bad Cop",
@@ -313,7 +610,8 @@
       "name": "Bad Cop Fun Pack",
       "releaseWave": 1,
       "setNumber": "71213",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Laser",
@@ -331,7 +629,28 @@
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Relic Detector",
+        "category": "Detection",
+        "subcategory": "Relics"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Benny",
@@ -341,7 +660,8 @@
       "name": "Benny Fun Pack",
       "releaseWave": 1,
       "setNumber": "71214",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Hacking",
@@ -361,7 +681,36 @@
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Hacking",
+        "category": "General"
+      },
+      {
+        "name": "Master Build",
+        "category": "Builder",
+        "subcategory": "Master Build"
+      },
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Technology",
+        "category": "Builder",
+        "subcategory": "Operate Tech"
+      }
+    ]
   },
   {
     "name": "Unikitty",
@@ -369,9 +718,10 @@
     "pack": {
       "type": "Fun",
       "name": "Unikitty Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 2,
       "setNumber": "71231",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Big Transform",
@@ -389,7 +739,26 @@
     },
     "adventureWorld": "The LEGO Movie",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Big Transform",
+        "category": "General"
+      },
+      {
+        "name": "Master Build",
+        "category": "Builder",
+        "subcategory": "Master Build"
+      },
+      {
+        "name": "Rainbow LEGO Objects",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Gandalf the Grey",
@@ -399,7 +768,8 @@
       "name": "Starter Pack",
       "releaseWave": 1,
       "setNumber": "71200",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Illumination",
@@ -419,7 +789,27 @@
     "aliases": [
       "Gandalf"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Magical Shield",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Gollum",
@@ -429,7 +819,8 @@
       "name": "Gollum Fun Pack",
       "releaseWave": 1,
       "setNumber": "71218",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
@@ -449,7 +840,37 @@
     },
     "adventureWorld": "The Lord of the Rings",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Boomerang",
+        "category": "Ranged",
+        "subcategory": "Boomerang"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      }
+    ]
   },
   {
     "name": "Legolas",
@@ -459,10 +880,12 @@
       "name": "Legolas Fun Pack",
       "releaseWave": 1,
       "setNumber": "71219",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
+      "Grind Rails",
       "Pole Vault",
       "Target"
     ],
@@ -477,7 +900,31 @@
     },
     "adventureWorld": "The Lord of the Rings",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Grind Rails",
+        "category": "General"
+      },
+      {
+        "name": "Pole Vault",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Gimli",
@@ -487,11 +934,12 @@
       "name": "Gimli Fun Pack",
       "releaseWave": 1,
       "setNumber": "71220",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
-      "Mini Access",
-      "Super Strength"
+      "Cracked LEGO Objects",
+      "Mini Access"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -510,9 +958,20 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Marty McFly",
@@ -522,7 +981,8 @@
       "name": "Back to the Future Level Pack",
       "releaseWave": 1,
       "setNumber": "71201",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Sonar Smash"
@@ -544,9 +1004,15 @@
     "verification": {
       "userClaimCount": 1,
       "verifiedCount": 1,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Doc Brown",
@@ -554,14 +1020,16 @@
     "pack": {
       "type": "Fun",
       "name": "Doc Brown Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 3,
       "setNumber": "71230",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
-      "Drone",
+      "Drone Mazes",
       "Fix-It",
       "Hacking",
+      "Intelligence",
       "Technology"
     ],
     "minifigure": {
@@ -577,7 +1045,35 @@
     "aliases": [
       "Emmett Brown"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Drone Mazes",
+        "category": "General"
+      },
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Hacking",
+        "category": "General"
+      },
+      {
+        "name": "Intelligence",
+        "category": "General"
+      },
+      {
+        "name": "Technology",
+        "category": "Builder",
+        "subcategory": "Operate Tech"
+      }
+    ]
   },
   {
     "name": "Chell",
@@ -587,7 +1083,8 @@
       "name": "Portal 2 Level Pack",
       "releaseWave": 1,
       "setNumber": "71203",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
@@ -610,9 +1107,20 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Portal Gun",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Homer",
@@ -622,12 +1130,13 @@
       "name": "The Simpsons Level Pack",
       "releaseWave": 1,
       "setNumber": "71202",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Big Transform",
-      "Sonar Smash",
-      "Super Strength"
+      "Cracked LEGO Objects",
+      "Sonar Smash"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -640,7 +1149,26 @@
     },
     "adventureWorld": "The Simpsons",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Big Transform",
+        "category": "General"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Bart Simpson",
@@ -648,9 +1176,10 @@
     "pack": {
       "type": "Fun",
       "name": "Bart Simpson Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 2,
       "setNumber": "71211",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Mini Access",
@@ -673,9 +1202,20 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Krusty",
@@ -683,9 +1223,10 @@
     "pack": {
       "type": "Fun",
       "name": "Krusty the Clown Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 2,
       "setNumber": "71227",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Growth",
@@ -708,9 +1249,20 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Growth",
+        "category": "General"
+      },
+      {
+        "name": "Hazard Cleaner",
+        "category": "Utility",
+        "subcategory": "Hazard Cleaner"
+      }
+    ]
   },
   {
     "name": "Owen",
@@ -720,7 +1272,8 @@
       "name": "Jurassic World Team Pack",
       "releaseWave": 1,
       "setNumber": "71205",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Stealth",
@@ -739,7 +1292,32 @@
     },
     "adventureWorld": "Jurassic World",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Tracking",
+        "category": "Detection",
+        "subcategory": "Tracking"
+      },
+      {
+        "name": "Vine Cut",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "ACU Trooper",
@@ -749,15 +1327,12 @@
       "name": "Jurassic World Team Pack",
       "releaseWave": 1,
       "setNumber": "71205",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Electricity",
-      "Illumination",
-      "Atlantis",
-      "Dive",
-      "Growth",
-      "Hazard Cleaner"
+      "Illumination"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -770,7 +1345,23 @@
     },
     "adventureWorld": "Jurassic World",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Electricity",
+        "category": "Tech",
+        "subcategory": "Electricity"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      }
+    ]
   },
   {
     "name": "Scooby-Doo",
@@ -780,7 +1371,8 @@
       "name": "Scooby-Doo Team Pack",
       "releaseWave": 1,
       "setNumber": "71206",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Dig",
@@ -799,7 +1391,32 @@
     },
     "adventureWorld": "Scooby-Doo!",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Dig",
+        "category": "General"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Tracking",
+        "category": "Detection",
+        "subcategory": "Tracking"
+      }
+    ]
   },
   {
     "name": "Shaggy",
@@ -809,7 +1426,8 @@
       "name": "Scooby-Doo Team Pack",
       "releaseWave": 1,
       "setNumber": "71206",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Illumination",
@@ -829,7 +1447,28 @@
     "aliases": [
       "Shaggy Rogers"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Tracking",
+        "category": "Detection",
+        "subcategory": "Tracking"
+      }
+    ]
   },
   {
     "name": "Laval",
@@ -839,14 +1478,15 @@
       "name": "Laval Fun Pack",
       "releaseWave": 1,
       "setNumber": "71222",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
-      "CHI",
+      "Chi",
+      "Cracked LEGO Objects",
       "Laser Deflector",
-      "Sonar Smash",
-      "Super Strength"
+      "Sonar Smash"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -859,7 +1499,36 @@
     },
     "adventureWorld": "Legends of Chima",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Chi",
+        "category": "Special",
+        "subcategory": "Chi"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Cragger",
@@ -869,13 +1538,14 @@
       "name": "Cragger Fun Pack",
       "releaseWave": 1,
       "setNumber": "71223",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
-      "CHI",
+      "Chi",
+      "Cracked LEGO Objects",
       "Dive",
-      "Hazard Protection",
-      "Super Strength"
+      "Hazard Protection"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -888,7 +1558,32 @@
     },
     "adventureWorld": "Legends of Chima",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Chi",
+        "category": "Special",
+        "subcategory": "Chi"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Eris",
@@ -898,12 +1593,13 @@
       "name": "Eris Fun Pack",
       "releaseWave": 1,
       "setNumber": "71232",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
-      "CHI",
-      "Flying",
-      "Super Strength",
+      "Chi",
+      "Cracked LEGO Objects",
+      "Flight",
       "Target"
     ],
     "minifigure": {
@@ -917,7 +1613,33 @@
     },
     "adventureWorld": "Legends of Chima",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Chi",
+        "category": "Special",
+        "subcategory": "Chi"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Wicked Witch of the West",
@@ -927,10 +1649,11 @@
       "name": "Wicked Witch of the West Fun Pack",
       "releaseWave": 1,
       "setNumber": "71221",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
-      "Flying",
+      "Flight",
       "Illumination",
       "Magic",
       "Magical Shield",
@@ -950,7 +1673,42 @@
     "aliases": [
       "Wicked Witch"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Magical Shield",
+        "category": "General"
+      },
+      {
+        "name": "Mind Control",
+        "category": "Special",
+        "subcategory": "Mind Control"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      }
+    ]
   },
   {
     "name": "The Doctor",
@@ -958,13 +1716,15 @@
     "pack": {
       "type": "Level",
       "name": "Doctor Who Level Pack",
-      "releaseWave": 1,
+      "releaseWave": 2,
       "setNumber": "71204",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Fix-It",
       "Hacking",
+      "Intelligence",
       "Sonar Smash",
       "Technology"
     ],
@@ -981,7 +1741,35 @@
     "aliases": [
       "The Doctor"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Hacking",
+        "category": "General"
+      },
+      {
+        "name": "Intelligence",
+        "category": "General"
+      },
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      },
+      {
+        "name": "Technology",
+        "category": "Builder",
+        "subcategory": "Operate Tech"
+      }
+    ]
   },
   {
     "name": "Cyberman",
@@ -989,13 +1777,14 @@
     "pack": {
       "type": "Fun",
       "name": "Cyberman Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 3,
       "setNumber": "71238",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Dive",
-      "Drone",
+      "Drone Mazes",
       "Hacking",
       "Mind Control",
       "Silver LEGO Blowup",
@@ -1013,7 +1802,46 @@
     },
     "adventureWorld": "Doctor Who",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Drone Mazes",
+        "category": "General"
+      },
+      {
+        "name": "Hacking",
+        "category": "General"
+      },
+      {
+        "name": "Mind Control",
+        "category": "Special",
+        "subcategory": "Mind Control"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Technology",
+        "category": "Builder",
+        "subcategory": "Operate Tech"
+      },
+      {
+        "name": "X-Ray Vision",
+        "category": "Detection",
+        "subcategory": "X-Ray"
+      }
+    ]
   },
   {
     "name": "Kai",
@@ -1021,9 +1849,10 @@
     "pack": {
       "type": "Team",
       "name": "LEGO Ninjago Team Pack",
-      "releaseWave": 1,
+      "releaseWave": 2,
       "setNumber": "71207",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
@@ -1042,7 +1871,32 @@
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Spinjitzu",
+        "category": "Special",
+        "subcategory": "Spinjitzu"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Cole",
@@ -1050,16 +1904,17 @@
     "pack": {
       "type": "Team",
       "name": "LEGO Ninjago Team Pack",
-      "releaseWave": 1,
+      "releaseWave": 2,
       "setNumber": "71207",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
+      "Cracked LEGO Objects",
       "Laser Deflector",
       "Spinjitzu",
-      "Stealth",
-      "Super Strength"
+      "Stealth"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1072,7 +1927,37 @@
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Spinjitzu",
+        "category": "Special",
+        "subcategory": "Spinjitzu"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Jay",
@@ -1082,12 +1967,14 @@
       "name": "Jay Fun Pack",
       "releaseWave": 1,
       "setNumber": "71215",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
       "Electricity",
       "Fix-It",
+      "Intelligence",
       "Spinjitzu",
       "Stealth"
     ],
@@ -1102,7 +1989,42 @@
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Electricity",
+        "category": "Tech",
+        "subcategory": "Electricity"
+      },
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Intelligence",
+        "category": "General"
+      },
+      {
+        "name": "Spinjitzu",
+        "category": "Special",
+        "subcategory": "Spinjitzu"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Nya",
@@ -1112,7 +2034,8 @@
       "name": "Nya Fun Pack",
       "releaseWave": 1,
       "setNumber": "71216",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
@@ -1132,7 +2055,37 @@
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Spinjitzu",
+        "category": "Special",
+        "subcategory": "Spinjitzu"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Zane",
@@ -1142,7 +2095,8 @@
       "name": "Zane Fun Pack",
       "releaseWave": 1,
       "setNumber": "71217",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
@@ -1150,6 +2104,7 @@
       "Dive",
       "Spinjitzu",
       "Stealth",
+      "Underwater Spinjitzu",
       "X-Ray Vision"
     ],
     "minifigure": {
@@ -1163,7 +2118,48 @@
     },
     "adventureWorld": "Ninjago",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Boomerang",
+        "category": "Ranged",
+        "subcategory": "Boomerang"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Spinjitzu",
+        "category": "Special",
+        "subcategory": "Spinjitzu"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Underwater Spinjitzu",
+        "category": "Special",
+        "subcategory": "Underwater Spinjitzu"
+      },
+      {
+        "name": "X-Ray Vision",
+        "category": "Detection",
+        "subcategory": "X-Ray"
+      }
+    ]
   },
   {
     "name": "Lloyd",
@@ -1171,9 +2167,10 @@
     "pack": {
       "type": "Fun",
       "name": "Lloyd Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 5,
       "setNumber": "71239",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
@@ -1195,7 +2192,37 @@
     "aliases": [
       "Lloyd Garmadon"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Spinjitzu",
+        "category": "Special",
+        "subcategory": "Spinjitzu"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Sensei Wu",
@@ -1203,9 +2230,10 @@
     "pack": {
       "type": "Fun",
       "name": "Sensei Wu Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 3,
       "setNumber": "71234",
-      "releaseDate": "2015"
+      "releaseDate": "2015",
+      "releaseYear": 1
     },
     "abilities": [
       "Acrobat",
@@ -1226,7 +2254,32 @@
     "aliases": [
       "Master Wu"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Pole Vault",
+        "category": "General"
+      },
+      {
+        "name": "Spinjitzu",
+        "category": "Special",
+        "subcategory": "Spinjitzu"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Peter Venkman",
@@ -1234,9 +2287,10 @@
     "pack": {
       "type": "Level",
       "name": "Ghostbusters Level Pack",
-      "releaseWave": 1,
+      "releaseWave": 3,
       "setNumber": "71228",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Hazard Protection",
@@ -1254,7 +2308,26 @@
     },
     "adventureWorld": "Ghostbusters",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Suspend Ghost",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Stay Puft",
@@ -1262,14 +2335,15 @@
     "pack": {
       "type": "Fun",
       "name": "Stay Puft Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 4,
       "setNumber": "71233",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Big Transform",
-      "Hazard Protection",
-      "Super Strength"
+      "Cracked LEGO Objects",
+      "Hazard Protection"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1284,7 +2358,26 @@
     "aliases": [
       "Stay Puft Marshmallow Man"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Big Transform",
+        "category": "General"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Slimer",
@@ -1292,18 +2385,20 @@
     "pack": {
       "type": "Fun",
       "name": "Slimer Fun Pack",
-      "releaseWave": 1,
+      "releaseWave": 5,
       "setNumber": "71241",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
       "Boomerang",
       "Dive",
-      "Flying",
+      "Flight",
       "Hazard Cleaner",
       "Hazard Protection",
       "Illumination",
       "Mini Access",
+      "Slurp Access",
       "Sonar Smash"
     ],
     "minifigure": {
@@ -1317,7 +2412,54 @@
     },
     "adventureWorld": "Ghostbusters",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Boomerang",
+        "category": "Ranged",
+        "subcategory": "Boomerang"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Hazard Cleaner",
+        "category": "Utility",
+        "subcategory": "Hazard Cleaner"
+      },
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Slurp Access",
+        "category": "General"
+      },
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Gamer Kid",
@@ -1325,20 +2467,21 @@
     "pack": {
       "type": "Level",
       "name": "Midway Arcade Level Pack",
-      "releaseWave": 1,
+      "releaseWave": 4,
       "setNumber": "71235",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 1
     },
     "abilities": [
+      "Cracked LEGO Objects",
       "Invulnerability",
       "Laser",
       "Speed",
-      "Stealth",
-      "Super Strength"
+      "Stealth"
     ],
     "minifigure": {
       "legoId": "unknown",
-      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a5/71235_1to1_MF_MUGSHOT_Retro_Gamer_168.png",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a5/71235_1to1_MF_MUGSHOT_Retro_Gamer_168.png/revision/latest/scale-to-width-down/75?cb=20160319133023",
       "dimensionsId": "unknown",
       "bricklinkId": "unknown",
       "imageUrls": [
@@ -1347,7 +2490,36 @@
     },
     "adventureWorld": "Midway Arcade",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Invulnerability",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Speed",
+        "category": "General"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Green Arrow",
@@ -1355,13 +2527,15 @@
     "pack": {
       "type": "Polybag",
       "name": "Green Arrow Polybag",
-      "releaseWave": 2,
+      "releaseWave": 0,
       "setNumber": "71342",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Boomerang",
+      "Acrobat",
       "Grapple",
+      "Pole Vault",
       "Target"
     ],
     "minifigure": {
@@ -1377,7 +2551,32 @@
     "aliases": [
       "Oliver Queen"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Pole Vault",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Supergirl",
@@ -1385,16 +2584,22 @@
     "pack": {
       "type": "Polybag",
       "name": "Supergirl Polybag",
-      "releaseWave": 2,
+      "releaseWave": 0,
       "setNumber": "71340",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Flying",
+      "Cracked LEGO Objects",
+      "Dig",
+      "Dive",
+      "Flight",
+      "Freeze Breath",
+      "Grapple",
       "Invulnerability",
-      "X-Ray Vision",
+      "Lantern Constructs",
       "Laser",
-      "Super Strength"
+      "X-Ray Vision"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1409,7 +2614,59 @@
     "aliases": [
       "Kara Zor-El"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dig",
+        "category": "General"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Freeze Breath",
+        "category": "General"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Invulnerability",
+        "category": "General"
+      },
+      {
+        "name": "Lantern Constructs",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "X-Ray Vision",
+        "category": "Detection",
+        "subcategory": "X-Ray"
+      }
+    ]
   },
   {
     "name": "Abby Yates",
@@ -1417,15 +2674,21 @@
     "pack": {
       "type": "Story",
       "name": "Ghostbusters Story Pack",
-      "releaseWave": 2,
+      "releaseWave": 6,
       "setNumber": "71242",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Character Swap",
+      "Charge Transfer",
+      "Cracked LEGO Objects",
+      "Fix-It",
+      "Ghost Trap",
       "Hazard Protection",
       "Intelligence",
-      "Laser"
+      "Laser",
+      "Super Strength Handles",
+      "Suspend Ghost"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1438,7 +2701,53 @@
     },
     "adventureWorld": "Ghostbusters",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Charge Transfer",
+        "category": "General"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Ghost Trap",
+        "category": "General"
+      },
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      },
+      {
+        "name": "Intelligence",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Super Strength Handles",
+        "category": "Strength",
+        "subcategory": "Super Strength Handles"
+      },
+      {
+        "name": "Suspend Ghost",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Finn the Human",
@@ -1446,15 +2755,18 @@
     "pack": {
       "type": "Level",
       "name": "Adventure Time Level Pack",
-      "releaseWave": 2,
+      "releaseWave": 6,
       "setNumber": "71245",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Pole Vault",
-      "Vine Cut",
+      "Acrobat",
+      "Cursed Red LEGO Objects",
+      "Laser",
+      "Laser Deflector",
       "Sword Switch",
-      "Cursed Red LEGO Objects"
+      "Target"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1475,9 +2787,38 @@
     "verification": {
       "userClaimCount": 1,
       "verifiedCount": 4,
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Cursed Red LEGO Objects",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Sword Switch",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Jake the Dog",
@@ -1485,15 +2826,25 @@
     "pack": {
       "type": "Team",
       "name": "Adventure Time Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 6,
       "setNumber": "71246",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
       "Big Transform",
-      "Super Strength",
+      "Cracked LEGO Objects",
+      "Dive",
       "Drill",
+      "Drone Mazes",
       "Grapple",
+      "Gyrosphere Switch",
+      "Illumination",
+      "Mini Access",
+      "Slurp Access",
+      "Sonar Smash",
+      "Super Strength Handles",
+      "Target",
       "Tracking"
     ],
     "minifigure": {
@@ -1515,9 +2866,74 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 16,
-      "status": "Drastisch incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Big Transform",
+        "category": "General"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Drill",
+        "category": "General"
+      },
+      {
+        "name": "Drone Mazes",
+        "category": "General"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Gyrosphere Switch",
+        "category": "General"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Slurp Access",
+        "category": "General"
+      },
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      },
+      {
+        "name": "Super Strength Handles",
+        "category": "Strength",
+        "subcategory": "Super Strength Handles"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Tracking",
+        "category": "Detection",
+        "subcategory": "Tracking"
+      }
+    ]
   },
   {
     "name": "Lumpy Space Princess",
@@ -1525,14 +2941,17 @@
     "pack": {
       "type": "Team",
       "name": "Adventure Time Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 6,
       "setNumber": "71246",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
       "Boomerang",
-      "Flying",
       "Hazard Protection",
+      "Mini Access",
+      "Rainbow LEGO Objects",
+      "Slurp Access",
       "Target"
     ],
     "minifigure": {
@@ -1548,7 +2967,39 @@
     "aliases": [
       "LSP"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Boomerang",
+        "category": "Ranged",
+        "subcategory": "Boomerang"
+      },
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Rainbow LEGO Objects",
+        "category": "General"
+      },
+      {
+        "name": "Slurp Access",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Marceline the Vampire Queen",
@@ -1556,17 +3007,23 @@
     "pack": {
       "type": "Fun",
       "name": "Marceline Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 7,
       "setNumber": "71285",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
       "Acrobat",
-      "Flying",
-      "Heart Regeneration",
-      "Mind Control",
+      "Cracked LEGO Objects",
+      "Cursed Red LEGO Objects",
+      "Dig",
+      "Flight",
+      "Heart Regen",
+      "Laser Deflector",
+      "Magic",
       "Mini Access",
-      "Rope Swing",
+      "Slurp Access",
+      "Sonar Smash",
       "Stealth",
       "Tracking",
       "Vine Cut"
@@ -1584,7 +3041,75 @@
     "aliases": [
       "Marceline"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Cursed Red LEGO Objects",
+        "category": "General"
+      },
+      {
+        "name": "Dig",
+        "category": "General"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Heart Regen",
+        "category": "General"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Slurp Access",
+        "category": "General"
+      },
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Tracking",
+        "category": "Detection",
+        "subcategory": "Tracking"
+      },
+      {
+        "name": "Vine Cut",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Ethan Hunt",
@@ -1592,16 +3117,24 @@
     "pack": {
       "type": "Level",
       "name": "Mission: Impossible Level Pack",
-      "releaseWave": 2,
+      "releaseWave": 6,
       "setNumber": "71248",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
       "Acrobat",
       "Dive",
+      "Drone Mazes",
+      "Fuse Box",
       "Grapple",
+      "Magno Gloves",
+      "Scan Disguise",
+      "Silver LEGO Blowup",
       "Stealth",
-      "Technology"
+      "Target",
+      "Technology",
+      "X-Ray Vision"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1614,7 +3147,69 @@
     },
     "adventureWorld": "Mission: Impossible",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Drone Mazes",
+        "category": "General"
+      },
+      {
+        "name": "Fuse Box",
+        "category": "General"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Magno Gloves",
+        "category": "General"
+      },
+      {
+        "name": "Scan Disguise",
+        "category": "General"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Technology",
+        "category": "Builder",
+        "subcategory": "Operate Tech"
+      },
+      {
+        "name": "X-Ray Vision",
+        "category": "Detection",
+        "subcategory": "X-Ray"
+      }
+    ]
   },
   {
     "name": "Harry Potter",
@@ -1622,20 +3217,23 @@
     "pack": {
       "type": "Team",
       "name": "Harry Potter Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 6,
       "setNumber": "71247",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Flying",
-      "Growth",
-      "Hazard Cleaner",
+      "Apparate Access",
+      "Diffindo",
+      "Flight",
       "Illumination",
-      "Intelligence",
+      "Laser Deflector",
       "Magic",
-      "Magical Shield",
+      "Parseltongue Doors",
       "Silver LEGO Blowup",
-      "Target"
+      "Stealth",
+      "Target",
+      "Water Spray"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1648,7 +3246,64 @@
     },
     "adventureWorld": "Harry Potter",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Apparate Access",
+        "category": "General"
+      },
+      {
+        "name": "Diffindo",
+        "category": "General"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Parseltongue Doors",
+        "category": "General"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Water Spray",
+        "category": "Utility",
+        "subcategory": "Water"
+      }
+    ]
   },
   {
     "name": "Lord Voldemort",
@@ -1656,19 +3311,23 @@
     "pack": {
       "type": "Team",
       "name": "Harry Potter Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 6,
       "setNumber": "71247",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Flying",
-      "Growth",
-      "Hazard Cleaner",
+      "Apparate Access",
+      "Diffindo",
+      "Flight",
       "Illumination",
+      "Laser Deflector",
       "Magic",
-      "Magical Shield",
+      "Mind Control",
+      "Parseltongue Doors",
       "Silver LEGO Blowup",
-      "Target"
+      "Target",
+      "Water Spray"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1683,7 +3342,64 @@
     "aliases": [
       "Voldemort"
     ],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Apparate Access",
+        "category": "General"
+      },
+      {
+        "name": "Diffindo",
+        "category": "General"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Mind Control",
+        "category": "Special",
+        "subcategory": "Mind Control"
+      },
+      {
+        "name": "Parseltongue Doors",
+        "category": "General"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Water Spray",
+        "category": "Utility",
+        "subcategory": "Water"
+      }
+    ]
   },
   {
     "name": "Hermione Granger",
@@ -1691,13 +3407,22 @@
     "pack": {
       "type": "Fun",
       "name": "Hermione Granger Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 8,
       "setNumber": "71348",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
       "Acrobat",
-      "Magic"
+      "Apparate Access",
+      "Diffindo",
+      "Illumination",
+      "Intelligence",
+      "Laser Deflector",
+      "Magic",
+      "Silver LEGO Blowup",
+      "Target",
+      "Water Spray"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1716,9 +3441,57 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 2,
-      "status": "Correct",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Apparate Access",
+        "category": "General"
+      },
+      {
+        "name": "Diffindo",
+        "category": "General"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Intelligence",
+        "category": "General"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Water Spray",
+        "category": "Utility",
+        "subcategory": "Water"
+      }
+    ]
   },
   {
     "name": "B.A. Baracus",
@@ -1726,13 +3499,19 @@
     "pack": {
       "type": "Fun",
       "name": "A-Team Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 6,
       "setNumber": "71251",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Super Strength",
-      "Master Build"
+      "A-team Master Build",
+      "Cracked LEGO Objects",
+      "Fix-It",
+      "Laser Deflector",
+      "Silver LEGO Blowup",
+      "Super Strength Handles",
+      "Target"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1753,9 +3532,44 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 2,
-      "status": "Incorrect (Nuance)",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "A-team Master Build",
+        "category": "General"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Super Strength Handles",
+        "category": "Strength",
+        "subcategory": "Super Strength Handles"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Newt Scamander",
@@ -1763,19 +3577,24 @@
     "pack": {
       "type": "Story",
       "name": "Fantastic Beasts Story Pack",
-      "releaseWave": 2,
+      "releaseWave": 7,
       "setNumber": "71253",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Character Swap",
+      "Apparate Access",
+      "Diffindo",
+      "Fantastical Briefcase",
       "Fix-It",
-      "Growth",
+      "Illumination",
       "Intelligence",
       "Laser Deflector",
       "Magic",
-      "Magical Shield",
-      "Technology"
+      "Silver LEGO Blowup",
+      "Stealth",
+      "Target",
+      "Water Spray"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1788,7 +3607,68 @@
     },
     "adventureWorld": "Fantastic Beasts",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Apparate Access",
+        "category": "General"
+      },
+      {
+        "name": "Diffindo",
+        "category": "General"
+      },
+      {
+        "name": "Fantastical Briefcase",
+        "category": "General"
+      },
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Intelligence",
+        "category": "General"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Water Spray",
+        "category": "Utility",
+        "subcategory": "Water"
+      }
+    ]
   },
   {
     "name": "Sonic the Hedgehog",
@@ -1796,14 +3676,16 @@
     "pack": {
       "type": "Level",
       "name": "Sonic the Hedgehog Level Pack",
-      "releaseWave": 2,
+      "releaseWave": 7,
       "setNumber": "71244",
-      "releaseDate": "2016"
+      "releaseDate": "2016",
+      "releaseYear": 2
     },
     "abilities": [
-      "Speed",
-      "Invulnerability",
-      "Grind Rails"
+      "Acrobat",
+      "Cracked LEGO Objects",
+      "Grind Rails",
+      "Speed"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1824,9 +3706,29 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 3,
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Grind Rails",
+        "category": "General"
+      },
+      {
+        "name": "Speed",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Gizmo",
@@ -1834,12 +3736,12 @@
     "pack": {
       "type": "Team",
       "name": "Gremlins Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 7,
       "setNumber": "71256",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
-      "Acrobat",
       "Mini Access",
       "Target"
     ],
@@ -1860,9 +3762,20 @@
     "verification": {
       "userClaimCount": 1,
       "verifiedCount": "3+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Stripe",
@@ -1870,15 +3783,16 @@
     "pack": {
       "type": "Team",
       "name": "Gremlins Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 7,
       "setNumber": "71256",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
       "Acrobat",
-      "Claws",
-      "Vine Cut",
-      "Mini Access"
+      "Dig",
+      "Target",
+      "Vine Cut"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1897,9 +3811,29 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": "4+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Dig",
+        "category": "General"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Vine Cut",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Batgirl",
@@ -1907,16 +3841,17 @@
     "pack": {
       "type": "Story",
       "name": "The LEGO Batman Movie Story Pack",
-      "releaseWave": 2,
+      "releaseWave": 8,
       "setNumber": "71264",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
       "Boomerang",
-      "Glide",
-      "Stealth",
-      "High-Security Access",
-      "Detective Mode"
+      "Detective Mode",
+      "Grapple",
+      "High Security Access",
+      "Stealth"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1935,9 +3870,34 @@
     "verification": {
       "userClaimCount": 1,
       "verifiedCount": 5,
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Boomerang",
+        "category": "Ranged",
+        "subcategory": "Boomerang"
+      },
+      {
+        "name": "Detective Mode",
+        "category": "General"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "High Security Access",
+        "category": "General"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Robin",
@@ -1945,16 +3905,20 @@
     "pack": {
       "type": "Story",
       "name": "The LEGO Batman Movie Story Pack",
-      "releaseWave": 2,
+      "releaseWave": 8,
       "setNumber": "71264",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
       "Acrobat",
-      "Rope Swing",
-      "Vent Access",
       "Dive",
-      "Glide"
+      "Fix-It",
+      "Illumination",
+      "Laser Deflector",
+      "Pole Vault",
+      "Suit Rip",
+      "Vent Access"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -1973,9 +3937,48 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": "5+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Pole Vault",
+        "category": "General"
+      },
+      {
+        "name": "Suit Rip",
+        "category": "General"
+      },
+      {
+        "name": "Vent Access",
+        "category": "Traversal",
+        "subcategory": "Small Vents"
+      }
+    ]
   },
   {
     "name": "Excalibur Batman",
@@ -1990,10 +3993,7 @@
     "abilities": [
       "Boomerang",
       "Grapple",
-      "Laser Deflector",
-      "Stealth",
-      "Super Strength",
-      "Sword Switch"
+      "Stealth"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2006,7 +4006,28 @@
     },
     "adventureWorld": "The LEGO Batman Movie",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Boomerang",
+        "category": "Ranged",
+        "subcategory": "Boomerang"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Michael Knight",
@@ -2014,11 +4035,14 @@
     "pack": {
       "type": "Fun",
       "name": "Knight Rider Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 8,
       "setNumber": "71286",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
+      "Acrobat",
+      "Hacking",
       "Technology",
       "Tracking",
       "X-Ray Vision"
@@ -2034,7 +4058,37 @@
     },
     "adventureWorld": "Knight Rider",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Hacking",
+        "category": "General"
+      },
+      {
+        "name": "Technology",
+        "category": "Builder",
+        "subcategory": "Operate Tech"
+      },
+      {
+        "name": "Tracking",
+        "category": "Detection",
+        "subcategory": "Tracking"
+      },
+      {
+        "name": "X-Ray Vision",
+        "category": "Detection",
+        "subcategory": "X-Ray"
+      }
+    ]
   },
   {
     "name": "Sloth",
@@ -2042,14 +4096,18 @@
     "pack": {
       "type": "Level",
       "name": "The Goonies Level Pack",
-      "releaseWave": 2,
+      "releaseWave": 8,
       "setNumber": "71267",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
-      "Super Strength",
-      "Climb",
-      "Big Transform"
+      "Cracked LEGO Objects",
+      "Dig",
+      "Dive",
+      "Grapple",
+      "Super Strength Handles",
+      "Target"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2068,9 +4126,40 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": 3,
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dig",
+        "category": "General"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Super Strength Handles",
+        "category": "Strength",
+        "subcategory": "Super Strength Handles"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      }
+    ]
   },
   {
     "name": "Chase McCain",
@@ -2078,16 +4167,23 @@
     "pack": {
       "type": "Fun",
       "name": "LEGO City Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 8,
       "setNumber": "71266",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
       "Acrobat",
-      "Glide",
+      "Cracked LEGO Objects",
+      "Drill",
+      "Flight",
       "Grapple",
+      "Growth",
       "Hacking",
+      "Hazard Cleaner",
+      "Illumination",
       "Relic Detector",
+      "Silver LEGO Blowup",
       "Target",
       "Tracking",
       "Water Spray"
@@ -2103,7 +4199,80 @@
     },
     "adventureWorld": "LEGO City",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Drill",
+        "category": "General"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Grapple",
+        "category": "Traversal",
+        "subcategory": "Grapple"
+      },
+      {
+        "name": "Growth",
+        "category": "General"
+      },
+      {
+        "name": "Hacking",
+        "category": "General"
+      },
+      {
+        "name": "Hazard Cleaner",
+        "category": "Utility",
+        "subcategory": "Hazard Cleaner"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Relic Detector",
+        "category": "Detection",
+        "subcategory": "Relics"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Tracking",
+        "category": "Detection",
+        "subcategory": "Tracking"
+      },
+      {
+        "name": "Water Spray",
+        "category": "Utility",
+        "subcategory": "Water"
+      }
+    ]
   },
   {
     "name": "Blossom",
@@ -2111,22 +4280,21 @@
     "pack": {
       "type": "Team",
       "name": "The Powerpuff Girls Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 9,
       "setNumber": "71346",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
-      "Flying",
-      "LEGO Constructs",
-      "Laser",
-      "Melt Ice",
-      "Freeze Breath",
-      "Energy Shield",
-      "Intelligence",
-      "Super Strength",
+      "Cracked LEGO Objects",
       "Dive",
-      "X-Ray Vision",
-      "Heart Regeneration"
+      "Flight",
+      "Freeze Breath",
+      "Heart Regen",
+      "Intelligence",
+      "Lantern Constructs",
+      "Laser",
+      "X-Ray Vision"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2139,7 +4307,54 @@
     },
     "adventureWorld": "The Powerpuff Girls",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Freeze Breath",
+        "category": "General"
+      },
+      {
+        "name": "Heart Regen",
+        "category": "General"
+      },
+      {
+        "name": "Intelligence",
+        "category": "General"
+      },
+      {
+        "name": "Lantern Constructs",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "X-Ray Vision",
+        "category": "Detection",
+        "subcategory": "X-Ray"
+      }
+    ]
   },
   {
     "name": "Bubbles",
@@ -2147,18 +4362,22 @@
     "pack": {
       "type": "Team",
       "name": "The Powerpuff Girls Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 9,
       "setNumber": "71346",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
-      "Flying",
-      "Heart Regeneration",
+      "Atlantis",
+      "Cracked LEGO Objects",
+      "Dive",
+      "Flight",
+      "Heart Regen",
+      "Lantern Constructs",
       "Laser",
+      "Parseltongue Doors",
       "Rainbow LEGO Objects",
-      "Super Strength",
-      "Freeze Breath",
-      "Illumination"
+      "Sonar Smash"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2171,7 +4390,57 @@
     },
     "adventureWorld": "The Powerpuff Girls",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Atlantis",
+        "category": "General"
+      },
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Heart Regen",
+        "category": "General"
+      },
+      {
+        "name": "Lantern Constructs",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Parseltongue Doors",
+        "category": "General"
+      },
+      {
+        "name": "Rainbow LEGO Objects",
+        "category": "General"
+      },
+      {
+        "name": "Sonar Smash",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Buttercup",
@@ -2179,20 +4448,20 @@
     "pack": {
       "type": "Fun",
       "name": "The Powerpuff Girls Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 9,
       "setNumber": "71343",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
-      "Flying",
-      "LEGO Constructs",
-      "Super Strength",
-      "Super Strength Handles",
-      "Energy Shield",
-      "Gyrosphere Switches",
       "Dive",
+      "Flight",
+      "Gyrosphere Switch",
+      "Heart Regen",
+      "Lantern Constructs",
       "Spinjitzu",
-      "Heart Regeneration"
+      "Super Strength Handles",
+      "Underwater Spinjitzu"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2205,7 +4474,50 @@
     },
     "adventureWorld": "The Powerpuff Girls",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Gyrosphere Switch",
+        "category": "General"
+      },
+      {
+        "name": "Heart Regen",
+        "category": "General"
+      },
+      {
+        "name": "Lantern Constructs",
+        "category": "General"
+      },
+      {
+        "name": "Spinjitzu",
+        "category": "Special",
+        "subcategory": "Spinjitzu"
+      },
+      {
+        "name": "Super Strength Handles",
+        "category": "Strength",
+        "subcategory": "Super Strength Handles"
+      },
+      {
+        "name": "Underwater Spinjitzu",
+        "category": "Special",
+        "subcategory": "Underwater Spinjitzu"
+      }
+    ]
   },
   {
     "name": "Starfire",
@@ -2217,27 +4529,69 @@
       "type": "Fun",
       "name": "Starfire Fun Pack",
       "setNumber": "71287",
-      "releaseWave": 2,
-      "releaseYear": 2017
+      "releaseWave": 9,
+      "releaseYear": 2
     },
     "pieces": 56,
     "minifigs": 1,
     "abilities": [
       "Acrobat",
-      "Flying",
-      "Laser",
-      "Rainbow LEGO Objects",
+      "Atlantis",
       "Dive",
-      "Atlantis Elemental",
+      "Flight",
+      "Heart Regen",
+      "Laser",
       "Parseltongue Doors",
-      "Heart Regeneration"
+      "Rainbow LEGO Objects"
     ],
     "minifigure": {
       "imageUrl": "backgroundremoved/Headshots_TTG_Starfire-removebg-preview.png",
       "imageUrls": [
         "backgroundremoved/Headshots_TTG_Starfire-removebg-preview.png"
       ]
-    }
+    },
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Atlantis",
+        "category": "General"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Heart Regen",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Parseltongue Doors",
+        "category": "General"
+      },
+      {
+        "name": "Rainbow LEGO Objects",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Beast Boy",
@@ -2245,21 +4599,21 @@
     "pack": {
       "type": "Team",
       "name": "Teen Titans Go! Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 9,
       "setNumber": "71255",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
       "Acrobat",
+      "Atlantis",
+      "Dig",
+      "Dive",
+      "Drone Mazes",
+      "Flight",
       "Mini Access",
-      "Atlantis Elemental",
-      "Shape Shift",
-      "Flying (Bird)",
-      "Dive (Dolphin)",
-      "Slurp Access (Mouse)",
-      "Drone Mazes (Mouse)",
-      "Dig (Dog)",
-      "Tracking (Dog)"
+      "Slurp Access",
+      "Tracking"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2272,7 +4626,53 @@
     },
     "adventureWorld": "Teen Titans Go!",
     "aliases": [],
-    "availabilityStatus": "released"
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Atlantis",
+        "category": "General"
+      },
+      {
+        "name": "Dig",
+        "category": "General"
+      },
+      {
+        "name": "Dive",
+        "category": "Traversal",
+        "subcategory": "Underwater"
+      },
+      {
+        "name": "Drone Mazes",
+        "category": "General"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Slurp Access",
+        "category": "General"
+      },
+      {
+        "name": "Tracking",
+        "category": "Detection",
+        "subcategory": "Tracking"
+      }
+    ]
   },
   {
     "name": "Raven",
@@ -2280,14 +4680,21 @@
     "pack": {
       "type": "Team",
       "name": "Teen Titans Go! Team Pack",
-      "releaseWave": 2,
+      "releaseWave": 9,
       "setNumber": "71255",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
+      "Drone Mazes",
+      "Electricity",
+      "Flight",
+      "Hazard Protection",
+      "Intelligence",
+      "Lantern Constructs",
+      "Laser",
       "Magic",
-      "Teleport",
-      "Flying"
+      "Raven Portals"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2306,9 +4713,51 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": "3+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Drone Mazes",
+        "category": "General"
+      },
+      {
+        "name": "Electricity",
+        "category": "Tech",
+        "subcategory": "Electricity"
+      },
+      {
+        "name": "Flight",
+        "category": "Traversal",
+        "subcategory": "Flight"
+      },
+      {
+        "name": "Hazard Protection",
+        "category": "General"
+      },
+      {
+        "name": "Intelligence",
+        "category": "General"
+      },
+      {
+        "name": "Lantern Constructs",
+        "category": "General"
+      },
+      {
+        "name": "Laser",
+        "category": "Ranged",
+        "subcategory": "Laser/Heat Ray"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Raven Portals",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "Betelgeuse",
@@ -2316,14 +4765,17 @@
     "pack": {
       "type": "Fun",
       "name": "Beetlejuice Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 9,
       "setNumber": "71349",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
+      "Cracked LEGO Objects",
+      "Illumination",
       "Magic",
       "Mind Control",
-      "Teleport"
+      "Mini Access"
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2344,9 +4796,35 @@
     "verification": {
       "userClaimCount": 2,
       "verifiedCount": "3+",
-      "status": "Incorrect",
-      "source": "User Excel/table, 2025-09-15"
-    }
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Cracked LEGO Objects",
+        "category": "Strength",
+        "subcategory": "Cracked LEGO Objects"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Mind Control",
+        "category": "Special",
+        "subcategory": "Mind Control"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      }
+    ]
   },
   {
     "name": "E.T.",
@@ -2358,60 +4836,150 @@
     "pack": {
       "type": "Fun",
       "name": "E.T. Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 7,
       "setNumber": "71349",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
-      "Mini Access",
       "Fix-It",
-      "Illumination",
-      "Stealth",
-      "Magic",
       "Growth",
-      "Heart Regeneration"
+      "Heart Regen",
+      "Illumination",
+      "Magic",
+      "Mini Access",
+      "Stealth"
     ],
     "minifigure": {
       "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/23/71258_1to1_MF_MUGSHOT_ET_336.png",
       "imageUrls": [
         "https://static.wikia.nocookie.net/lego-dimensions/images/2/23/71258_1to1_MF_MUGSHOT_ET_336.png"
       ]
-    }
+    },
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Fix-It",
+        "category": "Builder",
+        "subcategory": "Fix-It"
+      },
+      {
+        "name": "Growth",
+        "category": "General"
+      },
+      {
+        "name": "Heart Regen",
+        "category": "General"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Mini Access",
+        "category": "General"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      }
+    ]
   },
   {
     "name": "Tina Goldstein",
     "aliases": [
-      "Tina Goldstein",
-      "Tina"
+      "Tina",
+      "Tina Goldstein"
     ],
     "franchise": "Fantastic Beasts",
     "pack": {
       "type": "Fun",
       "name": "Fantastic Beast Fun Pack",
-      "releaseWave": 2,
+      "releaseWave": 7,
       "setNumber": "71349",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "releaseYear": 2
     },
     "abilities": [
-      "Magic",
-      "Illumination",
-      "Magical Shield",
-      "Target",
       "Acrobat",
-      "Diffindo",
-      "Silver LEGO Blowup",
-      "Laser Deflector",
-      "Water Spray",
-      "Growth",
-      "Hazard Cleaner",
       "Apparate Access",
-      "Character Changing"
+      "Diffindo",
+      "Illumination",
+      "Laser Deflector",
+      "Magic",
+      "Silver LEGO Blowup",
+      "Stealth",
+      "Target",
+      "Water Spray"
     ],
     "minifigure": {
       "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/18/71257_1to1_MF_MUGSHOT_TinaGoldstein_01_336.png",
       "imageUrls": [
         "https://static.wikia.nocookie.net/lego-dimensions/images/1/18/71257_1to1_MF_MUGSHOT_TinaGoldstein_01_336.png"
       ]
-    }
+    },
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    },
+    "abilitiesStructured": [
+      {
+        "name": "Acrobat",
+        "category": "Traversal",
+        "subcategory": "Acrobat"
+      },
+      {
+        "name": "Apparate Access",
+        "category": "General"
+      },
+      {
+        "name": "Diffindo",
+        "category": "General"
+      },
+      {
+        "name": "Illumination",
+        "category": "Utility",
+        "subcategory": "Light"
+      },
+      {
+        "name": "Laser Deflector",
+        "category": "General"
+      },
+      {
+        "name": "Magic",
+        "category": "Special",
+        "subcategory": "Magic"
+      },
+      {
+        "name": "Silver LEGO Blowup",
+        "category": "Destruction",
+        "subcategory": "Silver"
+      },
+      {
+        "name": "Stealth",
+        "category": "Special",
+        "subcategory": "Stealth"
+      },
+      {
+        "name": "Target",
+        "category": "Ranged",
+        "subcategory": "Target Switches"
+      },
+      {
+        "name": "Water Spray",
+        "category": "Utility",
+        "subcategory": "Water"
+      }
+    ]
   }
 ]
