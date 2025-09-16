@@ -5,10 +5,10 @@
     "pack": {
       "type": "Starter",
       "name": "Starter Pack",
-      "releaseWave": 8,
+      "releaseWave": 1,
       "setNumber": "71200",
       "releaseDate": "2015",
-      "releaseYear": 2
+      "releaseYear": 1
     },
     "abilities": [
       "Boomerang",
