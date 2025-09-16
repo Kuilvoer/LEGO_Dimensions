@@ -98,36 +98,36 @@
   <header>
     <div class="container">
       <h1>LEGO Dimensions – Characters</h1>
-      <p class="sub">Filter op ability, franchise, pack type of wave. Zoek in naam of franchise.</p>
+      <p class="sub">Filter on ability, franchise, pack type or wave. Search in name or franchise.</p>
       <div class="controls" role="search">
         <div>
-          <label for="q">Zoeken</label>
-          <input id="q" name="q" type="search" placeholder="Bijv. Batman, Ghostbusters, Portal…" autocomplete="off" />
+          <label for="q">Search</label>
+          <input id="q" name="q" type="search" placeholder="For instance. Batman, Ghostbusters, Portal…" autocomplete="off" />
           <div class="chips" id="activeChips" aria-live="polite"></div>
         </div>
         <div class="row">
           <div>
             <label for="franchise">Franchise</label>
-            <select id="franchise"><option value="">Alle</option></select>
+            <select id="franchise"><option value="">All</option></select>
           </div>
           <div>
             <label for="type">Pack type</label>
-            <select id="type"><option value="">Alle</option></select>
+            <select id="type"><option value="">All</option></select>
           </div>
           <div>
             <label for="wave">Release wave</label>
-            <select id="wave"><option value="">Alle</option></select>
+            <select id="wave"><option value="">All</option></select>
           </div>
           <div>
-            <label for="ability">Ability toevoegen</label>
-            <select id="ability"><option value="">(Kies een ability)</option></select>
+            <label for="ability">Add Ability</label>
+            <select id="ability"><option value="">(Select an ability)</option></select>
           </div>
         </div>
         <div class="toolbar" aria-label="hulpmiddelen">
           <button id="clearFilters" class="btn ghost" type="button">Clear filters</button>
-          <span class="pill" id="count">0 resultaten</span>
-          <button id="groupPack" class="btn" type="button" aria-pressed="false">Groepeer op pack</button>
-          <button id="groupFranchise" class="btn" type="button" aria-pressed="false">Groepeer op franchise</button>
+          <span class="pill" id="count">0 results</span>
+          <button id="groupPack" class="btn" type="button" aria-pressed="false">Group by pack</button>
+          <button id="groupFranchise" class="btn" type="button" aria-pressed="false">Group by franchise</button>
         </div>
       </div>
     </div>
@@ -311,7 +311,7 @@
       if(!wrap.childElementCount){
         const hint=document.createElement('span');
         hint.className='pill';
-        hint.textContent='Geen actieve filters';
+        hint.textContent='No active filters';
         wrap.appendChild(hint);
       }
     }
