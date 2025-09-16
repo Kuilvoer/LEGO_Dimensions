@@ -2355,7 +2355,13 @@
       "Extra-Terrestrial"
     ],
     "franchise": "E.T. the Extra-Terrestrial",
-    "pack": "71258 Fun Pack",
+    "pack": {
+      "type": "Fun",
+      "name": "E.T. Fun Pack",
+      "releaseWave": 2,
+      "setNumber": "71349",
+      "releaseDate": "2017"
+    },
     "abilities": [
       "Mini Access",
       "Fix-It",
@@ -2379,7 +2385,13 @@
       "Tina"
     ],
     "franchise": "Fantastic Beasts",
-    "pack": "71257 Fun Pack",
+    "pack": {
+      "type": "Fun",
+      "name": "Fantastic Beast Fun Pack",
+      "releaseWave": 2,
+      "setNumber": "71349",
+      "releaseDate": "2017"
+    },
     "abilities": [
       "Magic",
       "Illumination",
