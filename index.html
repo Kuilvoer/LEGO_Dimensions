@@ -21,12 +21,16 @@
     h1{font-size:clamp(20px,3vw,28px);margin:0 0 8px 0}
     .sub{color:var(--muted);font-size:14px;margin:0}
 
-    .controls{display:grid;gap:10px;grid-template-columns:1fr;align-items:end;margin-top:12px}
-    .row{display:grid;gap:10px;grid-template-columns:1fr 1fr 1fr}
+    /* Layout for controls */
+    .controls{display:grid;gap:12px;grid-template-columns:1fr;align-items:start;margin-top:12px}
+    .filters-row{display:grid;gap:10px;grid-template-columns:1fr 1fr}
+    .row{display:grid;gap:10px;grid-template-columns:1fr}
     @media(min-width:980px){
-      .controls{grid-template-columns:1.4fr 1.2fr 1fr}
-      .row{grid-template-columns:repeat(4,1fr)}
+      /* Put filter dropdowns on the right */
+      .row{grid-template-columns:repeat(4,220px); justify-self:end; }
+      .filters-row{grid-template-columns:1fr auto;}
     }
+
     label{font-size:12px;color:var(--muted);display:block;margin-bottom:6px}
     input,select{width:100%;background:var(--panel);border:1px solid #263657;color:var(--text);padding:10px 12px;border-radius:12px;outline:none}
     input:focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(92,200,255,.15)}
@@ -36,6 +40,7 @@
     .chip button:focus{outline:2px solid var(--accent)}
     .pill{background:#0f1a34;border:1px solid #2a3c63;color:var(--muted);padding:6px 10px;border-radius:999px;font-size:12px}
 
+    /* Grid */
     .grid{display:grid;gap:14px;margin:18px 0 40px}
     @media(min-width:700px){.grid{grid-template-columns:repeat(2,1fr)}}
     @media(min-width:1050px){.grid{grid-template-columns:repeat(3,1fr)}}
@@ -51,7 +56,7 @@
     .pack { display:flex; flex-wrap:wrap; gap:8px 10px; align-items:center; margin-top:10px; line-height:1.35; font-size:13px; }
     .pack .pill { flex:0 0 auto; }
     .pack .pack-name { font-weight:700; overflow-wrap:anywhere; color:#cfe2ff; }
-    .pack .pack-wave { color:var(--muted); flex:0 0 auto; }
+    .pack .pack-extra { color:var(--muted); flex:0 0 auto; }
     .count { font-weight:600; color:#b7d9ff }
 
     .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:8px}
@@ -65,83 +70,59 @@
 
     .owned-checkbox { position:absolute; top:8px; right:8px; width:20px; height:20px; cursor:pointer; }
     .card.owned { border: 2px solid limegreen; box-shadow: 0 0 10px rgba(50, 205, 50, 0.6); }
-
-    .wave-badge{
-      position:absolute; left:8px; top:8px;
-      padding:4px 8px; border-radius:999px; font-size:11px;
-      background:var(--badge); border:1px solid var(--badgeBorder); color:#dbe6ff;
-      display:none;
-    }
-    .show-waves .wave-badge{ display:inline-block; }
-
-    .sort-row{display:grid;gap:10px;grid-template-columns:1fr auto}
-    @media(min-width:520px){ .sort-row{grid-template-columns:1fr auto auto} }
-    .sort-indicator{font-size:12px;color:var(--muted)}
   </style>
 </head>
 <body>
   <header>
     <div class="container">
       <h1>LEGO Dimensions – Characters & Abilities</h1>
-      <p class="sub">Filter by ability, franchise, pack type or <b>wave</b>. Search by name or franchise and sort by wave.</p>
+      <p class="sub">Filter by ability, franchise, pack type or wave. Search by name or franchise. Year and wave are shown on every card.</p>
 
-      <div class="controls" role="search">
+      <div class="controls">
+        <!-- Search -->
         <div>
           <label for="q">Search</label>
           <input id="q" name="q" type="search" placeholder="e.g. Batman, Ghostbusters, Portal…" autocomplete="off" />
           <div class="chips" id="activeChips" aria-live="polite"></div>
         </div>
 
-        <div class="row">
-          <div>
-            <label for="franchise">Franchise</label>
-            <select id="franchise"><option value="">All</option></select>
-          </div>
-          <div>
-            <label for="type">Pack type</label>
-            <select id="type">
-              <option value="">All</option>
-              <option value="Starter">Starter</option>
-              <option value="Story">Story</option>
-              <option value="Level">Level</option>
-              <option value="Team">Team</option>
-              <option value="Fun">Fun</option>
-              <option value="Polybag">Polybag</option>
-            </select>
-          </div>
-          <div>
-            <label for="wave">Wave</label>
-            <select id="wave"><option value="">All</option></select>
-          </div>
-          <div>
-            <label for="ability">Add ability</label>
-            <select id="ability"><option value="">(Select an ability)</option></select>
-          </div>
-        </div>
-
+        <!-- Toolbar directly under search -->
         <div class="toolbar" aria-label="tools">
           <button id="clearFilters" class="btn ghost" type="button">Reset filters</button>
           <span class="pill" id="count">0 results</span>
-
           <button id="groupPack" class="btn" type="button" aria-pressed="false" title="Group by pack">Group by pack</button>
           <button id="groupFranchise" class="btn" type="button" aria-pressed="false" title="Group by franchise">Group by franchise</button>
-
-          <button id="toggleWaves" class="btn" type="button" aria-pressed="true" title="Toggle wave badges">Show waves</button>
         </div>
 
-        <div class="sort-row">
-          <div>
-            <label for="sortBy">Sort by</label>
-            <select id="sortBy">
-              <option value="name-asc">Name (A–Z)</option>
-              <option value="name-desc">Name (Z–A)</option>
-              <option value="wave-asc">Wave (1 → 9)</option>
-              <option value="wave-desc">Wave (9 → 1)</option>
-              <option value="franchise-asc">Franchise (A–Z)</option>
-              <option value="type-asc">Pack type (A–Z)</option>
-            </select>
+        <!-- Filters aligned right -->
+        <div class="filters-row">
+          <div></div> <!-- spacer keeps filters pushed right on wide screens -->
+          <div class="row">
+            <div>
+              <label for="franchise">Franchise</label>
+              <select id="franchise"><option value="">All</option></select>
+            </div>
+            <div>
+              <label for="type">Pack type</label>
+              <select id="type">
+                <option value="">All</option>
+                <option value="Starter">Starter</option>
+                <option value="Story">Story</option>
+                <option value="Level">Level</option>
+                <option value="Team">Team</option>
+                <option value="Fun">Fun</option>
+                <option value="Polybag">Polybag</option>
+              </select>
+            </div>
+            <div>
+              <label for="wave">Wave</label>
+              <select id="wave"><option value="">All</option></select>
+            </div>
+            <div>
+              <label for="ability">Add ability</label>
+              <select id="ability"><option value="">(Select an ability)</option></select>
+            </div>
           </div>
-          <div class="sort-indicator" id="sortHint" aria-live="polite">Sort by: Name (A–Z)</div>
         </div>
       </div>
     </div>
@@ -157,7 +138,6 @@
 
   <template id="cardTemplate">
     <article class="card" tabindex="0">
-      <span class="wave-badge" aria-hidden="true">Wave ?</span>
       <input type="checkbox" class="owned-checkbox" title="Mark as owned" />
       <img alt="minifig" loading="lazy"/>
       <div class="card-body">
@@ -177,9 +157,7 @@
       data: [],
       filters: { q:'', franchise:'', type:'', wave:'', abilities:[] },
       groupByPack:false,
-      groupByFranchise:false,
-      showWaves:true,
-      sortBy:'name-asc'
+      groupByFranchise:false
     };
 
     async function load(){
@@ -196,8 +174,12 @@
         if(!Array.isArray(c.abilities)) c.abilities=[];
         c.pack = c.pack||{};
         const w = c.pack.releaseWave;
-        if(w === undefined || w === null || w === '') c._wave = null;
-        else { const n=Number(w); c._wave=Number.isFinite(n)? n : null; }
+        c._wave = (w===undefined||w===null||w==='') ? null : (Number.isFinite(+w) ? +w : null);
+        // Year detection: prefer explicit gameYearLabel, then gameYear/releaseYear, else from releaseDate
+        c._yearLabel = c.gameYearLabel || (
+          (c.gameYear||c.pack.releaseYear) ? `Year ${c.gameYear||c.pack.releaseYear}` :
+          (c.pack.releaseDate && /^\d{4}$/.test(String(c.pack.releaseDate))) ? String(c.pack.releaseDate) : 'Year ?'
+        );
       }
     }
 
@@ -226,38 +208,43 @@
       });
     }
 
-    function sortItems(items){
-      const v = state.sortBy;
+    function sortByNameAsc(items){
       const collator = new Intl.Collator('en', {sensitivity:'base'});
-      const byName = (a,b)=>collator.compare(a.name||'', b.name||'');
-      const byFranchise = (a,b)=>collator.compare(a.franchise||'', b.franchise||'');
-      const byType = (a,b)=>collator.compare(a.pack?.type||'', b.pack?.type||'');
-      const byWaveAsc = (a,b)=>((a._wave??Infinity) - (b._wave??Infinity)) || byName(a,b);
-      const byWaveDesc = (a,b)=>((b._wave??-Infinity) - (a._wave??-Infinity)) || byName(a,b);
-
-      switch(v){
-        case 'name-asc':  return items.sort(byName);
-        case 'name-desc': return items.sort((a,b)=>byName(b,a));
-        case 'wave-asc':  return items.sort(byWaveAsc);
-        case 'wave-desc': return items.sort(byWaveDesc);
-        case 'franchise-asc': return items.sort(byFranchise);
-        case 'type-asc': return items.sort(byType);
-        default: return items.sort(byName);
-      }
+      return items.sort((a,b)=>collator.compare(a.name||'', b.name||''));
     }
+
+    function groupBy(items, keyFn){ return items.reduce((acc,item)=>{const k=keyFn(item);(acc[k]||(acc[k]=[])).push(item);return acc;},{}); }
+
+    function waveText(c){ return (c._wave!=null) ? `Wave ${c._wave}` : 'Wave ?'; }
 
     function render(){
       const grid=$('#grid');
       let items=filterData();
-      items = sortItems(items);
+      items = sortByNameAsc(items); // default stable sort by name
 
       $('#count').textContent=`${items.length} result${items.length===1?'':'s'}`;
       grid.innerHTML='';
 
       renderChips();
-      document.body.classList.toggle('show-waves', state.showWaves);
 
-      items.forEach(c=>grid.appendChild(card(c)));
+      if (state.groupByPack) {
+        const grouped = groupBy(items, c => `${c.pack?.type || 'Pack'} | ${c.pack?.name || 'Unknown'} | ${c._yearLabel} • ${waveText(c)}`);
+        const groups = Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'en'));
+        for(const [title,list] of groups){
+          const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
+          list.forEach(c=>grid.appendChild(card(c)));
+        }
+      } else if(state.groupByFranchise){
+        const grouped=groupBy(items,c=>c.franchise||'Unknown');
+        const groups=Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'en'));
+        for(const [title,list] of groups){
+          const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
+          list.forEach(c=>grid.appendChild(card(c)));
+        }
+      } else {
+        items.forEach(c=>grid.appendChild(card(c)));
+      }
+
       if(!items.length){
         const div=document.createElement('div');
         div.className='card';
@@ -270,6 +257,7 @@
       const wrap = $('#activeChips');
       wrap.innerHTML = '';
       const { q, franchise, type, wave, abilities } = state.filters;
+
       const addChip = (label, onRemove) => {
         const chip = document.createElement('span');
         chip.className = 'chip';
@@ -286,17 +274,14 @@
       if(franchise){ addChip(`Franchise: ${franchise}`, ()=>{ state.filters.franchise=''; $('#franchise').value=''; render(); }); }
       if(type){ addChip(`Type: ${type}`, ()=>{ state.filters.type=''; $('#type').value=''; render(); }); }
       if(wave){ addChip(`Wave: ${wave}`, ()=>{ state.filters.wave=''; $('#wave').value=''; render(); }); }
-      abilities.forEach(a=>{ addChip(`Ability: ${a}`, ()=>{ state.filters.abilities=state.filters.abilities.filter(x=>x!==a); render(); }); });
+      (abilities||[]).forEach(a=>{ addChip(`Ability: ${a}`, ()=>{ state.filters.abilities=state.filters.abilities.filter(x=>x!==a); render(); }); });
 
       if(!wrap.childElementCount){ const hint=document.createElement('span'); hint.className='pill'; hint.textContent='No active filters'; wrap.appendChild(hint); }
     }
 
-    function waveText(c){ return (c._wave!=null) ? `Wave ${c._wave}` : 'Wave ?'; }
-
     function card(c){
       const tpl=$('#cardTemplate');
       const el=tpl.content.firstElementChild.cloneNode(true);
-      $('.wave-badge', el).textContent = waveText(c);
       $('.owned-checkbox', el).addEventListener('change', (e)=>{ el.classList.toggle('owned', e.target.checked); });
 
       const img = $('img',el); img.src=c.minifigure?.imageUrl||''; img.alt = `${c.name} – minifig`;
@@ -312,11 +297,12 @@
       p.innerHTML = [
         `<span class="pill">${c.pack?.type || 'Pack'}</span>`,
         `<b class="pack-name">${c.pack?.name || 'Unknown'}</b>`,
-        `<span class="pack-wave">• ${waveText(c)}</span>`
+        `<span class="pack-extra">• ${c._yearLabel} • ${waveText(c)}</span>`
       ].join(' ');
       return el;
     }
 
+    // Filter events
     $('#q').addEventListener('input',e=>{state.filters.q=e.target.value;render();});
     $('#franchise').addEventListener('change',e=>{state.filters.franchise=e.target.value;render();});
     $('#type').addEventListener('change',e=>{state.filters.type=e.target.value;render();});
@@ -334,13 +320,7 @@
       render();
     });
 
-    $('#toggleWaves').addEventListener('click', e=>{
-      state.showWaves = !state.showWaves;
-      e.currentTarget.setAttribute('aria-pressed', String(state.showWaves));
-      e.currentTarget.textContent = state.showWaves ? 'Hide waves' : 'Show waves';
-      render();
-    });
-
+    // Grouping
     $('#groupPack').addEventListener('click',e=>{
       state.groupByPack=!state.groupByPack;
       state.groupByFranchise=false;
@@ -353,18 +333,6 @@
       state.groupByPack=false;
       $('#groupPack').setAttribute('aria-pressed','false');
       e.currentTarget.setAttribute('aria-pressed',String(state.groupByFranchise));
-      render();
-    });
-
-    $('#sortBy').addEventListener('change', e=>{
-      state.sortBy = e.target.value;
-      const labels = {
-        'name-asc':'Name (A–Z)','name-desc':'Name (Z–A)',
-        'wave-asc':'Wave (1 → 9)','wave-desc':'Wave (9 → 1)',
-        'franchise-asc':'Franchise (A–Z)',
-        'type-asc':'Pack type (A–Z)',
-      };
-      $('#sortHint').textContent = `Sort by: ${labels[state.sortBy]||'Name (A–Z)'}`;
       render();
     });
 
