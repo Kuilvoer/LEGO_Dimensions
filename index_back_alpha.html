@@ -1,17 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>LEGO Dimensions – Characters & Abilities</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
 
+  <!-- PWA additions -->
   <link rel="manifest" href="manifest.webmanifest">
   <meta name="theme-color" content="#0b1020">
+
+  <!-- (laat staan) Oude manifest-verwijzing van je icon-pack -->
+  <link rel="manifest" href="icons/site.webmanifest">
 
   <style>
     :root{
       --bg:#0b1020; --panel:#151b2e; --muted:#8ea0bf; --text:#e6eeff; --accent:#5cc8ff; --chip:#223153; --chip2:#2b3a61;
-      --badge:#2a3f6e; --badgeBorder:#3b5592;
     }
     *{box-sizing:border-box}
     html,body{margin:0;height:100%}
@@ -21,10 +27,11 @@
     h1{font-size:clamp(20px,3vw,28px);margin:0 0 8px 0}
     .sub{color:var(--muted);font-size:14px;margin:0}
 
+    /* Controls */
     .controls{display:grid;gap:10px;grid-template-columns:1fr;align-items:end;margin-top:12px}
     .row{display:grid;gap:10px;grid-template-columns:1fr 1fr 1fr}
-    @media(min-width:980px){
-      .controls{grid-template-columns:1.4fr 1.2fr 1fr}
+    @media(min-width:820px){
+      .controls{grid-template-columns:1.2fr 1fr}
       .row{grid-template-columns:repeat(4,1fr)}
     }
     label{font-size:12px;color:var(--muted);display:block;margin-bottom:6px}
@@ -36,11 +43,12 @@
     .chip button:focus{outline:2px solid var(--accent)}
     .pill{background:#0f1a34;border:1px solid #2a3c63;color:var(--muted);padding:6px 10px;border-radius:999px;font-size:12px}
 
+    /* Grid */
     .grid{display:grid;gap:14px;margin:18px 0 40px}
     @media(min-width:700px){.grid{grid-template-columns:repeat(2,1fr)}}
     @media(min-width:1050px){.grid{grid-template-columns:repeat(3,1fr)}}
 
-    .card{background:linear-gradient(180deg,#131a2c,#10172a);border:1px solid #223153;border-radius:16px;overflow:hidden;display:flex;gap:12px;padding:12px;position:relative}
+    .card{background:linear-gradient(180deg,#131a2c,#10172a);border:1px solid #223153;border-radius:16px;overflow:hidden;display:flex;gap:12px;padding:12px}
     .card img{width:110px;height:110px;object-fit:contain;background:radial-gradient(120px 120px at 50% 50%,#0e1530,#0b1020);border-radius:12px;border:1px solid #1c2744}
     .card-body{flex:1;min-width:0}
     .title{display:flex;align-items:center;gap:8px}
@@ -48,50 +56,55 @@
     .meta{color:var(--muted);font-size:12px}
     .abilities{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
     .ability{background:var(--chip2);border:1px solid #334973;color:#cfe2ff;padding:4px 8px;border-radius:999px;font-size:12px}
+    /* Nettere layout voor de pack-regel */
     .pack { display:flex; flex-wrap:wrap; gap:8px 10px; align-items:center; margin-top:10px; line-height:1.35; font-size:13px; }
     .pack .pill { flex:0 0 auto; }
     .pack .pack-name { font-weight:700; overflow-wrap:anywhere; color:#cfe2ff; }
     .pack .pack-wave { color:var(--muted); flex:0 0 auto; }
+
     .count { font-weight:600; color:#b7d9ff }
 
     .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:8px}
     .btn{background:#1a2544;border:1px solid #2a3c63;color:#d7e6ff;padding:8px 12px;border-radius:12px;font-weight:600;cursor:pointer}
     .btn[aria-pressed="true"]{outline:2px solid var(--accent)}
     .ghost{background:transparent}
+    .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
     footer{border-top:1px solid #243254}
     a{color:#9bd6ff}
 
     .group-title{ grid-column:1 / -1; margin:24px 6px 8px; font-size:18px; color:var(--muted); }
 
-    .owned-checkbox { position:absolute; top:8px; right:8px; width:20px; height:20px; cursor:pointer; }
-    .card.owned { border: 2px solid limegreen; box-shadow: 0 0 10px rgba(50, 205, 50, 0.6); }
-
-    .wave-badge{
-      position:absolute; left:8px; top:8px;
-      padding:4px 8px; border-radius:999px; font-size:11px;
-      background:var(--badge); border:1px solid var(--badgeBorder); color:#dbe6ff;
-      display:none;
+    /* pistiaan toevoeging */
+    .card {
+    position: relative; /* so checkbox can be positioned inside */
     }
-    .show-waves .wave-badge{ display:inline-block; }
 
-    .sort-row{display:grid;gap:10px;grid-template-columns:1fr auto}
-    @media(min-width:520px){ .sort-row{grid-template-columns:1fr auto auto} }
-    .sort-indicator{font-size:12px;color:var(--muted)}
+    .owned-checkbox {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      width: 20px;
+      height: 20px;
+      cursor: pointer;
+    }
+
+    .card.owned {
+      border: 2px solid limegreen;
+      box-shadow: 0 0 10px rgba(50, 205, 50, 0.6);
+    }
   </style>
 </head>
 <body>
   <header>
     <div class="container">
       <h1>LEGO Dimensions – Characters & Abilities</h1>
-      <p class="sub">Filter by ability, franchise, pack type or <b>wave</b>. Search by name or franchise and sort by wave.</p>
-
+      <p class="sub">Filter on ability, franchise, pack type or wave. Search in name or franchise.</p>
       <div class="controls" role="search">
         <div>
           <label for="q">Search</label>
-          <input id="q" name="q" type="search" placeholder="e.g. Batman, Ghostbusters, Portal…" autocomplete="off" />
+          <input id="q" name="q" type="search" placeholder="For instance. Batman, Ghostbusters, Portal…" autocomplete="off" />
           <div class="chips" id="activeChips" aria-live="polite"></div>
         </div>
-
         <div class="row">
           <div>
             <label for="franchise">Franchise</label>
@@ -110,38 +123,19 @@
             </select>
           </div>
           <div>
-            <label for="wave">Wave</label>
+            <label for="wave">Release year</label>
             <select id="wave"><option value="">All</option></select>
           </div>
           <div>
-            <label for="ability">Add ability</label>
+            <label for="ability">Add Ability</label>
             <select id="ability"><option value="">(Select an ability)</option></select>
           </div>
         </div>
-
-        <div class="toolbar" aria-label="tools">
-          <button id="clearFilters" class="btn ghost" type="button">Reset filters</button>
+        <div class="toolbar" aria-label="hulpmiddelen">
+          <button id="clearFilters" class="btn ghost" type="button">Clear filters</button>
           <span class="pill" id="count">0 results</span>
-
-          <button id="groupPack" class="btn" type="button" aria-pressed="false" title="Group by pack">Group by pack</button>
-          <button id="groupFranchise" class="btn" type="button" aria-pressed="false" title="Group by franchise">Group by franchise</button>
-
-          <button id="toggleWaves" class="btn" type="button" aria-pressed="true" title="Toggle wave badges">Show waves</button>
-        </div>
-
-        <div class="sort-row">
-          <div>
-            <label for="sortBy">Sort by</label>
-            <select id="sortBy">
-              <option value="name-asc">Name (A–Z)</option>
-              <option value="name-desc">Name (Z–A)</option>
-              <option value="wave-asc">Wave (1 → 9)</option>
-              <option value="wave-desc">Wave (9 → 1)</option>
-              <option value="franchise-asc">Franchise (A–Z)</option>
-              <option value="type-asc">Pack type (A–Z)</option>
-            </select>
-          </div>
-          <div class="sort-indicator" id="sortHint" aria-live="polite">Sort by: Name (A–Z)</div>
+          <button id="groupPack" class="btn" type="button" aria-pressed="false">Group by pack</button>
+          <button id="groupFranchise" class="btn" type="button" aria-pressed="false">Group by franchise</button>
         </div>
       </div>
     </div>
@@ -157,8 +151,6 @@
 
   <template id="cardTemplate">
     <article class="card" tabindex="0">
-      <span class="wave-badge" aria-hidden="true">Wave ?</span>
-      <input type="checkbox" class="owned-checkbox" title="Mark as owned" />
       <img alt="minifig" loading="lazy"/>
       <div class="card-body">
         <div class="title">
@@ -173,18 +165,18 @@
 
   <script>
     const $ = (q, el=document) => el.querySelector(q);
+
     const state = {
       data: [],
       filters: { q:'', franchise:'', type:'', wave:'', abilities:[] },
       groupByPack:false,
-      groupByFranchise:false,
-      showWaves:true,
-      sortBy:'name-asc'
+      groupByFranchise:false
     };
 
     async function load(){
       const res = await fetch('./characters.json',{cache:'no-store'});
-      const json = await res.json();
+      const txt = await res.text();
+      const json = JSON.parse(txt);
       state.data = Array.isArray(json)? json : (json.characters||[]);
       normalize(state.data);
       buildFilterOptions(state.data);
@@ -195,22 +187,20 @@
       for(const c of list){
         if(!Array.isArray(c.abilities)) c.abilities=[];
         c.pack = c.pack||{};
-        const w = c.pack.releaseWave;
-        if(w === undefined || w === null || w === '') c._wave = null;
-        else { const n=Number(w); c._wave=Number.isFinite(n)? n : null; }
+        if(c.pack.releaseWave!=null) c.pack.releaseWave=String(c.pack.releaseWave);
       }
     }
 
-    function uniqueSorted(list){ return [...new Set(list)].filter(Boolean).sort((a,b)=>String(a).localeCompare(String(b),'en')); }
+    function uniqueSorted(list, locale='nl'){ return [...new Set(list)].filter(Boolean).sort((a,b)=>String(a).localeCompare(String(b), locale)); }
 
     function buildFilterOptions(list){
       const franchises = uniqueSorted(list.map(c=>c.franchise));
       const abilities  = uniqueSorted(list.flatMap(c=>c.abilities||[]));
-      const waves      = uniqueSorted(list.map(c=>c._wave).filter(v=>v!=null));
+      const waves      = uniqueSorted(list.map(c=>c.pack?.releaseWave).filter(v=>v!=null));
 
       const $fr=$('#franchise'); franchises.forEach(f=>{const o=document.createElement('option');o.value=f;o.textContent=f;$fr.appendChild(o);});
       const $ab=$('#ability'); abilities.forEach(a=>{const o=document.createElement('option');o.value=a;o.textContent=a;$ab.appendChild(o);});
-      const $wv=$('#wave'); waves.forEach(w=>{const o=document.createElement('option');o.value=String(w);o.textContent=`Wave ${w}`;$wv.appendChild(o);});
+      const $wv=$('#wave'); waves.forEach(w=>{const o=document.createElement('option');o.value=w;o.textContent=w;$wv.appendChild(o);});
     }
 
     function filterData(){
@@ -220,48 +210,63 @@
         const matchesQ=!ql||(c.name?.toLowerCase().includes(ql)||c.franchise?.toLowerCase().includes(ql));
         const matchesF=!franchise||c.franchise===franchise;
         const matchesT=!type||c.pack?.type===type;
-        const matchesW=!wave||String(c._wave)===String(wave);
+        const matchesW=!wave||String(c.pack?.releaseWave)===String(wave);
         const matchesA=!abilities.length||abilities.every(a=>(c.abilities||[]).includes(a));
         return matchesQ&&matchesF&&matchesT&&matchesW&&matchesA;
-      });
+      }).sort((a,b)=>a.name.localeCompare(b.name,'nl'));
     }
 
-    function sortItems(items){
-      const v = state.sortBy;
-      const collator = new Intl.Collator('en', {sensitivity:'base'});
-      const byName = (a,b)=>collator.compare(a.name||'', b.name||'');
-      const byFranchise = (a,b)=>collator.compare(a.franchise||'', b.franchise||'');
-      const byType = (a,b)=>collator.compare(a.pack?.type||'', b.pack?.type||'');
-      const byWaveAsc = (a,b)=>((a._wave??Infinity) - (b._wave??Infinity)) || byName(a,b);
-      const byWaveDesc = (a,b)=>((b._wave??-Infinity) - (a._wave??-Infinity)) || byName(a,b);
+    function groupBy(items, keyFn){
+      return items.reduce((acc,item)=>{const k=keyFn(item);(acc[k]||(acc[k]=[])).push(item);return acc;},{});}
 
-      switch(v){
-        case 'name-asc':  return items.sort(byName);
-        case 'name-desc': return items.sort((a,b)=>byName(b,a));
-        case 'wave-asc':  return items.sort(byWaveAsc);
-        case 'wave-desc': return items.sort(byWaveDesc);
-        case 'franchise-asc': return items.sort(byFranchise);
-        case 'type-asc': return items.sort(byType);
-        default: return items.sort(byName);
-      }
-    }
+    function pluralize(n, sgl, pl){ return n===1 ? sgl : pl; }
 
     function render(){
       const grid=$('#grid');
-      let items=filterData();
-      items = sortItems(items);
-
-      $('#count').textContent=`${items.length} result${items.length===1?'':'s'}`;
+      const items=filterData();
+      const n=items.length;
+      $('#count').textContent=`${n} ${pluralize(n,'resultaat','resultaten')}`;
       grid.innerHTML='';
 
+      // chips boven de grid
       renderChips();
-      document.body.classList.toggle('show-waves', state.showWaves);
 
-      items.forEach(c=>grid.appendChild(card(c)));
+      if (state.groupByPack) {
+        const grouped = groupBy(items, c => `${c.pack?.type} | ${c.pack?.name} | Year ${c.pack?.releaseWave}`);
+
+        const groups = Object.entries(grouped).sort((a, b) => {
+    // 1) meeste minifigs eerst
+        const bySize = b[1].length - a[1].length;
+      if (bySize !== 0) return bySize;
+
+    // 2) Year oplopend (neem jaar van het eerste item in de groep)
+        const ay = Number(a[1][0]?.pack?.releaseWave ?? Infinity);
+        const by = Number(b[1][0]?.pack?.releaseWave ?? Infinity);
+      if (ay !== by) return ay - by;
+
+    // 3) alfabetisch op de groepstitel
+        return a[0].localeCompare(b[0], 'nl');
+  });
+
+        for(const [title,list] of groups){
+          const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
+          list.forEach(c=>grid.appendChild(card(c)));
+        }
+      } else if(state.groupByFranchise){
+        const grouped=groupBy(items,c=>c.franchise);
+        const groups=Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'nl'));
+        for(const [title,list] of groups){
+          const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
+          list.forEach(c=>grid.appendChild(card(c)));
+        }
+      } else {
+        items.forEach(c=>grid.appendChild(card(c)));
+      }
+
       if(!items.length){
         const div=document.createElement('div');
         div.className='card';
-        div.innerHTML=`<div class="card-body"><h3>No results</h3><p class="meta">Try fewer filters or another search term.</p></div>`;
+        div.innerHTML=`<div class="card-body"><h3>Geen resultaten</h3><p class="meta">Probeer minder filters of een andere zoekterm.</p></div>`;
         grid.appendChild(div);
       }
     }
@@ -269,54 +274,85 @@
     function renderChips(){
       const wrap = $('#activeChips');
       wrap.innerHTML = '';
+
       const { q, franchise, type, wave, abilities } = state.filters;
+
+      // helper
       const addChip = (label, onRemove) => {
         const chip = document.createElement('span');
         chip.className = 'chip';
         chip.innerHTML = `<span>${label}</span>`;
         const btn = document.createElement('button');
         btn.type='button';
+        btn.setAttribute('aria-label', `Verwijder filter: ${label}`);
         btn.textContent='×';
         btn.addEventListener('click', onRemove);
         chip.appendChild(btn);
         wrap.appendChild(chip);
       };
 
-      if(q){ addChip(`Search: “${q}”`, ()=>{ state.filters.q=''; $('#q').value=''; render(); }); }
-      if(franchise){ addChip(`Franchise: ${franchise}`, ()=>{ state.filters.franchise=''; $('#franchise').value=''; render(); }); }
-      if(type){ addChip(`Type: ${type}`, ()=>{ state.filters.type=''; $('#type').value=''; render(); }); }
-      if(wave){ addChip(`Wave: ${wave}`, ()=>{ state.filters.wave=''; $('#wave').value=''; render(); }); }
-      abilities.forEach(a=>{ addChip(`Ability: ${a}`, ()=>{ state.filters.abilities=state.filters.abilities.filter(x=>x!==a); render(); }); });
+      if(q){
+        addChip(`Zoek: “${q}”`, ()=>{
+          state.filters.q='';
+          $('#q').value='';
+          render();
+        });
+      }
+      if(franchise){
+        addChip(`Franchise: ${franchise}`, ()=>{
+          state.filters.franchise='';
+          $('#franchise').value='';
+          render();
+        });
+      }
+      if(type){
+        addChip(`Type: ${type}`, ()=>{
+          state.filters.type='';
+          $('#type').value='';
+          render();
+        });
+      }
+      if(wave){
+        addChip(`Year: ${wave}`, ()=>{
+          state.filters.wave='';
+          $('#wave').value='';
+          render();
+        });
+      }
+      (abilities||[]).forEach(a=>{
+        addChip(`Ability: ${a}`, ()=>{
+          state.filters.abilities = state.filters.abilities.filter(x=>x!==a);
+          render();
+        });
+      });
 
-      if(!wrap.childElementCount){ const hint=document.createElement('span'); hint.className='pill'; hint.textContent='No active filters'; wrap.appendChild(hint); }
+      // als er niks actief is, laat dan een subtiele hint zien
+      if(!wrap.childElementCount){
+        const hint=document.createElement('span');
+        hint.className='pill';
+        hint.textContent='No active filters';
+        wrap.appendChild(hint);
+      }
     }
-
-    function waveText(c){ return (c._wave!=null) ? `Wave ${c._wave}` : 'Wave ?'; }
 
     function card(c){
       const tpl=$('#cardTemplate');
       const el=tpl.content.firstElementChild.cloneNode(true);
-      $('.wave-badge', el).textContent = waveText(c);
-      $('.owned-checkbox', el).addEventListener('change', (e)=>{ el.classList.toggle('owned', e.target.checked); });
-
-      const img = $('img',el); img.src=c.minifigure?.imageUrl||''; img.alt = `${c.name} – minifig`;
+      $('img',el).src=c.minifigure?.imageUrl||'';
       $('.name',el).textContent=c.name;
-      $('.franchise', el).textContent = c.franchise || '';
-
-      const ab=$('.abilities',el);
-      (c.abilities||[]).forEach(a=>{
-        const s=document.createElement('span'); s.className='ability'; s.textContent=a; ab.appendChild(s);
-      });
-
+      $('.franchise', el).textContent = c.franchise;
+      const ab=$('.abilities',el);(c.abilities||[]).forEach(a=>{const s=document.createElement('span');s.className='ability';s.textContent=a;ab.appendChild(s);});
       const p = $('.pack', el);
+      const waveTxt = c.pack?.releaseWave != null ? `Year ${c.pack.releaseWave}` : 'Year ?';
       p.innerHTML = [
         `<span class="pill">${c.pack?.type || 'Pack'}</span>`,
-        `<b class="pack-name">${c.pack?.name || 'Unknown'}</b>`,
-        `<span class="pack-wave">• ${waveText(c)}</span>`
-      ].join(' ');
+        `<b class="pack-name">${c.pack?.name}</b>`,
+        `<span class="pack-wave">• ${waveTxt}</span>`
+      ].join('');
       return el;
     }
 
+    // events
     $('#q').addEventListener('input',e=>{state.filters.q=e.target.value;render();});
     $('#franchise').addEventListener('change',e=>{state.filters.franchise=e.target.value;render();});
     $('#type').addEventListener('change',e=>{state.filters.type=e.target.value;render();});
@@ -333,14 +369,6 @@
       $('#q').value='';$('#franchise').value='';$('#type').value='';$('#wave').value='';
       render();
     });
-
-    $('#toggleWaves').addEventListener('click', e=>{
-      state.showWaves = !state.showWaves;
-      e.currentTarget.setAttribute('aria-pressed', String(state.showWaves));
-      e.currentTarget.textContent = state.showWaves ? 'Hide waves' : 'Show waves';
-      render();
-    });
-
     $('#groupPack').addEventListener('click',e=>{
       state.groupByPack=!state.groupByPack;
       state.groupByFranchise=false;
@@ -356,31 +384,19 @@
       render();
     });
 
-    $('#sortBy').addEventListener('change', e=>{
-      state.sortBy = e.target.value;
-      const labels = {
-        'name-asc':'Name (A–Z)','name-desc':'Name (Z–A)',
-        'wave-asc':'Wave (1 → 9)','wave-desc':'Wave (9 → 1)',
-        'franchise-asc':'Franchise (A–Z)',
-        'type-asc':'Pack type (A–Z)',
-      };
-      $('#sortHint').textContent = `Sort by: ${labels[state.sortBy]||'Name (A–Z)'}`;
-      render();
-    });
-
     load();
   </script>
 
+  <!-- PWA addition: service worker registration -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('service-worker.js')
-          .then(reg => console.log('Service Worker registered:', reg.scope))
-          .catch(err => console.error('SW registration failed:', err));
+          .then(reg => console.log('Service Worker geregistreerd:', reg.scope))
+          .catch(err => console.error('SW registratie faalde:', err));
       });
     }
   </script>
-
   <script src="selection.js"></script>
 </body>
 </html>
