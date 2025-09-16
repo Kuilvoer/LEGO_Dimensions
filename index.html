@@ -123,7 +123,7 @@
             </select>
           </div>
           <div>
-            <label for="wave">Release wave</label>
+            <label for="wave">Release year</label>
             <select id="wave"><option value="">All</option></select>
           </div>
           <div>
@@ -232,7 +232,7 @@
       renderChips();
 
       if(state.groupByPack){
-        const grouped=groupBy(items,c=>`${c.pack?.type} | ${c.pack?.name} | Wave ${c.pack?.releaseWave}`);
+        const grouped=groupBy(items,c=>`${c.pack?.type} | ${c.pack?.name} | Year ${c.pack?.releaseWave}`);
         const groups=Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'nl'));
         for(const [title,list] of groups){
           const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
@@ -299,7 +299,7 @@
         });
       }
       if(wave){
-        addChip(`Wave: ${wave}`, ()=>{
+        addChip(`Year: ${wave}`, ()=>{
           state.filters.wave='';
           $('#wave').value='';
           render();
@@ -329,7 +329,7 @@
       $('.franchise', el).textContent = c.franchise;
       const ab=$('.abilities',el);(c.abilities||[]).forEach(a=>{const s=document.createElement('span');s.className='ability';s.textContent=a;ab.appendChild(s);});
       const p = $('.pack', el);
-      const waveTxt = c.pack?.releaseWave != null ? `Wave ${c.pack.releaseWave}` : 'Wave ?';
+      const waveTxt = c.pack?.releaseWave != null ? `Year ${c.pack.releaseWave}` : 'Year ?';
       p.innerHTML = [
         `<span class="pill">${c.pack?.type || 'Pack'}</span>`,
         `<b class="pack-name">${c.pack?.name}</b>`,
