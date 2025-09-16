@@ -232,8 +232,12 @@
       renderChips();
 
       if(state.groupByPack){
-        const grouped=groupBy(items,c=>`${c.pack?.type} | ${c.pack?.name} | Year ${c.pack?.releaseWave}`);
-        const groups=Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'nl'));
+        const grouped = groupBy(items, c => `${c.pack?.type} | ${c.pack?.name} | Year ${c.pack?.releaseWave}`);
+        const groups  = Object.entries(grouped).sort((a, b) => {
+          const bySize = b[1].length - a[1].length;      // meeste minifigs eerst
+          return bySize !== 0 ? bySize : a[0].localeCompare(b[0], 'nl'); // daarna alfabetisch op titel
+      });
+
         for(const [title,list] of groups){
           const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
           list.forEach(c=>grid.appendChild(card(c)));
