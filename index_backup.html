@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>LEGO Dimensions – Characters & Abilities</title>
+  <title>Lego Dimensions – Characters & Abilities</title>
   <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
@@ -31,9 +31,7 @@
     input,select{width:100%;background:var(--panel);border:1px solid #263657;color:var(--text);padding:10px 12px;border-radius:12px;outline:none}
     input:focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(92,200,255,.15)}
     .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
-    .chip{background:var(--chip);border:1px solid #32466f;color:var(--text);padding:6px 10px;border-radius:999px;font-size:12px;display:inline-flex;align-items:center;gap:8px}
-    .chip button{all:unset;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;border-radius:50%;font-weight:700;line-height:1;background:#2b3a61}
-    .chip button:focus{outline:2px solid var(--accent)}
+    .chip{background:var(--chip);border:1px solid #32466f;color:var(--text);padding:6px 10px;border-radius:999px;font-size:12px}
     .pill{background:#0f1a34;border:1px solid #2a3c63;color:var(--muted);padding:6px 10px;border-radius:999px;font-size:12px}
 
     /* Grid */
@@ -50,10 +48,23 @@
     .abilities{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
     .ability{background:var(--chip2);border:1px solid #334973;color:#cfe2ff;padding:4px 8px;border-radius:999px;font-size:12px}
     /* Nettere layout voor de pack-regel */
-    .pack { display:flex; flex-wrap:wrap; gap:8px 10px; align-items:center; margin-top:10px; line-height:1.35; font-size:13px; }
-    .pack .pill { flex:0 0 auto; }
-    .pack .pack-name { font-weight:700; overflow-wrap:anywhere; color:#cfe2ff; }
-    .pack .pack-wave { color:var(--muted); flex:0 0 auto; }
+    .pack {
+      display: flex;
+      flex-wrap: wrap;          /* mag naar een volgende regel */
+      gap: 8px 10px;            /* horizontale + verticale ruimte */
+      align-items: center;
+      margin-top: 10px;
+      line-height: 1.35;
+      font-size: 13px;
+    }
+    .pack .pill { flex: 0 0 auto; }
+    .pack .pack-name {
+      font-weight: 700;
+      word-break: keep-all;     /* niet midden in woorden breken */
+      overflow-wrap: anywhere;  /* mag wel op spaties breken */
+      color:#cfe2ff;            /* zelfde kleur als eerst */
+    }
+    .pack .pack-wave { color: var(--muted); flex: 0 0 auto; }
 
     .count { font-weight:600; color:#b7d9ff }
 
@@ -65,43 +76,49 @@
     footer{border-top:1px solid #243254}
     a{color:#9bd6ff}
 
-    .group-title{ grid-column:1 / -1; margin:24px 6px 8px; font-size:18px; color:var(--muted); }
+    /* Groeptitels */
+    .group-title{
+      grid-column: 1 / -1;
+      margin:24px 6px 8px;
+      font-size:18px;
+      color:var(--muted);
+    }
   </style>
 </head>
 <body>
   <header>
     <div class="container">
       <h1>LEGO Dimensions – Characters</h1>
-      <p class="sub">Filter op ability, franchise, pack type of wave. Zoek in naam of franchise.</p>
+      <p class="sub">Filter on ability, franchise, pack type or wave. Search inside a name or franchise.</p>
       <div class="controls" role="search">
         <div>
-          <label for="q">Zoeken</label>
-          <input id="q" name="q" type="search" placeholder="Bijv. Batman, Ghostbusters, Portal…" autocomplete="off" />
+          <label for="q">Search</label>
+          <input id="q" name="q" type="search" placeholder="For example. Batman, Ghostbusters, Portal…" autocomplete="off" />
           <div class="chips" id="activeChips" aria-live="polite"></div>
         </div>
         <div class="row">
           <div>
             <label for="franchise">Franchise</label>
-            <select id="franchise"><option value="">Alle</option></select>
+            <select id="franchise"><option value="">All</option></select>
           </div>
           <div>
             <label for="type">Pack type</label>
-            <select id="type"><option value="">Alle</option></select>
+            <select id="type"><option value="">All</option><option>Starter</option><option>Story</option><option>Level</option><option>Team</option><option>Fun</option></select>
           </div>
           <div>
             <label for="wave">Release wave</label>
-            <select id="wave"><option value="">Alle</option></select>
+            <select id="wave"><option value="">All</option><option>1</option><option>2</option></select>
           </div>
           <div>
-            <label for="ability">Ability toevoegen</label>
-            <select id="ability"><option value="">(Kies een ability)</option></select>
+            <label for="ability">Ability</label>
+            <select id="ability"><option value="">(Select an ability)</option></select>
           </div>
         </div>
         <div class="toolbar" aria-label="hulpmiddelen">
           <button id="clearFilters" class="btn ghost" type="button">Clear filters</button>
-          <span class="pill" id="count">0 resultaten</span>
-          <button id="groupPack" class="btn" type="button" aria-pressed="false">Groepeer op pack</button>
-          <button id="groupFranchise" class="btn" type="button" aria-pressed="false">Groepeer op franchise</button>
+          <span class="pill" id="count">0 results</span>
+          <button id="groupPack" class="btn" type="button" aria-pressed="false">Group by pack</button>
+          <button id="groupFranchise" class="btn" type="button" aria-pressed="false">Group by franchise</button>
         </div>
       </div>
     </div>
@@ -152,24 +169,18 @@
     function normalize(list){
       for(const c of list){
         if(!Array.isArray(c.abilities)) c.abilities=[];
-        c.pack = c.pack||{};
-        c.pack.type = c.pack.type || 'Onbekend';
+        c.pack = c.pack||{}; c.pack.type = c.pack.type||'Onbekend';
         if(c.pack.releaseWave!=null) c.pack.releaseWave=String(c.pack.releaseWave);
       }
     }
 
-    function uniqueSorted(list, locale='nl'){ return [...new Set(list)].filter(Boolean).sort((a,b)=>String(a).localeCompare(String(b), locale)); }
-
     function buildFilterOptions(list){
-      const franchises = uniqueSorted(list.map(c=>c.franchise));
-      const abilities  = uniqueSorted(list.flatMap(c=>c.abilities||[]));
-      const types      = uniqueSorted(list.map(c=>c.pack?.type || 'Onbekend'));
-      const waves      = uniqueSorted(list.map(c=>c.pack?.releaseWave).filter(v=>v!=null));
-
-      const $fr=$('#franchise'); franchises.forEach(f=>{const o=document.createElement('option');o.value=f;o.textContent=f;$fr.appendChild(o);});
-      const $ab=$('#ability'); abilities.forEach(a=>{const o=document.createElement('option');o.value=a;o.textContent=a;$ab.appendChild(o);});
-      const $tp=$('#type'); types.forEach(t=>{const o=document.createElement('option');o.value=t;o.textContent=t;$tp.appendChild(o);});
-      const $wv=$('#wave'); waves.forEach(w=>{const o=document.createElement('option');o.value=w;o.textContent=w;$wv.appendChild(o);});
+      const franchises=[...new Set(list.map(c=>c.franchise).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'nl'));
+      const abilities=[...new Set(list.flatMap(c=>c.abilities||[]))].sort((a,b)=>a.localeCompare(b,'nl'));
+      const $fr=$('#franchise');
+      franchises.forEach(f=>{const o=document.createElement('option');o.value=f;o.textContent=f;$fr.appendChild(o);});
+      const $ab=$('#ability');
+      abilities.forEach(a=>{const o=document.createElement('option');o.value=a;o.textContent=a;$ab.appendChild(o);});
     }
 
     function filterData(){
@@ -188,17 +199,11 @@
     function groupBy(items, keyFn){
       return items.reduce((acc,item)=>{const k=keyFn(item);(acc[k]||(acc[k]=[])).push(item);return acc;},{});}
 
-    function pluralize(n, sgl, pl){ return n===1 ? sgl : pl; }
-
     function render(){
       const grid=$('#grid');
       const items=filterData();
-      const n=items.length;
-      $('#count').textContent=`${n} ${pluralize(n,'resultaat','resultaten')}`;
+      $('#count').textContent=`${items.length} resultaten`;
       grid.innerHTML='';
-
-      // chips boven de grid
-      renderChips();
 
       if(state.groupByPack){
         const grouped=groupBy(items,c=>`${c.pack?.type||'Onbekend'} | ${c.pack?.name||'Onbekend'} | Wave ${c.pack?.releaseWave||'?'}`);
@@ -226,70 +231,6 @@
       }
     }
 
-    function renderChips(){
-      const wrap = $('#activeChips');
-      wrap.innerHTML = '';
-
-      const { q, franchise, type, wave, abilities } = state.filters;
-
-      // helper
-      const addChip = (label, onRemove) => {
-        const chip = document.createElement('span');
-        chip.className = 'chip';
-        chip.innerHTML = `<span>${label}</span>`;
-        const btn = document.createElement('button');
-        btn.type='button';
-        btn.setAttribute('aria-label', `Verwijder filter: ${label}`);
-        btn.textContent='×';
-        btn.addEventListener('click', onRemove);
-        chip.appendChild(btn);
-        wrap.appendChild(chip);
-      };
-
-      if(q){
-        addChip(`Zoek: “${q}”`, ()=>{
-          state.filters.q='';
-          $('#q').value='';
-          render();
-        });
-      }
-      if(franchise){
-        addChip(`Franchise: ${franchise}`, ()=>{
-          state.filters.franchise='';
-          $('#franchise').value='';
-          render();
-        });
-      }
-      if(type){
-        addChip(`Type: ${type}`, ()=>{
-          state.filters.type='';
-          $('#type').value='';
-          render();
-        });
-      }
-      if(wave){
-        addChip(`Wave: ${wave}`, ()=>{
-          state.filters.wave='';
-          $('#wave').value='';
-          render();
-        });
-      }
-      (abilities||[]).forEach(a=>{
-        addChip(`Ability: ${a}`, ()=>{
-          state.filters.abilities = state.filters.abilities.filter(x=>x!==a);
-          render();
-        });
-      });
-
-      // als er niks actief is, laat dan een subtiele hint zien
-      if(!wrap.childElementCount){
-        const hint=document.createElement('span');
-        hint.className='pill';
-        hint.textContent='Geen actieve filters';
-        wrap.appendChild(hint);
-      }
-    }
-
     function card(c){
       const tpl=$('#cardTemplate');
       const el=tpl.content.firstElementChild.cloneNode(true);
@@ -312,32 +253,10 @@
     $('#franchise').addEventListener('change',e=>{state.filters.franchise=e.target.value;render();});
     $('#type').addEventListener('change',e=>{state.filters.type=e.target.value;render();});
     $('#wave').addEventListener('change',e=>{state.filters.wave=e.target.value;render();});
-    $('#ability').addEventListener('change',e=>{
-      const v=e.target.value;
-      if(!v) return;
-      if(!state.filters.abilities.includes(v)) state.filters.abilities.push(v);
-      e.target.value='';
-      render();
-    });
-    $('#clearFilters').addEventListener('click',()=>{
-      state.filters={q:'',franchise:'',type:'',wave:'',abilities:[]};
-      $('#q').value='';$('#franchise').value='';$('#type').value='';$('#wave').value='';
-      render();
-    });
-    $('#groupPack').addEventListener('click',e=>{
-      state.groupByPack=!state.groupByPack;
-      state.groupByFranchise=false;
-      $('#groupFranchise').setAttribute('aria-pressed','false');
-      e.currentTarget.setAttribute('aria-pressed',String(state.groupByPack));
-      render();
-    });
-    $('#groupFranchise').addEventListener('click',e=>{
-      state.groupByFranchise=!state.groupByFranchise;
-      state.groupByPack=false;
-      $('#groupPack').setAttribute('aria-pressed','false');
-      e.currentTarget.setAttribute('aria-pressed',String(state.groupByFranchise));
-      render();
-    });
+    $('#ability').addEventListener('change',e=>{const v=e.target.value;if(!v)return;if(!state.filters.abilities.includes(v))state.filters.abilities.push(v);e.target.value='';render();});
+    $('#clearFilters').addEventListener('click',()=>{state.filters={q:'',franchise:'',type:'',wave:'',abilities:[]};$('#q').value='';$('#franchise').value='';$('#type').value='';$('#wave').value='';render();});
+    $('#groupPack').addEventListener('click',e=>{state.groupByPack=!state.groupByPack;state.groupByFranchise=false;$('#groupFranchise').setAttribute('aria-pressed','false');e.currentTarget.setAttribute('aria-pressed',String(state.groupByPack));render();});
+    $('#groupFranchise').addEventListener('click',e=>{state.groupByFranchise=!state.groupByFranchise;state.groupByPack=false;$('#groupPack').setAttribute('aria-pressed','false');e.currentTarget.setAttribute('aria-pressed',String(state.groupByFranchise));render();});
 
     load();
   </script>
