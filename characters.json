@@ -2214,10 +2214,10 @@
     "aliases": [],
     "availabilityStatus": "released",
     "pack": {
-      "type": "Fun Pack",
+      "type": "Fun",
       "name": "Starfire Fun Pack",
       "setNumber": "71287",
-      "releaseWave": 9,
+      "releaseWave": 2,
       "releaseYear": 2017
     },
     "pieces": 56,
