@@ -112,7 +112,15 @@
           </div>
           <div>
             <label for="type">Pack type</label>
-            <select id="type"><option value="">All</option></select>
+            <select id="type">
+              <option value="">All</option>
+              <option value="Starter">Starter</option>
+              <option value="Story">Story</option>
+              <option value="Level">Level</option>
+              <option value="Team">Team</option>
+              <option value="Fun">Fun</option>
+              <option value="Polybag">Polybag</option>
+            </select>
           </div>
           <div>
             <label for="wave">Release wave</label>
@@ -188,12 +196,10 @@
     function buildFilterOptions(list){
       const franchises = uniqueSorted(list.map(c=>c.franchise));
       const abilities  = uniqueSorted(list.flatMap(c=>c.abilities||[]));
-      const types = uniqueSorted(list.map(c=>c.pack?.type));
       const waves      = uniqueSorted(list.map(c=>c.pack?.releaseWave).filter(v=>v!=null));
 
       const $fr=$('#franchise'); franchises.forEach(f=>{const o=document.createElement('option');o.value=f;o.textContent=f;$fr.appendChild(o);});
       const $ab=$('#ability'); abilities.forEach(a=>{const o=document.createElement('option');o.value=a;o.textContent=a;$ab.appendChild(o);});
-      const $tp=$('#type'); types.forEach(t=>{const o=document.createElement('option');o.value=t;o.textContent=t;$tp.appendChild(o);});
       const $wv=$('#wave'); waves.forEach(w=>{const o=document.createElement('option');o.value=w;o.textContent=w;$wv.appendChild(o);});
     }
 
