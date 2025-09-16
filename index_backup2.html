@@ -7,14 +7,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
-
-  <!-- PWA additions -->
-  <link rel="manifest" href="manifest.webmanifest">
-  <meta name="theme-color" content="#0b1020">
-
-  <!-- (laat staan) Oude manifest-verwijzing van je icon-pack -->
   <link rel="manifest" href="icons/site.webmanifest">
-
   <style>
     :root{
       --bg:#0b1020; --panel:#151b2e; --muted:#8ea0bf; --text:#e6eeff; --accent:#5cc8ff; --chip:#223153; --chip2:#2b3a61;
@@ -347,17 +340,6 @@
     });
 
     load();
-  </script>
-
-  <!-- PWA addition: service worker registration -->
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('service-worker.js')
-          .then(reg => console.log('Service Worker geregistreerd:', reg.scope))
-          .catch(err => console.error('SW registratie faalde:', err));
-      });
-    }
   </script>
 </body>
 </html>
