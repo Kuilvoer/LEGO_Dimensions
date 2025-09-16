@@ -179,7 +179,7 @@
     };
 
     async function load(){
-      const res = await fetch('./characters.enriched.final.json',{cache:'no-store'});
+      const res = await fetch('./characters.json',{cache:'no-store'});
       const txt = await res.text();
       const json = JSON.parse(txt);
       state.data = Array.isArray(json)? json : (json.characters||[]);
