@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LEGO Dimensions – Characters & Abilities</title>
+
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#0b1020">
+
+  <style>
+    :root{
+      --bg:#0b1020; --panel:#151b2e; --muted:#8ea0bf; --text:#e6eeff; --accent:#5cc8ff; --chip:#223153; --chip2:#2b3a61;
+      --badge:#2a3f6e; --badgeBorder:#3b5592;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;height:100%}
+    body{font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial; background:linear-gradient(180deg,#0b1020,#0e1426 200px); color:var(--text)}
+    header{position:sticky;top:0;z-index:5;background:linear-gradient(180deg,rgba(11,16,32,.95),rgba(11,16,32,.85));backdrop-filter:saturate(140%) blur(10px);border-bottom:1px solid #243254}
+    .container{max-width:1200px;margin:0 auto;padding:16px}
+    h1{font-size:clamp(20px,3vw,28px);margin:0 0 8px 0}
+    .sub{color:var(--muted);font-size:14px;margin:0}
+
+    /* Controls layout with grid areas */
+    .controls{
+      display:grid;
+      gap:12px;
+      grid-template-columns:1fr;
+      grid-template-areas:
+        "search"
+        "toolbar"
+        "chips"
+        "filters";
+      align-items:start;
+      margin-top:12px;
+    }
+    .search-block{ grid-area:search; }
+    .toolbar{ grid-area:toolbar; display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:8px }
+    #activeChips{ grid-area:chips; }
+    .filters-row{ grid-area:filters; }
+
+    /* Desktop: filters to the RIGHT of the search input */
+    @media(min-width:980px){
+      .controls{
+        grid-template-columns:minmax(420px,560px) 1fr;
+        grid-template-areas:
+          "search filters"
+          "toolbar toolbar"
+          "chips chips";
+      }
+    }
+
+    label{font-size:12px;color:var(--muted);display:block;margin-bottom:6px}
+    input,select{width:100%;background:var(--panel);border:1px solid #263657;color:var(--text);padding:10px 12px;border-radius:12px;outline:none}
+    input:focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(92,200,255,.15)}
+    .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+    .chip{background:var(--chip);border:1px solid #32466f;color:var(--text);padding:6px 10px;border-radius:999px;font-size:12px;display:inline-flex;align-items:center;gap:8px}
+    .chip button{all:unset;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;border-radius:50%;font-weight:700;line-height:1;background:#2b3a61}
+    .chip button:focus{outline:2px solid var(--accent)}
+    .pill{background:#0f1a34;border:1px solid #2a3c63;color:var(--muted);padding:6px 10px;border-radius:999px;font-size:12px}
+
+    /* Make search bar shorter */
+    #q{max-width:560px}
+
+    /* Filters grid (even distribution) */
+    .row{display:grid;gap:10px;grid-template-columns:1fr}
+    @media(min-width:700px){ .row{ grid-template-columns:repeat(2,minmax(200px,1fr)); } }
+    @media(min-width:980px){ .row{ grid-template-columns:repeat(5,minmax(180px,1fr)); } }
+
+    /* Grid of cards */
+    .grid{display:grid;gap:14px;margin:18px 0 40px}
+    @media(min-width:700px){.grid{grid-template-columns:repeat(2,1fr)}}
+    @media(min-width:1050px){.grid{grid-template-columns:repeat(3,1fr)}}
+
+    .card{background:linear-gradient(180deg,#131a2c,#10172a);border:1px solid #223153;border-radius:16px;overflow:hidden;display:flex;gap:12px;padding:12px;position:relative}
+    .card img{width:110px;height:110px;object-fit:contain;background:radial-gradient(120px 120px at 50% 50%,#0e1530,#0b1020);border-radius:12px;border:1px solid #1c2744}
+    .card-body{flex:1;min-width:0}
+    .title{display:flex;align-items:center;gap:8px}
+    .title h3{font-size:18px;line-height:1.2;margin:0}
+    .meta{color:var(--muted);font-size:12px}
+    .abilities{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+    .ability{background:var(--chip2);border:1px solid #334973;color:#cfe2ff;padding:4px 8px;border-radius:999px;font-size:12px}
+    .pack { display:flex; flex-wrap:wrap; gap:8px 10px; align-items:center; margin-top:10px; line-height:1.35; font-size:13px; }
+    .pack .pill { flex:0 0 auto; }
+    .pack .pack-name { font-weight:700; overflow-wrap:anywhere; color:#cfe2ff; }
+    .pack .pack-extra { color:var(--muted); flex:0 0 auto; }
+    .count { font-weight:600; color:#b7d9ff }
+
+    .btn{background:#1a2544;border:1px solid #2a3c63;color:#d7e6ff;padding:8px 12px;border-radius:12px;font-weight:600;cursor:pointer}
+    .btn[aria-pressed="true"]{outline:2px solid var(--accent)}
+    .ghost{background:transparent}
+    footer{border-top:1px solid #243254}
+    a{color:#9bd6ff}
+
+    .group-title{ grid-column:1 / -1; margin:24px 6px 8px; font-size:18px; color:var(--muted); }
+
+    .owned-checkbox { position:absolute; top:8px; right:8px; width:20px; height:20px; cursor:pointer; }
+    .card.owned { border: 2px solid limegreen; box-shadow: 0 0 10px rgba(50, 205, 50, 0.6); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>LEGO Dimensions – Characters & Abilities</h1>
+      <p class="sub">Filter by ability, franchise, pack type, year or wave. Search by name or franchise. Year and wave are shown on every card.</p>
+
+      <div class="controls">
+        <!-- Search (left on desktop) -->
+        <div class="search-block">
+          <label for="q">Search</label>
+          <input id="q" name="q" type="search" placeholder="e.g. Batman, Ghostbusters, Portal…" autocomplete="off" />
+        </div>
+
+        <!-- Filters (right on desktop) -->
+        <div class="filters-row">
+          <div class="row">
+            <div>
+              <label for="franchise">Franchise</label>
+              <select id="franchise"><option value="">All</option></select>
+            </div>
+            <div>
+              <label for="type">Pack type</label>
+              <select id="type">
+                <option value="">All</option>
+                <option value="Starter">Starter</option>
+                <option value="Story">Story</option>
+                <option value="Level">Level</option>
+                <option value="Team">Team</option>
+                <option value="Fun">Fun</option>
+                <option value="Polybag">Polybag</option>
+              </select>
+            </div>
+            <div>
+              <label for="year">Year</label>
+              <select id="year"><option value="">All</option></select>
+            </div>
+            <div>
+              <label for="wave">Wave</label>
+              <select id="wave"><option value="">All</option></select>
+            </div>
+            <div>
+              <label for="ability">Add ability</label>
+              <select id="ability"><option value="">(Select an ability)</option></select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Toolbar directly under search -->
+        <div class="toolbar" aria-label="tools">
+          <button id="clearFilters" class="btn ghost" type="button">Reset filters</button>
+          <span class="pill" id="count">0 results</span>
+          <button id="groupPack" class="btn" type="button" aria-pressed="false" title="Group by pack">Group by pack</button>
+          <button id="groupFranchise" class="btn" type="button" aria-pressed="false" title="Group by franchise">Group by franchise</button>
+        </div>
+
+        <!-- Active filter chips -->
+        <div class="chips" id="activeChips" aria-live="polite"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="grid" class="grid" aria-live="polite"></section>
+  </main>
+
+  <footer class="container" style="padding:22px 16px 40px">
+    <small class="sub">Hertog Kuiles</small>
+  </footer>
+
+  <template id="cardTemplate">
+    <article class="card" tabindex="0">
+      <input type="checkbox" class="owned-checkbox" title="Mark as owned" />
+      <img alt="minifig" loading="lazy"/>
+      <div class="card-body">
+        <div class="title">
+          <h3 class="name"></h3>
+        </div>
+        <div class="meta franchise"></div>
+        <div class="abilities" aria-label="Abilities"></div>
+        <div class="pack"></div>
+      </div>
+    </article>
+  </template>
+
+  <script>
+    const $ = (q, el=document) => el.querySelector(q);
+    const state = {
+      data: [],
+      filters: { q:'', franchise:'', type:'', year:'', wave:'', abilities:[] },
+      groupByPack:false,
+      groupByFranchise:false
+    };
+
+    async function load(){
+      const res = await fetch('./characters.json',{cache:'no-store'});
+      const json = await res.json();
+      state.data = Array.isArray(json)? json : (json.characters||[]);
+      normalize(state.data);
+      buildFilterOptions(state.data);
+      render();
+    }
+
+    function normalize(list){
+      for(const c of list){
+        if(!Array.isArray(c.abilities)) c.abilities=[];
+        c.pack = c.pack||{};
+        const w = c.pack.releaseWave;
+        c._wave = (w===undefined||w===null||w==='') ? null : (Number.isFinite(+w) ? +w : null);
+        // Year detection
+        c._yearLabel = c.gameYearLabel || (
+          (c.gameYear||c.pack.releaseYear) ? `Year ${c.gameYear||c.pack.releaseYear}` :
+          (c.pack.releaseDate && /^\d{4}$/.test(String(c.pack.releaseDate))) ? String(c.pack.releaseDate) : 'Year ?'
+        );
+      }
+    }
+
+    function uniqueSorted(list){ return [...new Set(list)].filter(Boolean).sort((a,b)=>String(a).localeCompare(String(b),'en')); }
+
+    function buildFilterOptions(list){
+      const franchises = uniqueSorted(list.map(c=>c.franchise));
+      const abilities  = uniqueSorted(list.flatMap(c=>c.abilities||[]));
+      const waves      = uniqueSorted(list.map(c=>c._wave).filter(v=>v!=null));
+      const years      = uniqueSorted(list.map(c=>c._yearLabel));
+
+      const $fr=$('#franchise'); franchises.forEach(f=>{const o=document.createElement('option');o.value=f;o.textContent=f;$fr.appendChild(o);});
+      const $ab=$('#ability'); abilities.forEach(a=>{const o=document.createElement('option');o.value=a;o.textContent=a;$ab.appendChild(o);});
+      const $yr=$('#year'); years.forEach(y=>{const o=document.createElement('option');o.value=y;o.textContent=y;$yr.appendChild(o);});
+      const $wv=$('#wave'); waves.forEach(w=>{const o=document.createElement('option');o.value=String(w);o.textContent=`Wave ${w}`;$wv.appendChild(o);});
+    }
+
+    function filterData(){
+      const {q,franchise,type,year,wave,abilities}=state.filters;
+      const ql=q.trim().toLowerCase();
+      return state.data.filter(c=>{
+        const matchesQ=!ql||(c.name?.toLowerCase().includes(ql)||c.franchise?.toLowerCase().includes(ql));
+        const matchesF=!franchise||c.franchise===franchise;
+        const matchesT=!type||c.pack?.type===type;
+        const matchesY=!year||c._yearLabel===year;
+        const matchesW=!wave||String(c._wave)===String(wave);
+        const matchesA=!abilities.length||abilities.every(a=>(c.abilities||[]).includes(a));
+        return matchesQ&&matchesF&&matchesT&&matchesY&&matchesW&&matchesA;
+      });
+    }
+
+    function sortByNameAsc(items){
+      const collator = new Intl.Collator('en', {sensitivity:'base'});
+      return items.sort((a,b)=>collator.compare(a.name||'', b.name||''));
+    }
+
+    function groupBy(items, keyFn){ return items.reduce((acc,item)=>{const k=keyFn(item);(acc[k]||(acc[k]=[])).push(item);return acc;},{}); }
+
+    function waveText(c){ return (c._wave!=null) ? `Wave ${c._wave}` : 'Wave ?'; }
+
+    function render(){
+      const grid=$('#grid');
+      let items=filterData();
+      items = sortByNameAsc(items); // default stable sort by name
+
+      $('#count').textContent=`${items.length} result${items.length===1?'':'s'}`;
+      grid.innerHTML='';
+
+      renderChips();
+
+      if (state.groupByPack) {
+        const grouped = groupBy(items, c =>
+          `${c.pack?.type || 'Pack'} | ${c.pack?.name || 'Unknown'} | ${c._yearLabel} • ${waveText(c)}`
+        );
+
+        const getWave = (key) => {
+          const m = key.match(/Wave (\d+)/);
+          return m ? Number(m[1]) : Infinity;
+        };
+
+        const groups = Object.entries(grouped).sort((a, b) => {
+          // 1) aantal karakters per pack (aflopend)
+          const countDiff = b[1].length - a[1].length;
+          if (countDiff) return countDiff;
+          // 2) wave (oplopend)
+          const aw = getWave(a[0]);
+          const bw = getWave(b[0]);
+          if (aw !== bw) return aw - bw;
+          // 3) packtitel A→Z
+          return a[0].localeCompare(b[0], 'en');
+        });
+
+        for (const [title, list] of groups) {
+          const h = document.createElement('h2');
+          h.className = 'group-title';
+          h.textContent = title;
+          grid.appendChild(h);
+          list.forEach(c => grid.appendChild(card(c)));
+        }
+
+      } else if (state.groupByFranchise) {
+        const grouped=groupBy(items,c=>c.franchise||'Unknown');
+        const groups=Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'en'));
+        for(const [title,list] of groups){
+          const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
+          list.forEach(c=>grid.appendChild(card(c)));
+        }
+      } else {
+        items.forEach(c=>grid.appendChild(card(c)));
+      }
+
+      if(!items.length){
+        const div=document.createElement('div');
+        div.className='card';
+        div.innerHTML=`<div class="card-body"><h3>No results</h3><p class="meta">Try fewer filters or another search term.</p></div>`;
+        grid.appendChild(div);
+      }
+    }
+
+    function renderChips(){
+      const wrap = $('#activeChips');
+      wrap.innerHTML = '';
+      const { q, franchise, type, year, wave, abilities } = state.filters;
+
+      const addChip = (label, onRemove) => {
+        const chip = document.createElement('span');
+        chip.className = 'chip';
+        chip.innerHTML = `<span>${label}</span>`;
+        const btn = document.createElement('button');
+        btn.type='button';
+        btn.textContent='×';
+        btn.addEventListener('click', onRemove);
+        chip.appendChild(btn);
+        wrap.appendChild(chip);
+      };
+
+      if(q){ addChip(`Search: “${q}”`, ()=>{ state.filters.q=''; $('#q').value=''; render(); }); }
+      if(franchise){ addChip(`Franchise: ${franchise}`, ()=>{ state.filters.franchise=''; $('#franchise').value=''; render(); }); }
+      if(type){ addChip(`Type: ${type}`, ()=>{ state.filters.type=''; $('#type').value=''; render(); }); }
+      if(year){ addChip(`Year: ${year}`, ()=>{ state.filters.year=''; $('#year').value=''; render(); }); }
+      if(wave){ addChip(`Wave: ${wave}`, ()=>{ state.filters.wave=''; $('#wave').value=''; render(); }); }
+      (abilities||[]).forEach(a=>{ addChip(`Ability: ${a}`, ()=>{ state.filters.abilities=state.filters.abilities.filter(x=>x!==a); render(); }); });
+
+      if(!wrap.childElementCount){ const hint=document.createElement('span'); hint.className='pill'; hint.textContent='No active filters'; wrap.appendChild(hint); }
+    }
+
+    function card(c){
+      const tpl=$('#cardTemplate');
+      const el=tpl.content.firstElementChild.cloneNode(true);
+      $('.owned-checkbox', el).addEventListener('change', (e)=>{ el.classList.toggle('owned', e.target.checked); });
+
+      const img = $('img',el); img.src=c.minifigure?.imageUrl||''; img.alt = `${c.name} – minifig`;
+      $('.name',el).textContent=c.name;
+      $('.franchise', el).textContent = c.franchise || '';
+
+      const ab=$('.abilities',el);
+      (c.abilities||[]).forEach(a=>{
+        const s=document.createElement('span'); s.className='ability'; s.textContent=a; ab.appendChild(s);
+      });
+
+      const p = $('.pack', el);
+      p.innerHTML = [
+        `<span class="pill">${c.pack?.type || 'Pack'}</span>`,
+        `<b class="pack-name">${c.pack?.name || 'Unknown'}</b>`,
+        `<span class="pack-extra">• ${c._yearLabel} • ${waveText(c)}</span>`
+      ].join(' ');
+      return el;
+    }
+
+    // Filter events
+    $('#q').addEventListener('input',e=>{state.filters.q=e.target.value;render();});
+    $('#franchise').addEventListener('change',e=>{state.filters.franchise=e.target.value;render();});
+    $('#type').addEventListener('change',e=>{state.filters.type=e.target.value;render();});
+    $('#year').addEventListener('change',e=>{state.filters.year=e.target.value;render();});
+    $('#wave').addEventListener('change',e=>{state.filters.wave=e.target.value;render();});
+    $('#ability').addEventListener('change',e=>{
+      const v=e.target.value;
+      if(!v) return;
+      if(!state.filters.abilities.includes(v)) state.filters.abilities.push(v);
+      e.target.value='';
+      render();
+    });
+    $('#clearFilters').addEventListener('click',()=>{
+      state.filters={q:'',franchise:'',type:'',year:'',wave:'',abilities:[]};
+      $('#q').value='';$('#franchise').value='';$('#type').value='';$('#year').value='';$('#wave').value='';
+      render();
+    });
+
+    // Grouping
+    $('#groupPack').addEventListener('click',e=>{
+      state.groupByPack=!state.groupByPack;
+      state.groupByFranchise=false;
+      $('#groupFranchise').setAttribute('aria-pressed','false');
+      e.currentTarget.setAttribute('aria-pressed',String(state.groupByPack));
+      render();
+    });
+    $('#groupFranchise').addEventListener('click',e=>{
+      state.groupByFranchise=!state.groupByFranchise;
+      state.groupByPack=false;
+      $('#groupPack').setAttribute('aria-pressed','false');
+      e.currentTarget.setAttribute('aria-pressed',String(state.groupByFranchise));
+      render();
+    });
+
+    load();
+  </script>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('service-worker.js')
+          .then(reg => console.log('Service Worker registered:', reg.scope))
+          .catch(err => console.error('SW registration failed:', err));
+      });
+    }
+  </script>
+
+  <script src="selection.js"></script>
+</body>
+</html>
