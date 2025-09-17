@@ -1556,7 +1556,7 @@
     "pack": {
       "type": "Polybag",
       "name": "Green Arrow Polybag",
-      "releaseWave": 0,
+      "releaseWave": 1,
       "setNumber": "71342",
       "releaseDate": "2016",
       "releaseYear": 2
@@ -1592,7 +1592,7 @@
     "pack": {
       "type": "Polybag",
       "name": "Supergirl Polybag",
-      "releaseWave": 0,
+      "releaseWave": 1,
       "setNumber": "71340",
       "releaseDate": "2016",
       "releaseYear": 2
