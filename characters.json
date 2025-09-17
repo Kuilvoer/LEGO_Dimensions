@@ -12,12 +12,9 @@
     },
     "abilities": [
       "Boomerang",
-      "Sword Switch",
       "Stealth",
-      "Laser Deflector",
-      "Grapple",
-      "Cracked LEGO Objects",
-      "Master Build"
+      "Grapple"
+      
     ],
     "minifigure": {
       "legoId": "unknown",
@@ -2306,8 +2303,12 @@
     },
     "abilities": [
       "Boomerang",
+      "Sword Switch",
+      "Stealth",
+      "Laser Deflector",
       "Grapple",
-      "Stealth"
+      "Cracked LEGO Objects",
+      "Master Build"
     ],
     "minifigure": {
       "legoId": "unknown",
