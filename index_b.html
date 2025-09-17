@@ -23,15 +23,12 @@
 
     /* Layout for controls */
     .controls{display:grid;gap:12px;grid-template-columns:1fr;align-items:start;margin-top:12px}
-
-    /* Filters: evenly distributed, no right-push */
-    .filters-row{display:block}
+    .filters-row{display:grid;gap:10px;grid-template-columns:1fr 1fr}
     .row{display:grid;gap:10px;grid-template-columns:1fr}
-    @media(min-width:700px){
-      .row{grid-template-columns:repeat(2,minmax(220px,1fr));}
-    }
     @media(min-width:980px){
-      .row{grid-template-columns:repeat(5,minmax(200px,1fr));}
+      /* Put filter dropdowns on the right */
+      .row{grid-template-columns:repeat(5,220px); justify-self:end; }
+      .filters-row{grid-template-columns:1fr auto;}
     }
 
     label{font-size:12px;color:var(--muted);display:block;margin-bottom:6px}
@@ -89,7 +86,7 @@
         <div>
           <label for="q">Search</label>
           <input id="q" name="q" type="search" placeholder="e.g. Batman, Ghostbusters, Portal…" autocomplete="off" />
-          <!-- Toolbar under search -->
+          <!-- Toolbar directly under search -->
           <div class="toolbar" aria-label="tools">
             <button id="clearFilters" class="btn ghost" type="button">Reset filters</button>
             <span class="pill" id="count">0 results</span>
@@ -100,8 +97,9 @@
           <div class="chips" id="activeChips" aria-live="polite"></div>
         </div>
 
-        <!-- Filters evenly distributed -->
+        <!-- Filters aligned right -->
         <div class="filters-row">
+          <div></div> <!-- spacer keeps filters pushed right on wide screens -->
           <div class="row">
             <div>
               <label for="franchise">Franchise</label>
@@ -184,7 +182,7 @@
         c.pack = c.pack||{};
         const w = c.pack.releaseWave;
         c._wave = (w===undefined||w===null||w==='') ? null : (Number.isFinite(+w) ? +w : null);
-        // Year detection
+        // Year detection: prefer explicit gameYearLabel, then gameYear/releaseYear, else from releaseDate
         c._yearLabel = c.gameYearLabel || (
           (c.gameYear||c.pack.releaseYear) ? `Year ${c.gameYear||c.pack.releaseYear}` :
           (c.pack.releaseDate && /^\d{4}$/.test(String(c.pack.releaseDate))) ? String(c.pack.releaseDate) : 'Year ?'
