@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -7,54 +7,54 @@
   <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+
   <link rel="manifest" href="manifest.webmanifest">
   <meta name="theme-color" content="#0b1020">
 
-  <style>
-    :root {
-      --bg: #0b1020;
-      --panel: #151b2e;
-      --muted: #8ea0bf;
-      --text: #e6eeff;
-      --accent: #5cc8ff;
-      --chip: #223153;
-      --chip2: #2b3a61;
-      --badge: #2a3f6e;
-      --badgeBorder: #3b5592;
-      --border-header: #243254;
-      --border-input: #263657;
-      --border-chip: #32466f;
-      --border-button: #2a3c63;
-      --border-image: #1c2744;
-      --border-ability: #334973;
-      --bg-gradient-end: #0e1426;
-      --card-gradient-start: #131a2c;
-      --card-gradient-end: #10172a;
-      --bg-image: #0e1530;
-      --bg-button: #1a2544;
-      --bg-pill: #0f1a34;
-      --text-button: #d7e6ff;
-      --text-ability: #cfe2ff;
-      --text-count: #b7d9ff;
-      --text-link: #9bd6ff;
-      --owned-border: limegreen;
-      --owned-glow: rgba(50, 205, 50, 0.6);
-      --focus-shadow: rgba(92, 200, 255, 0.15);
-    }
+  <link rel="manifest" href="icons/site.webmanifest">
 
+  <style>
+    :root{
+      --bg:#0b1020; --panel:#151b2e; --muted:#8ea0bf; --text:#e6eeff; --accent:#5cc8ff; --chip:#223153; --chip2:#2b3a61;
+      --badge:#2a3f6e; --badgeBorder:#3b5592;
+    }
     *{box-sizing:border-box}
-    html{height:100%}
-    body{margin:0;font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial; background:linear-gradient(180deg,#0b1020,#0e1426 200px); color:var(--text)}
+    html,body{margin:0;height:100%}
+    body{font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial; background:linear-gradient(180deg,#0b1020,#0e1426 200px); color:var(--text)}
     header{position:sticky;top:0;z-index:5;background:linear-gradient(180deg,rgba(11,16,32,.95),rgba(11,16,32,.85));backdrop-filter:saturate(140%) blur(10px);border-bottom:1px solid #243254}
     .container{max-width:1200px;margin:0 auto;padding:16px}
     h1{font-size:clamp(20px,3vw,28px);margin:0 0 8px 0}
     .sub{color:var(--muted);font-size:14px;margin:0}
-    .controls{display:grid;gap:12px;grid-template-columns:1fr;grid-template-areas:"search" "toolbar" "chips" "filters";align-items:start;margin-top:12px}
-    .search-block{grid-area:search}
-    .toolbar{grid-area:toolbar;display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:8px}
-    #activeChips{grid-area:chips}
-    .filters-row{grid-area:filters}
-    @media(min-width:980px){.controls{grid-template-columns:minmax(420px,560px) 1fr;grid-template-areas:"search filters" "toolbar toolbar" "chips chips"}}
+
+    /* Controls layout with grid areas */
+    .controls{
+      display:grid;
+      gap:12px;
+      grid-template-columns:1fr;
+      grid-template-areas:
+        "search"
+        "toolbar"
+        "chips"
+        "filters";
+      align-items:start;
+      margin-top:12px;
+    }
+    .search-block{ grid-area:search; }
+    .toolbar{ grid-area:toolbar; display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:8px }
+    #activeChips{ grid-area:chips; }
+    .filters-row{ grid-area:filters; }
+
+    /* Desktop: filters to the RIGHT of the search input */
+    @media(min-width:980px){
+      .controls{
+        grid-template-columns:minmax(420px,560px) 1fr;
+        grid-template-areas:
+          "search filters"
+          "toolbar toolbar"
+          "chips chips";
+      }
+    }
+
     label{font-size:12px;color:var(--muted);display:block;margin-bottom:6px}
     input,select{width:100%;background:var(--panel);border:1px solid #263657;color:var(--text);padding:10px 12px;border-radius:12px;outline:none;min-width:0}
     input:focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(92,200,255,.15)}
@@ -63,13 +63,30 @@
     .chip button{all:unset;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;border-radius:50%;font-weight:700;line-height:1;background:#2b3a61}
     .chip button:focus{outline:2px solid var(--accent)}
     .pill{background:#0f1a34;border:1px solid #2a3c63;color:var(--muted);padding:6px 10px;border-radius:999px;font-size:12px}
+
+    /* Make search bar shorter */
     #q{max-width:560px}
-    .row{display:grid;gap:10px;grid-template-columns:repeat(3,minmax(0,1fr))}
-    @media(min-width:700px){.row{grid-template-columns:repeat(3,minmax(0,1fr))}}
-    @media(min-width:980px){.row{grid-template-columns:repeat(5,minmax(180px,1fr))}}
+
+    /* Filters grid — 3 naast elkaar op mobiel */
+    .row{
+      display:grid;
+      gap:10px;
+      grid-template-columns:repeat(3,minmax(0,1fr)); /* <-- drie kolommen op kleine schermen */
+    }
+    /* (optioneel) houd 3 kolommen t/m tablets */
+    @media(min-width:700px){
+      .row{ grid-template-columns:repeat(3,minmax(0,1fr)); }
+    }
+    /* Desktop blijft 5 kolommen */
+    @media(min-width:980px){
+      .row{ grid-template-columns:repeat(5,minmax(180px,1fr)); }
+    }
+
+    /* Grid of cards */
     .grid{display:grid;gap:14px;margin:18px 0 40px}
     @media(min-width:700px){.grid{grid-template-columns:repeat(2,1fr)}}
     @media(min-width:1050px){.grid{grid-template-columns:repeat(3,1fr)}}
+
     .card{background:linear-gradient(180deg,#131a2c,#10172a);border:1px solid #223153;border-radius:16px;overflow:hidden;display:flex;gap:12px;padding:12px;position:relative}
     .card img{width:110px;height:110px;object-fit:contain;background:radial-gradient(120px 120px at 50% 50%,#0e1530,#0b1020);border-radius:12px;border:1px solid #1c2744}
     .card-body{flex:1;min-width:0}
@@ -78,62 +95,22 @@
     .meta{color:var(--muted);font-size:12px}
     .abilities{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
     .ability{background:var(--chip2);border:1px solid #334973;color:#cfe2ff;padding:4px 8px;border-radius:999px;font-size:12px}
-    .pack{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;margin-top:10px;line-height:1.35;font-size:13px}
-    .pack .pill{flex:0 0 auto}
-    .pack .pack-name{font-weight:700;overflow-wrap:anywhere;color:#cfe2ff}
-    .pack .pack-extra{color:var(--muted);flex:0 0 auto}
-    .count{font-weight:600;color:#b7d9ff}
-    .btn{background:#1a2544;border:1px solid #2a3c63;color:#d7e6ff;padding:8px 12px;border-radius:12px;font-weight:600;cursor:pointer}
-    
-    /* --- HIER IS DE WIJZIGING --- */
-    .btn[aria-pressed="true"] {
-      background: transparent;
-      border: 2px solid var(--accent);
-      color: var(--accent);
-      padding: 7px 11px;
-    }
+    .pack { display:flex; flex-wrap:wrap; gap:8px 10px; align-items:center; margin-top:10px; line-height:1.35; font-size:13px; }
+    .pack .pill { flex:0 0 auto; }
+    .pack .pack-name { font-weight:700; overflow-wrap:anywhere; color:#cfe2ff; }
+    .pack .pack-extra { color:var(--muted); flex:0 0 auto; }
+    .count { font-weight:600; color:#b7d9ff }
 
+    .btn{background:#1a2544;border:1px solid #2a3c63;color:#d7e6ff;padding:8px 12px;border-radius:12px;font-weight:600;cursor:pointer}
+    .btn[aria-pressed="true"]{outline:2px solid var(--accent)}
     .ghost{background:transparent}
     footer{border-top:1px solid #243254}
     a{color:#9bd6ff}
-    .group-title{grid-column:1/-1;margin:24px 6px 8px;font-size:18px;color:var(--muted);font-weight:700;display:flex;align-items:center}
-    .owned-checkbox{position:absolute;top:8px;right:8px;width:20px;height:20px;cursor:pointer}
-    .card.owned{border:2px solid limegreen;box-shadow:0 0 10px rgba(50,205,50,.6)}
-    .toggle-wrap{display:flex;align-items:center;gap:6px;background:#1a2544;padding:0 12px;height:36px;border-radius:12px;font-size:14px;border:1px solid #2a3c63}
-    .red-brick-placeholder {
-      display: inline-block;
-      width: 18px;
-      height: 18px;
-      background-image: url('./backgroundremoved/redbrickicon.png');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-position: center;
-      border-radius: 4px;
-      margin-left: 10px;
-      position: relative;
-      cursor: pointer;
-    }
-    .red-brick-placeholder::after {
-      content: attr(data-tooltip);
-      position: absolute;
-      z-index: 10;
-      background: var(--chip);
-      color: #fff;
-      padding: 8px 12px;
-      border-radius: 6px;
-      font-size: 12px;
-      white-space: nowrap;
-      opacity: 0;
-      visibility: hidden;
-      transition: opacity .2s, visibility .2s;
-  
-  /* Aangepaste regels voor positionering */
-      top: 50%;
-      left: 100%;
-      transform: translateY(-50%);
-      margin-left: 8px; 
-    }
-    .red-brick-placeholder:hover::after{opacity:1;visibility:visible}
+
+    .group-title{ grid-column:1 / -1; margin:24px 6px 8px; font-size:18px; color:var(--muted); }
+
+    .owned-checkbox { position:absolute; top:8px; right:8px; width:20px; height:20px; cursor:pointer; }
+    .card.owned { border: 2px solid limegreen; box-shadow: 0 0 10px rgba(50, 205, 50, 0.6); }
   </style>
 </head>
 <body>
@@ -143,29 +120,55 @@
       <p class="sub">Filter by ability, franchise, pack type, year or wave. Search by name or franchise.</p>
 
       <div class="controls">
+        <!-- Search (left on desktop) -->
         <div class="search-block">
           <label for="q">Search</label>
           <input id="q" name="q" type="search" placeholder="e.g. Batman, Ghostbusters, Portal…" autocomplete="off" />
         </div>
 
+        <!-- Filters (right on desktop) -->
         <div class="filters-row">
           <div class="row">
-            <div><label for="franchise">Franchise</label><select id="franchise"><option value="">All</option></select></div>
-            <div><label for="type">Pack type</label><select id="type"><option value="">All</option><option>Starter</option><option>Story</option><option>Level</option><option>Team</option><option>Fun</option><option>Polybag</option></select></div>
-            <div><label for="year">Release year</label><select id="year"><option value="">All</option></select></div>
-            <div><label for="wave">Release wave</label><select id="wave"><option value="">All</option></select></div>
-            <div><label for="ability">Add ability</label><select id="ability"><option value="">(Select an ability)</option></select></div>
+            <div>
+              <label for="franchise">Franchise</label>
+              <select id="franchise"><option value="">All</option></select>
+            </div>
+            <div>
+              <label for="type">Pack type</label>
+              <select id="type">
+                <option value="">All</option>
+                <option value="Starter">Starter</option>
+                <option value="Story">Story</option>
+                <option value="Level">Level</option>
+                <option value="Team">Team</option>
+                <option value="Fun">Fun</option>
+                <option value="Polybag">Polybag</option>
+              </select>
+            </div>
+            <div>
+              <label for="year">Release year</label>
+              <select id="year"><option value="">All</option></select>
+            </div>
+            <div>
+              <label for="wave">Release wave</label>
+              <select id="wave"><option value="">All</option></select>
+            </div>
+            <div>
+              <label for="ability">Add ability</label>
+              <select id="ability"><option value="">(Select an ability)</option></select>
+            </div>
           </div>
         </div>
 
+        <!-- Toolbar directly under search -->
         <div class="toolbar" aria-label="tools">
           <button id="clearFilters" class="btn ghost" type="button">Reset filters</button>
           <span class="pill" id="count">0 results</span>
           <button id="groupPack" class="btn" type="button" aria-pressed="false" title="Group by pack">Group by pack</button>
           <button id="groupFranchise" class="btn" type="button" aria-pressed="false" title="Group by franchise">Group by franchise</button>
-          <button id="hideSideCharsBtn" class="btn" type="button" aria-pressed="false" title="Hide side characters">Hide side characters</button>
         </div>
 
+        <!-- Active filter chips -->
         <div class="chips" id="activeChips" aria-live="polite"></div>
       </div>
     </div>
@@ -176,7 +179,7 @@
   </main>
 
   <footer class="container" style="padding:22px 16px 40px">
-    <small class="sub">Kuilvoer</small>
+    <small class="sub">Hertog Kuiles</small>
   </footer>
 
   <template id="cardTemplate">
@@ -198,41 +201,31 @@
     const $ = (q, el=document) => el.querySelector(q);
     const state = {
       data: [],
-      // Nieuw: een plek om de Red Brick data op te slaan
-      redBricks: {}, 
       filters: { q:'', franchise:'', type:'', year:'', wave:'', abilities:[] },
-      groupByPack: false,
-      groupByFranchise: false,
-      hideSideChars: false
+      groupByPack:false,
+      groupByFranchise:false
     };
 
     async function load(){
-      try {
-        const res = await fetch('./characters.json',{cache:'no-store'});
-        if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
-        const json = await res.json();
-        
-        // WIJZIGING: We lezen nu de 'characters' én 'redBricks' uit het JSON-bestand
-        state.data = json.characters || [];
-        state.redBricks = json.redBricks || {};
-
-        normalize(state.data);
-        buildFilterOptions(state.data);
-        render();
-      } catch (e) {
-        console.error("Failed to load characters.json:", e);
-        const grid = $('#grid');
-        grid.innerHTML = `<div class="card" style="background: var(--panel); border-color: #e53935;"><div class="card-body"><h3>Error loading data</h3><p class="meta">Could not fetch characters.json. Please ensure the file is in the same directory and there are no network issues.</p><p class="meta">Details: ${e.message}</p></div></div>`;
-      }
+      const res = await fetch('./characters.json',{cache:'no-store'});
+      const json = await res.json();
+      state.data = Array.isArray(json)? json : (json.characters||[]);
+      normalize(state.data);
+      buildFilterOptions(state.data);
+      render();
     }
 
     function normalize(list){
       for(const c of list){
         if(!Array.isArray(c.abilities)) c.abilities=[];
         c.pack = c.pack||{};
-        c._wave = c.pack.releaseWave ?? null;
-        c._year = c.gameYear || c.pack.releaseYear || null;
-        c._yearLabel = c._year ? `Year ${c._year}` : 'Year ?';
+        const w = c.pack.releaseWave;
+        c._wave = (w===undefined||w===null||w==='') ? null : (Number.isFinite(+w) ? +w : null);
+        // Year detection
+        c._yearLabel = c.gameYearLabel || (
+          (c.gameYear||c.pack.releaseYear) ? `Year ${c.gameYear||c.pack.releaseYear}` :
+          (c.pack.releaseDate && /^\d{4}$/.test(String(c.pack.releaseDate))) ? String(c.pack.releaseDate) : 'Year ?'
+        );
       }
     }
 
@@ -254,7 +247,6 @@
       const {q,franchise,type,year,wave,abilities}=state.filters;
       const ql=q.trim().toLowerCase();
       return state.data.filter(c=>{
-        if (state.hideSideChars && c.characterType === 'side') return false;
         const matchesQ=!ql||(c.name?.toLowerCase().includes(ql)||c.franchise?.toLowerCase().includes(ql));
         const matchesF=!franchise||c.franchise===franchise;
         const matchesT=!type||c.pack?.type===type;
@@ -277,64 +269,48 @@
     function render(){
       const grid=$('#grid');
       let items=filterData();
-      items = sortByNameAsc(items); 
+      items = sortByNameAsc(items); // default stable sort by name
 
       $('#count').textContent=`${items.length} result${items.length===1?'':'s'}`;
       grid.innerHTML='';
-      $('#groupPack').setAttribute('aria-pressed', String(state.groupByPack));
-      $('#groupFranchise').setAttribute('aria-pressed', String(state.groupByFranchise));
-      $('#hideSideCharsBtn').setAttribute('aria-pressed', String(state.hideSideChars));
 
       renderChips();
 
       if (state.groupByPack) {
-        const grouped = groupBy(items, c => `${c._year}|${c._wave}|${c.pack?.name}|${c.pack?.type}`);
-        
+        const grouped = groupBy(items, c =>
+          `${c.pack?.type || 'Pack'} | ${c.pack?.name || 'Unknown'} | ${c._yearLabel} • ${waveText(c)}`
+        );
+
+        const getWave = (key) => {
+          const m = key.match(/Wave (\d+)/);
+          return m ? Number(m[1]) : Infinity;
+        };
+
         const groups = Object.entries(grouped).sort((a, b) => {
-          const packA = a[1][0];
-          const packB = b[1][0];
-          if (packA._year !== packB._year) return (packA._year || 99) - (packB._year || 99);
-          if (packA._wave !== packB._wave) return (packA._wave || 99) - (packB._wave || 99);
-          if (b[1].length !== a[1].length) return b[1].length - a[1].length;
-          return (packA.pack.name || '').localeCompare(packB.pack.name || '', 'en');
+          // 1) aantal karakters per pack (aflopend)
+          const countDiff = b[1].length - a[1].length;
+          if (countDiff) return countDiff;
+          // 2) wave (oplopend)
+          const aw = getWave(a[0]);
+          const bw = getWave(b[0]);
+          if (aw !== bw) return aw - bw;
+          // 3) packtitel A→Z
+          return a[0].localeCompare(b[0], 'en');
         });
 
-        for (const [key, list] of groups) {
-          const c = list[0];
-          const title = `${c.pack?.type || 'Pack'} — ${c.pack?.name || 'Unknown'}`;
+        for (const [title, list] of groups) {
           const h = document.createElement('h2');
           h.className = 'group-title';
           h.textContent = title;
           grid.appendChild(h);
-          list.forEach(item => grid.appendChild(card(item)));
+          list.forEach(c => grid.appendChild(card(c)));
         }
 
       } else if (state.groupByFranchise) {
         const grouped=groupBy(items,c=>c.franchise||'Unknown');
         const groups=Object.entries(grouped).sort((a,b)=>a[0].localeCompare(b[0],'en'));
         for(const [title,list] of groups){
-          const h=document.createElement('h2');
-          h.className='group-title';
-          
-          // --- GROTE WIJZIGING HIER ---
-          // De oude code had hier een vaste tekst.
-          // Deze nieuwe code zoekt de Red Brick op en bouwt de tooltip dynamisch op.
-          const redBrick = state.redBricks[title];
-          let titleHtml = title; // De titel van de franchise
-          
-          if (redBrick) {
-            // Bouw de tooltip-tekst op
-            let tooltipText = `Red Brick: ${redBrick.name} -`;
-            tooltipText += `\n\n${redBrick.description}`;
-            
-            // Voeg de placeholder met de gevulde data-tooltip toe aan de titel
-            titleHtml += ` <span class="red-brick-placeholder" data-tooltip="${tooltipText}"></span>`;
-          }
-          
-          h.innerHTML = titleHtml;
-          // --- EINDE WIJZIGING ---
-
-          grid.appendChild(h);
+          const h=document.createElement('h2');h.className='group-title';h.textContent=title;grid.appendChild(h);
           list.forEach(c=>grid.appendChild(card(c)));
         }
       } else {
@@ -361,7 +337,6 @@
         const btn = document.createElement('button');
         btn.type='button';
         btn.textContent='×';
-        btn.setAttribute('aria-label', `Remove ${label} filter`);
         btn.addEventListener('click', onRemove);
         chip.appendChild(btn);
         wrap.appendChild(chip);
@@ -382,19 +357,7 @@
       const el=tpl.content.firstElementChild.cloneNode(true);
       $('.owned-checkbox', el).addEventListener('change', (e)=>{ el.classList.toggle('owned', e.target.checked); });
 
-      const img = $('img',el); 
-      const hasImg = c.minifigure?.imageUrl && !c.minifigure.imageUrl.includes('unknown');
-      if (hasImg) {
-        img.src = c.minifigure.imageUrl;
-      } else {
-        img.style.display = 'none';
-        const placeholder = document.createElement('div');
-        placeholder.style.width = '110px';
-        placeholder.style.height = '110px';
-        img.parentElement.insertBefore(placeholder, img);
-      }
-      img.alt = `${c.name} – minifig`;
-      
+      const img = $('img',el); img.src=c.minifigure?.imageUrl||''; img.alt = `${c.name} – minifig`;
       $('.name',el).textContent=c.name;
       $('.franchise', el).textContent = c.franchise || '';
 
@@ -412,44 +375,42 @@
       return el;
     }
 
-    function setupEventListeners() {
-      $('#q').addEventListener('input',e=>{state.filters.q=e.target.value;render();});
-      $('#franchise').addEventListener('change',e=>{state.filters.franchise=e.target.value;render();});
-      $('#type').addEventListener('change',e=>{state.filters.type=e.target.value;render();});
-      $('#year').addEventListener('change',e=>{state.filters.year=e.target.value;render();});
-      $('#wave').addEventListener('change',e=>{state.filters.wave=e.target.value;render();});
-      $('#ability').addEventListener('change',e=>{
-        const v=e.target.value;
-        if(!v) return;
-        if(!state.filters.abilities.includes(v)) state.filters.abilities.push(v);
-        e.target.value='';
-        render();
-      });
-      $('#clearFilters').addEventListener('click',()=>{
-        state.filters={q:'',franchise:'',type:'',year:'',wave:'',abilities:[]};
-        $('#q').value='';$('#franchise').value='';$('#type').value='';$('#year').value='';$('#wave').value='';
-        render();
-      });
-      $('#groupPack').addEventListener('click',e=>{
-        state.groupByPack=!state.groupByPack;
-        state.groupByFranchise=false;
-        render();
-      });
-      $('#groupFranchise').addEventListener('click',e=>{
-        state.groupByFranchise=!state.groupByFranchise;
-        state.groupByPack=false;
-        render();
-      });
-      $('#hideSideCharsBtn').addEventListener('click', e => {
-        state.hideSideChars = !state.hideSideChars;
-        render();
-      });
-    }
-
-    document.addEventListener('DOMContentLoaded', () => {
-      setupEventListeners();
-      load();
+    // Filter events
+    $('#q').addEventListener('input',e=>{state.filters.q=e.target.value;render();});
+    $('#franchise').addEventListener('change',e=>{state.filters.franchise=e.target.value;render();});
+    $('#type').addEventListener('change',e=>{state.filters.type=e.target.value;render();});
+    $('#year').addEventListener('change',e=>{state.filters.year=e.target.value;render();});
+    $('#wave').addEventListener('change',e=>{state.filters.wave=e.target.value;render();});
+    $('#ability').addEventListener('change',e=>{
+      const v=e.target.value;
+      if(!v) return;
+      if(!state.filters.abilities.includes(v)) state.filters.abilities.push(v);
+      e.target.value='';
+      render();
     });
+    $('#clearFilters').addEventListener('click',()=>{
+      state.filters={q:'',franchise:'',type:'',year:'',wave:'',abilities:[]};
+      $('#q').value='';$('#franchise').value='';$('#type').value='';$('#year').value='';$('#wave').value='';
+      render();
+    });
+
+    // Grouping
+    $('#groupPack').addEventListener('click',e=>{
+      state.groupByPack=!state.groupByPack;
+      state.groupByFranchise=false;
+      $('#groupFranchise').setAttribute('aria-pressed','false');
+      e.currentTarget.setAttribute('aria-pressed',String(state.groupByPack));
+      render();
+    });
+    $('#groupFranchise').addEventListener('click',e=>{
+      state.groupByFranchise=!state.groupByFranchise;
+      state.groupByPack=false;
+      $('#groupPack').setAttribute('aria-pressed','false');
+      e.currentTarget.setAttribute('aria-pressed',String(state.groupByFranchise));
+      render();
+    });
+
+    load();
   </script>
 
   <script>

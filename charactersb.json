@@ -1,0 +1,2797 @@
+[
+  {
+    "name": "Batman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Starter",
+      "name": "Starter Pack",
+      "releaseWave": 1,
+      "setNumber": "71200",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Boomerang",
+      "Stealth",
+      "Grapple"
+      
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71200_1to1_MF_MUGSHOT_Batman_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71200_1to1_MF_MUGSHOT_Batman_168.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Wonder Woman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Wonder Woman Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71209",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Acrobat",
+      "Flying",
+      "Mind Control",
+      "Laser Deflector",
+      "Invulnerability",
+      "Grapple",
+      "Boomerang",
+      "Dive",
+      "Cracked LEGO Objects"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/4d/71209_1to1_MF_MUGSHOT_Wonder_Woman_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/4/4d/71209_1to1_MF_MUGSHOT_Wonder_Woman_168.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Cyborg",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Cyborg Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71210",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Laser",
+      "Dive",
+      "Cracked LEGO Objects",
+      "Target",
+      "Big Transform",
+      "Technology"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71210_1to1_MF_MUGSHOT_Cyborg_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71210_1to1_MF_MUGSHOT_Cyborg_168.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "The Joker",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Team",
+      "name": "DC Comics Team Pack",
+      "releaseWave": 3,
+      "setNumber": "71229",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Electricity",
+      "Target",
+      "Grapple",
+      "Hazard Protection"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b4/71229_1to1_MF_MUGSHOT_Joker_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/b/b4/71229_1to1_MF_MUGSHOT_Joker_168.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [
+      "Joker"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Harley Quinn",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Team",
+      "name": "DC Comics Team Pack",
+      "releaseWave": 3,
+      "setNumber": "71229",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Cracked LEGO Objects",
+      "Acrobat"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/71229_1to1_MF_MUGSHOT_Harley_Quinn_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/71229_1to1_MF_MUGSHOT_Harley_Quinn_168.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 1",
+    "gameYear": 1,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 2,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Superman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Superman Fun Pack",
+      "releaseWave": 4,
+      "setNumber": "71236",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Flying",
+      "Dive",
+      "Invulnerability",
+      "Cracked LEGO Objects",
+      "Freeze Breath",
+      "Laser",
+      "X-Ray Vision"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/cb/71236_1to1_MF_MUGSHOT_Superman_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/c/cb/71236_1to1_MF_MUGSHOT_Superman_168.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Aquaman",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Aquaman Fun Pack",
+      "releaseWave": 4,
+      "setNumber": "71237",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Atlantis",
+      "Dive",
+      "Hazard Cleaner",
+      "Growth"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b3/71237_1to1_MF_MUGSHOT_Aquaman_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/b/b3/71237_1to1_MF_MUGSHOT_Aquaman_168.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Bane",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Fun",
+      "name": "Bane Fun Pack",
+      "releaseWave": 5,
+      "setNumber": "71240",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Cracked LEGO Objects",
+      "Big Transform",
+      "Hazard Protection"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/49/71240_1to1_MF_MUGSHOT_Bane_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/4/49/71240_1to1_MF_MUGSHOT_Bane_168.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Wyldstyle",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Starter",
+      "name": "Starter Pack",
+      "releaseWave": 1,
+      "setNumber": "71200",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Relic Detector",
+      "Acrobat",
+      "Master Build"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/2c/WyldstyleHomepageNew.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/2/2c/WyldstyleHomepageNew.png"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie",
+    "aliases": [
+      "Lucy"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Emmet",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Emmet Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71212",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Drill",
+      "Master Build",
+      "Fix-it"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/63/71212_1to1_MF_MUGSHOT_Emmet_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/6/63/71212_1to1_MF_MUGSHOT_Emmet_168.png"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Bad Cop",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Bad Cop Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71213",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Laser",
+      "Relic Detector",
+      "Target"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/bb/71213_1to1_MF_MUGSHOT_Bad_Cop_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/b/bb/71213_1to1_MF_MUGSHOT_Bad_Cop_168.png"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Benny",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Benny Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71214",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Hacking",
+      "Sonar Smash",
+      "Target",
+      "Master Build",
+      "Technology"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/60/71214_1to1_MF_MUGSHOT_Benny_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/6/60/71214_1to1_MF_MUGSHOT_Benny_168.png"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Unikitty",
+    "franchise": "The LEGO Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Unikitty Fun Pack",
+      "releaseWave": 2,
+      "setNumber": "71231",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Rainbow LEGO Objects",
+      "Master Build",
+      "Big Transform"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/7/79/UnikittyHomepageNew.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/7/79/UnikittyHomepageNew.png"
+      ]
+    },
+    "adventureWorld": "The LEGO Movie",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Gandalf the Grey",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Starter",
+      "name": "Starter Pack",
+      "releaseWave": 1,
+      "setNumber": "71200",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Magic",
+      "Magical Shield",
+      "Illumination"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71200_71170-71174_1to1_MF_MUGSHOT_Gandalf_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71200_71170-71174_1to1_MF_MUGSHOT_Gandalf_336.png"
+      ]
+    },
+    "adventureWorld": "The Lord of the Rings",
+    "aliases": [
+      "Gandalf"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Gollum",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Gollum Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71218",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Boomerang",
+      "Silver LEGO Blowup",
+      "Mini Access",
+      "Acrobat",
+      "Dive"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/44/GollumHomepageNew.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/4/44/GollumHomepageNew.png"
+      ]
+    },
+    "adventureWorld": "The Lord of the Rings",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Legolas",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Legolas Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71219",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Pole Vault",
+      "Target",
+      "Acrobat",
+      "Grind Rails"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71219_1to1_MF_MUGSHOT_Legolas_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71219_1to1_MF_MUGSHOT_Legolas_168.png"
+      ]
+    },
+    "adventureWorld": "The Lord of the Rings",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Gimli",
+    "franchise": "The Lord of the Rings",
+    "pack": {
+      "type": "Fun",
+      "name": "Gimli Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71220",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Cracked LEGO Objects",
+      "Mini Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/2b/71220_1to1_MF_MUGSHOT_Gimli_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/2/2b/71220_1to1_MF_MUGSHOT_Gimli_168.png"
+      ]
+    },
+    "adventureWorld": "The Lord of the Rings",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 1",
+    "gameYear": 1,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 2,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Marty McFly",
+    "franchise": "Back to the Future",
+    "pack": {
+      "type": "Level",
+      "name": "Back to the Future Level Pack",
+      "releaseWave": 1,
+      "setNumber": "71201",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Sonar Smash"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/17/71201_1to1_MF_MUGSHOT_Marty_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/1/17/71201_1to1_MF_MUGSHOT_Marty_168.png"
+      ]
+    },
+    "adventureWorld": "Back to the Future",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 1",
+    "gameYear": 1,
+    "verification": {
+      "userClaimCount": 1,
+      "verifiedCount": 1,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Doc Brown",
+    "franchise": "Back to the Future",
+    "pack": {
+      "type": "Fun",
+      "name": "Doc Brown Fun Pack",
+      "releaseWave": 3,
+      "setNumber": "71230",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Hacking",
+      "Technology",
+      "Fix-it",
+      "Drone Mazes",
+      "Intelligence"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/8b/71230_1to1_MF_MUGSHOT_Doc_Brown_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/8/8b/71230_1to1_MF_MUGSHOT_Doc_Brown_168.png"
+      ]
+    },
+    "adventureWorld": "Back to the Future",
+    "aliases": [
+      "Emmett Brown"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Chell",
+    "franchise": "Portal 2",
+    "pack": {
+      "type": "Level",
+      "name": "Portal 2 Level Pack",
+      "releaseWave": 1,
+      "setNumber": "71203",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Acrobat",
+      "Portal Gun"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71203_1to1_MF_MUGSHOT_Chell_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71203_1to1_MF_MUGSHOT_Chell_168.png"
+      ]
+    },
+    "adventureWorld": "Portal 2",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 1",
+    "gameYear": 1,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 2,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Homer",
+    "franchise": "The Simpsons",
+    "pack": {
+      "type": "Level",
+      "name": "The Simpsons Level Pack",
+      "releaseWave": 1,
+      "setNumber": "71202",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Sonar Smash",
+      "Big Transform",
+      "Cracked LEGO Objects"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5f/71202_1to1_MF_MUGSHOT_Homer_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/5/5f/71202_1to1_MF_MUGSHOT_Homer_168.png"
+      ]
+    },
+    "adventureWorld": "The Simpsons",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Bart Simpson",
+    "franchise": "The Simpsons",
+    "pack": {
+      "type": "Fun",
+      "name": "Bart Simpson Fun Pack",
+      "releaseWave": 2,
+      "setNumber": "71211",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Target",
+      "Mini Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9b/71211_1to1_MF_MUGSHOT_Bart_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/9/9b/71211_1to1_MF_MUGSHOT_Bart_168.png"
+      ]
+    },
+    "adventureWorld": "The Simpsons",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 1",
+    "gameYear": 1,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 2,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Krusty",
+    "franchise": "The Simpsons",
+    "pack": {
+      "type": "Fun",
+      "name": "Krusty the Clown Fun Pack",
+      "releaseWave": 2,
+      "setNumber": "71227",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Growth",
+      "Hazard Cleaner"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c8/71227_1to1_MF_MUGSHOT_Krusty_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/c/c8/71227_1to1_MF_MUGSHOT_Krusty_168.png"
+      ]
+    },
+    "adventureWorld": "The Simpsons",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 1",
+    "gameYear": 1,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 2,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Owen",
+    "franchise": "Jurassic World",
+    "pack": {
+      "type": "Team",
+      "name": "Jurassic World Team Pack",
+      "releaseWave": 1,
+      "setNumber": "71205",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Tracking",
+      "Stealth",
+      "Target",
+      "Vine Cut"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/95/71205_1to1_MF_MUGSHOT_Owen_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/9/95/71205_1to1_MF_MUGSHOT_Owen_168.png"
+      ]
+    },
+    "adventureWorld": "Jurassic World",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "ACU Trooper",
+    "franchise": "Jurassic World",
+    "pack": {
+      "type": "Team",
+      "name": "Jurassic World Team Pack",
+      "releaseWave": 1,
+      "setNumber": "71205",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Electricity",
+      "Illumination"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/d6/71205_1to1_MF_MUGSHOT_ACU_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/d/d6/71205_1to1_MF_MUGSHOT_ACU_336.png"
+      ]
+    },
+    "adventureWorld": "Jurassic World",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Scooby-Doo",
+    "franchise": "Scooby-Doo!",
+    "pack": {
+      "type": "Team",
+      "name": "Scooby-Doo Team Pack",
+      "releaseWave": 1,
+      "setNumber": "71206",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Tracking",
+      "Dig",
+      "Dive",
+      "Stealth"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/25/ScoobyDooHomepageNew.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/2/25/ScoobyDooHomepageNew.png"
+      ]
+    },
+    "adventureWorld": "Scooby-Doo!",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Shaggy",
+    "franchise": "Scooby-Doo!",
+    "pack": {
+      "type": "Team",
+      "name": "Scooby-Doo Team Pack",
+      "releaseWave": 1,
+      "setNumber": "71206",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Tracking",
+      "Illumination",
+      "Stealth"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71206_1to1_MF_MUGSHOT_Shaggy_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71206_1to1_MF_MUGSHOT_Shaggy_168.png"
+      ]
+    },
+    "adventureWorld": "Scooby-Doo!",
+    "aliases": [
+      "Shaggy Rogers"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Laval",
+    "franchise": "Legends of Chima",
+    "pack": {
+      "type": "Fun",
+      "name": "Laval Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71222",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "CHI",
+      "Cracked LEGO Objects",
+      "Acrobat",
+      "Laser Deflector",
+      "Sonar Smash"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/90/71222_1to1_MF_MUGSHOT_Laval_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/9/90/71222_1to1_MF_MUGSHOT_Laval_168.png"
+      ]
+    },
+    "adventureWorld": "Legends of Chima",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Cragger",
+    "franchise": "Legends of Chima",
+    "pack": {
+      "type": "Fun",
+      "name": "Cragger Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71223",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "CHI",
+      "Cracked LEGO Objects",
+      "Dive",
+      "Hazard Protection"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a9/71223_1to1_MF_MUGSHOT_Cragger_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a9/71223_1to1_MF_MUGSHOT_Cragger_168.png"
+      ]
+    },
+    "adventureWorld": "Legends of Chima",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Eris",
+    "franchise": "Legends of Chima",
+    "pack": {
+      "type": "Fun",
+      "name": "Eris Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71232",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Cracked LEGO Objects",
+      "CHI",
+      "Target",
+      "Flying"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/86/71232_1to1_MF_MUGSHOT_Eris_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/8/86/71232_1to1_MF_MUGSHOT_Eris_168.png"
+      ]
+    },
+    "adventureWorld": "Legends of Chima",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Wicked Witch of the West",
+    "franchise": "The Wizard of Oz",
+    "pack": {
+      "type": "Fun",
+      "name": "Wicked Witch of the West Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71221",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Silver LEGO Blowup",
+      "Flying",
+      "Magic",
+      "Illumination",
+      "Mind Control",
+      "Magical Shield"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/ed/71221_1to1_MF_MUGSHOT_WickedWitch_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/e/ed/71221_1to1_MF_MUGSHOT_WickedWitch_168.png"
+      ]
+    },
+    "adventureWorld": "The Wizard of Oz",
+    "aliases": [
+      "Wicked Witch"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "The Doctor",
+    "franchise": "Doctor Who",
+    "pack": {
+      "type": "Level",
+      "name": "Doctor Who Level Pack",
+      "releaseWave": 2,
+      "setNumber": "71204",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Hacking",
+      "Technology",
+      "Fix-it",
+      "Sonar Smash",
+      "Intelligence"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/e1/712041to1MFMUGSHOTDr_Who168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/e/e1/712041to1MFMUGSHOTDr_Who168.png"
+      ]
+    },
+    "adventureWorld": "Doctor Who",
+    "aliases": [
+      "The Doctor"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Cyberman",
+    "franchise": "Doctor Who",
+    "pack": {
+      "type": "Fun",
+      "name": "Cyberman Fun Pack",
+      "releaseWave": 3,
+      "setNumber": "71238",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Mind Control",
+      "Hacking",
+      "Drone Mazes",
+      "Silver LEGO Blowup",
+      "X-Ray Vision",
+      "Dive",
+      "Technology"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/dc/71238_1to1_MF_MUGSHOT_Gyberman_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/d/dc/71238_1to1_MF_MUGSHOT_Gyberman_168.png"
+      ]
+    },
+    "adventureWorld": "Doctor Who",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Kai",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Team",
+      "name": "LEGO Ninjago Team Pack",
+      "releaseWave": 2,
+      "setNumber": "71207",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Spinjitzu",
+      "Acrobat",
+      "Stealth",
+      "Laser Deflector"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71207_1to1_MF_MUGSHOT_Kai_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/1/1a/71207_1to1_MF_MUGSHOT_Kai_168.png"
+      ]
+    },
+    "adventureWorld": "Ninjago",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Cole",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Team",
+      "name": "LEGO Ninjago Team Pack",
+      "releaseWave": 2,
+      "setNumber": "71207",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Acrobat",
+      "Cracked LEGO Objects",
+      "Spinjitzu",
+      "Stealth",
+      "Laser Deflector"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71207_1to1_MF_MUGSHOT_Cole_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71207_1to1_MF_MUGSHOT_Cole_168.png"
+      ]
+    },
+    "adventureWorld": "Ninjago",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Jay",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Jay Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71215",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Spinjitzu",
+      "Fix-it",
+      "Acrobat",
+      "Stealth",
+      "Electricity",
+      "Intelligence"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71215_1to1_MF_MUGSHOT_Jay_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/8/80/71215_1to1_MF_MUGSHOT_Jay_168.png"
+      ]
+    },
+    "adventureWorld": "Ninjago",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Nya",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Nya Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71216",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Spinjitzu",
+      "Acrobat",
+      "Stealth",
+      "Laser Deflector",
+      "Fix-it"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b6/71216_1to1_MF_MUGSHOT_Nya_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/b/b6/71216_1to1_MF_MUGSHOT_Nya_168.png"
+      ]
+    },
+    "adventureWorld": "Ninjago",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Zane",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Zane Fun Pack",
+      "releaseWave": 1,
+      "setNumber": "71217",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Acrobat",
+      "Spinjitzu",
+      "Stealth",
+      "Boomerang",
+      "Dive",
+      "X-Ray Vision"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71217_1to1_MF_MUGSHOT_Zane_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/9/94/71217_1to1_MF_MUGSHOT_Zane_168.png"
+      ]
+    },
+    "adventureWorld": "Ninjago",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Lloyd",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Lloyd Fun Pack",
+      "releaseWave": 5,
+      "setNumber": "71239",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Spinjitzu",
+      "Acrobat",
+      "Stealth",
+      "Laser Deflector",
+      "Illumination"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71239_1to1_MF_MUGSHOT_Lloyd_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/4/43/71239_1to1_MF_MUGSHOT_Lloyd_168.png"
+      ]
+    },
+    "adventureWorld": "Ninjago",
+    "aliases": [
+      "Lloyd Garmadon"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Sensei Wu",
+    "franchise": "Ninjago",
+    "pack": {
+      "type": "Fun",
+      "name": "Sensei Wu Fun Pack",
+      "releaseWave": 3,
+      "setNumber": "71234",
+      "releaseDate": "2015",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Spinjitzu",
+      "Stealth",
+      "Pole Vault",
+      "Acrobat"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/65/71234_1to1_MF_MUGSHOT_Sensei_Wu_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/6/65/71234_1to1_MF_MUGSHOT_Sensei_Wu_168.png"
+      ]
+    },
+    "adventureWorld": "Ninjago",
+    "aliases": [
+      "Master Wu"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Peter Venkman",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Level",
+      "name": "Ghostbusters Level Pack",
+      "releaseWave": 3,
+      "setNumber": "71228",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Suspend Ghost",
+      "Laser",
+      "Hazard Protection"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a6/71228_1to1_MF_MUGSHOT_Peter_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a6/71228_1to1_MF_MUGSHOT_Peter_168.png"
+      ]
+    },
+    "adventureWorld": "Ghostbusters",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Stay Puft",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Fun",
+      "name": "Stay Puft Fun Pack",
+      "releaseWave": 4,
+      "setNumber": "71233",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Cracked LEGO Objects",
+      "Big Transform",
+      "Hazard Protection"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/26/71233_1to1_MF_MUGSHOT_Stay_Puft_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/2/26/71233_1to1_MF_MUGSHOT_Stay_Puft_168.png"
+      ]
+    },
+    "adventureWorld": "Ghostbusters",
+    "aliases": [
+      "Stay Puft Marshmallow Man"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Slimer",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Fun",
+      "name": "Slimer Fun Pack",
+      "releaseWave": 5,
+      "setNumber": "71241",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Boomerang",
+      "Flying",
+      "Slurp Access",
+      "Dive",
+      "Hazard Cleaner",
+      "Sonar Smash",
+      "Illumination",
+      "Mini Access",
+      "Hazard Protection"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71241_1to1_MF_MUGSHOT_Slimer_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/6/6d/71241_1to1_MF_MUGSHOT_Slimer_168.png"
+      ]
+    },
+    "adventureWorld": "Ghostbusters",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Gamer Kid",
+    "franchise": "Midway Arcade",
+    "pack": {
+      "type": "Level",
+      "name": "Midway Arcade Level Pack",
+      "releaseWave": 4,
+      "setNumber": "71235",
+      "releaseDate": "2016",
+      "releaseYear": 1
+    },
+    "abilities": [
+      "Cracked LEGO Objects",
+      "Laser",
+      "Invulnerability",
+      "Stealth",
+      "Speed"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a5/71235_1to1_MF_MUGSHOT_Retro_Gamer_168.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a5/71235_1to1_MF_MUGSHOT_Retro_Gamer_168.png/revision/latest/scale-to-width-down/75?cb=20160319133023"
+      ]
+    },
+    "adventureWorld": "Midway Arcade",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Green Arrow",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Polybag",
+      "name": "Green Arrow Polybag",
+      "releaseWave": 1,
+      "setNumber": "71342",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Pole Vault",
+      "Target",
+      "Acrobat",
+      "Grapple"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "backgroundremoved/Green_Arrow.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "backgroundremoved/Green_Arrow.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [
+      "Oliver Queen"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Supergirl",
+    "franchise": "DC Comics",
+    "pack": {
+      "type": "Polybag",
+      "name": "Supergirl Polybag",
+      "releaseWave": 1,
+      "setNumber": "71340",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Flying",
+      "Dive",
+      "Invulnerability",
+      "Cracked LEGO Objects",
+      "Laser",
+      "X-Ray Vision",
+      "Lantern Constructs",
+      "Dig",
+      "Grapple",
+      "Freeze Breath"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "backgroundremoved/Supergirl_LEGO_Dimensions_minifigure-removebg-preview.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "backgroundremoved/Supergirl_LEGO_Dimensions_minifigure-removebg-preview.png"
+      ]
+    },
+    "adventureWorld": "DC Comics",
+    "aliases": [
+      "Kara Zor-El"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Abby Yates",
+    "franchise": "Ghostbusters",
+    "pack": {
+      "type": "Story",
+      "name": "Ghostbusters Story Pack",
+      "releaseWave": 6,
+      "setNumber": "71242",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Ghost Trap",
+      "Intelligence",
+      "Suspend Ghost",
+      "Laser",
+      "Hazard Protection",
+      "Charge Transfer",
+      "Fix-it",
+      "Cracked LEGO Objects",
+      "Super Strength Handles"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/47/71242_1to1_MF_MUGSHOT_AbbyYates_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/4/47/71242_1to1_MF_MUGSHOT_AbbyYates_336.png"
+      ]
+    },
+    "adventureWorld": "Ghostbusters",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Finn the Human",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Level",
+      "name": "Adventure Time Level Pack",
+      "releaseWave": 6,
+      "setNumber": "71245",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Acrobat",
+      "Laser",
+      "Target",
+      "Laser Deflector",
+      "Sword Switch",
+      "Cursed Red LEGO Objects"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/f/f1/71245_1to1_MF_MUGSHOT_FinnTheHuman_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/f/f1/71245_1to1_MF_MUGSHOT_FinnTheHuman_336.png"
+      ]
+    },
+    "adventureWorld": "Adventure Time",
+    "aliases": [
+      "Finn"
+    ],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 1,
+      "verifiedCount": 4,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Jake the Dog",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Team",
+      "name": "Adventure Time Team Pack",
+      "releaseWave": 6,
+      "setNumber": "71246",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Target",
+      "Sonar Smash",
+      "Gyrosphere Switch",
+      "Super Strength Handles",
+      "Cracked LEGO Objects",
+      "Drone Mazes",
+      "Drill",
+      "Illumination",
+      "Grapple",
+      "Mini Access",
+      "Slurp Access",
+      "Tracking",
+      "Big Transform",
+      "Dive"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/f/fc/71246_1to1_MF_MUGSHOT_JakeTheDog_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/f/fc/71246_1to1_MF_MUGSHOT_JakeTheDog_336.png"
+      ]
+    },
+    "adventureWorld": "Adventure Time",
+    "aliases": [
+      "Jake"
+    ],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 16,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Lumpy Space Princess",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Team",
+      "name": "Adventure Time Team Pack",
+      "releaseWave": 6,
+      "setNumber": "71246",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Boomerang",
+      "Hazard Protection",
+      "Rainbow LEGO Objects",
+      "Mini Access",
+      "Slurp Access",
+      "Target"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/e/e8/71246_1to1_MF_MUGSHOT_LumpySpacePrincess_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/e/e8/71246_1to1_MF_MUGSHOT_LumpySpacePrincess_336.png"
+      ]
+    },
+    "adventureWorld": "Adventure Time",
+    "aliases": [
+      "LSP"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Marceline the Vampire Queen",
+    "franchise": "Adventure Time",
+    "pack": {
+      "type": "Fun",
+      "name": "Marceline Fun Pack",
+      "releaseWave": 7,
+      "setNumber": "71285",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Acrobat",
+      "Laser Deflector",
+      "Cracked LEGO Objects",
+      "Dig",
+      "Flying",
+      "Cursed Red LEGO Objects",
+      "Heart Regen",
+      "Sonar Smash",
+      "Stealth",
+      "Magic",
+      "Slurp Access",
+      "Mini Access",
+      "Tracking",
+      "Vine Cut"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/24/71285_1to1_MF_MUGSHOT_MarcelineTheVampireQueen_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/2/24/71285_1to1_MF_MUGSHOT_MarcelineTheVampireQueen_336.png"
+      ]
+    },
+    "adventureWorld": "Adventure Time",
+    "aliases": [
+      "Marceline"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Ethan Hunt",
+    "franchise": "Mission: Impossible",
+    "pack": {
+      "type": "Level",
+      "name": "Mission: Impossible Level Pack",
+      "releaseWave": 6,
+      "setNumber": "71248",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Acrobat",
+      "Target",
+      "Technology",
+      "Fuse Box",
+      "Magno Gloves",
+      "Drone Mazes",
+      "Grapple",
+      "Silver LEGO Blowup",
+      "Stealth",
+      "Scan Disguise",
+      "Dive",
+      "X-Ray Vision"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/8d/71248_1to1_MF_MUGSHOT_EthanHunt_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/8/8d/71248_1to1_MF_MUGSHOT_EthanHunt_336.png"
+      ]
+    },
+    "adventureWorld": "Mission: Impossible",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Harry Potter",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Team",
+      "name": "Harry Potter Team Pack",
+      "releaseWave": 6,
+      "setNumber": "71247",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Water Spray",
+      "Target",
+      "Laser Deflector",
+      "Diffindo",
+      "Flying",
+      "Illumination",
+      "Silver LEGO Blowup",
+      "Stealth",
+      "Magic",
+      "Parseltongue Doors",
+      "Apparate Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/7/72/71247_1to1_MF_MUGSHOT_HarryPotter_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/7/72/71247_1to1_MF_MUGSHOT_HarryPotter_336.png"
+      ]
+    },
+    "adventureWorld": "Harry Potter",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Lord Voldemort",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Team",
+      "name": "Harry Potter Team Pack",
+      "releaseWave": 6,
+      "setNumber": "71247",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Water Spray",
+      "Target",
+      "Laser Deflector",
+      "Diffindo",
+      "Flying",
+      "Illumination",
+      "Mind Control",
+      "Silver LEGO Blowup",
+      "Magic",
+      "Parseltongue Doors",
+      "Apparate Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9a/71247_1to1_MF_MUGSHOT_LordVoldemort_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/9/9a/71247_1to1_MF_MUGSHOT_LordVoldemort_336.png"
+      ]
+    },
+    "adventureWorld": "Harry Potter",
+    "aliases": [
+      "Voldemort"
+    ],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Hermione Granger",
+    "franchise": "Harry Potter",
+    "pack": {
+      "type": "Fun",
+      "name": "Hermione Granger Fun Pack",
+      "releaseWave": 8,
+      "setNumber": "71348",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Acrobat",
+      "Water Spray",
+      "Target",
+      "Laser Deflector",
+      "Diffindo",
+      "Illumination",
+      "Silver LEGO Blowup",
+      "Magic",
+      "Intelligence",
+      "Apparate Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/97/71348_1to1_MF_MUGSHOT_HermioneGranger_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/9/97/71348_1to1_MF_MUGSHOT_HermioneGranger_336.png"
+      ]
+    },
+    "adventureWorld": "Harry Potter",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 2,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "B.A. Baracus",
+    "franchise": "The A-Team",
+    "pack": {
+      "type": "Fun",
+      "name": "A-Team Fun Pack",
+      "releaseWave": 6,
+      "setNumber": "71251",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Target",
+      "Fix-it",
+      "Silver LEGO Blowup",
+      "Cracked LEGO Objects",
+      "Super Strength Handles",
+      "A-team Master Build",
+      "Laser Deflector"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/4/4f/71251_1to1_MF_MUGSHOT_B_A_Baracus_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/4/4f/71251_1to1_MF_MUGSHOT_B_A_Baracus_336.png"
+      ]
+    },
+    "adventureWorld": "The A-Team",
+    "aliases": [
+      "BA Baracus"
+    ],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 2,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Newt Scamander",
+    "franchise": "Fantastic Beasts",
+    "pack": {
+      "type": "Story",
+      "name": "Fantastic Beasts Story Pack",
+      "releaseWave": 7,
+      "setNumber": "71253",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Water Spray",
+      "Target",
+      "Laser Deflector",
+      "Diffindo",
+      "Illumination",
+      "Silver LEGO Blowup",
+      "Stealth",
+      "Magic",
+      "Intelligence",
+      "Fix-it",
+      "Fantastical Briefcase",
+      "Apparate Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/f/fb/71253_1to1_MF_MUGSHOT_NewtScamander_01_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/f/fb/71253_1to1_MF_MUGSHOT_NewtScamander_01_336.png"
+      ]
+    },
+    "adventureWorld": "Fantastic Beasts",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "franchise": "Sonic the Hedgehog",
+    "pack": {
+      "type": "Level",
+      "name": "Sonic the Hedgehog Level Pack",
+      "releaseWave": 7,
+      "setNumber": "71244",
+      "releaseDate": "2016",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Acrobat",
+      "Cracked LEGO Objects",
+      "Grind Rails",
+      "Speed"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/d/db/71244_1to1_MF_MUGSHOT_SonicTheHedgehog_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/d/db/71244_1to1_MF_MUGSHOT_SonicTheHedgehog_336.png"
+      ]
+    },
+    "adventureWorld": "Sonic the Hedgehog",
+    "aliases": [
+      "Sonic"
+    ],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 3,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Gizmo",
+    "franchise": "Gremlins",
+    "pack": {
+      "type": "Team",
+      "name": "Gremlins Team Pack",
+      "releaseWave": 7,
+      "setNumber": "71256",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Target",
+      "Mini Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71256_1to1_MF_MUGSHOT_Gizmo_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/a/a8/71256_1to1_MF_MUGSHOT_Gizmo_336.png"
+      ]
+    },
+    "adventureWorld": "Gremlins",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 1,
+      "verifiedCount": "3+",
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Stripe",
+    "franchise": "Gremlins",
+    "pack": {
+      "type": "Team",
+      "name": "Gremlins Team Pack",
+      "releaseWave": 7,
+      "setNumber": "71256",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Target",
+      "Acrobat",
+      "Dig",
+      "Vine Cut"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/8/87/71256_1to1_MF_MUGSHOT_Stripe_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/8/87/71256_1to1_MF_MUGSHOT_Stripe_336.png"
+      ]
+    },
+    "adventureWorld": "Gremlins",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": "4+",
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Batgirl",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Story",
+      "name": "The LEGO Batman Movie Story Pack",
+      "releaseWave": 8,
+      "setNumber": "71264",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Boomerang",
+      "Detective Mode",
+      "Stealth",
+      "Grapple",
+      "High Security Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/9/9e/71264_1to1_MF_MUGSHOT_Batgirl_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/9/9e/71264_1to1_MF_MUGSHOT_Batgirl_336.png"
+      ]
+    },
+    "adventureWorld": "The LEGO Batman Movie",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 1,
+      "verifiedCount": 5,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Robin",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Story",
+      "name": "The LEGO Batman Movie Story Pack",
+      "releaseWave": 8,
+      "setNumber": "71264",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Acrobat",
+      "Fix-it",
+      "Vent Access",
+      "Illumination",
+      "Suit Rip",
+      "Dive",
+      "Pole Vault",
+      "Laser Deflector"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/Headshots_Robin.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/c/ca/Headshots_Robin.png"
+      ]
+    },
+    "adventureWorld": "The LEGO Batman Movie",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 1",
+    "gameYear": 1,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": "5+",
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Excalibur Batman",
+    "franchise": "The LEGO Batman Movie",
+    "pack": {
+      "type": "Fun",
+      "name": "Excalibur Batman Fun Pack",
+      "releaseWave": 2,
+      "setNumber": "71344",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Boomerang",
+      "Sword Switch",
+      "Stealth",
+      "Laser Deflector",
+      "Grapple",
+      "Cracked LEGO Objects",
+      "Master Build"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71344_1to1_MF_MUGSHOT_ExcaliburBatman_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/5/5a/71344_1to1_MF_MUGSHOT_ExcaliburBatman_336.png"
+      ]
+    },
+    "adventureWorld": "The LEGO Batman Movie",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Michael Knight",
+    "franchise": "Knight Rider",
+    "pack": {
+      "type": "Fun",
+      "name": "Knight Rider Fun Pack",
+      "releaseWave": 8,
+      "setNumber": "71286",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Acrobat",
+      "Hacking",
+      "Technology",
+      "Tracking",
+      "X-Ray Vision"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/b/b1/71286_1to1_MF_MUGSHOT_MichaelKnight_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/b/b1/71286_1to1_MF_MUGSHOT_MichaelKnight_336.png"
+      ]
+    },
+    "adventureWorld": "Knight Rider",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Sloth",
+    "franchise": "The Goonies",
+    "pack": {
+      "type": "Level",
+      "name": "The Goonies Level Pack",
+      "releaseWave": 8,
+      "setNumber": "71267",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Cracked LEGO Objects",
+      "Super Strength Handles",
+      "Grapple",
+      "Dig",
+      "Dive",
+      "Target"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c7/71267_1to1_MF_MUGSHOT_Sloth_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/c/c7/71267_1to1_MF_MUGSHOT_Sloth_336.png"
+      ]
+    },
+    "adventureWorld": "The Goonies",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": 3,
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Chase McCain",
+    "franchise": "LEGO City",
+    "pack": {
+      "type": "Fun",
+      "name": "LEGO City Fun Pack",
+      "releaseWave": 8,
+      "setNumber": "71266",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Relic Detector",
+      "Illumination",
+      "Acrobat",
+      "Target",
+      "Grapple",
+      "Tracking",
+      "Hacking",
+      "Flying",
+      "Drill",
+      "Water Spray",
+      "Growth",
+      "Hazard Cleaner",
+      "Cracked LEGO Objects",
+      "Silver LEGO Blowup"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/c/c2/71266_1to1_MF_MUGSHOT_ChaseMcCain_336.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/c/c2/71266_1to1_MF_MUGSHOT_ChaseMcCain_336.png"
+      ]
+    },
+    "adventureWorld": "LEGO City",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Blossom",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Team",
+      "name": "The Powerpuff Girls Team Pack",
+      "releaseWave": 9,
+      "setNumber": "71346",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Laser",
+      "Freeze Breath",
+      "Intelligence",
+      "Lantern Constructs",
+      "Cracked LEGO Objects",
+      "Flying",
+      "Dive",
+      "X-Ray Vision",
+      "Heart Regen"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "backgroundremoved/Headshots_PPG_Blossom-removebg-preview.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "backgroundremoved/Headshots_PPG_Blossom-removebg-preview.png"
+      ]
+    },
+    "adventureWorld": "The Powerpuff Girls",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Bubbles",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Team",
+      "name": "The Powerpuff Girls Team Pack",
+      "releaseWave": 9,
+      "setNumber": "71346",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Atlantis",
+      "Laser",
+      "Rainbow LEGO Objects",
+      "Parseltongue Doors",
+      "Lantern Constructs",
+      "Cracked LEGO Objects",
+      "Flying",
+      "Sonar Smash",
+      "Dive",
+      "Heart Regen"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "backgroundremoved/Headshots_PPG_Bubbles-removebg-preview.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "backgroundremoved/Headshots_PPG_Bubbles-removebg-preview.png"
+      ]
+    },
+    "adventureWorld": "The Powerpuff Girls",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Buttercup",
+    "franchise": "The Powerpuff Girls",
+    "pack": {
+      "type": "Fun",
+      "name": "The Powerpuff Girls Fun Pack",
+      "releaseWave": 9,
+      "setNumber": "71343",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Gyrosphere Switch",
+      "Spinjitzu",
+      "Lantern Constructs",
+      "Flying",
+      "Super Strength Handles",
+      "Dive",
+      "Heart Regen"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "backgroundremoved/Headshots_PPG_Buttercup-removebg-preview.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "backgroundremoved/Headshots_PPG_Buttercup-removebg-preview.png"
+      ]
+    },
+    "adventureWorld": "The Powerpuff Girls",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Starfire",
+    "franchise": "Teen Titans Go!",
+    "adventureWorld": "Teen Titans Go!",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "pack": {
+      "type": "Fun",
+      "name": "Starfire Fun Pack",
+      "setNumber": "71287",
+      "releaseWave": 9,
+      "releaseYear": 2
+    },
+    "pieces": 56,
+    "minifigs": 1,
+    "abilities": [
+      "Atlantis",
+      "Acrobat",
+      "Laser",
+      "Rainbow LEGO Objects",
+      "Dive",
+      "Flying",
+      "Parseltongue Doors",
+      "Heart Regen"
+    ],
+    "minifigure": {
+      "imageUrl": "backgroundremoved/Headshots_TTG_Starfire-removebg-preview.png",
+      "imageUrls": [
+        "backgroundremoved/Headshots_TTG_Starfire-removebg-preview.png"
+      ]
+    },
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Beast Boy",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": "Team",
+      "name": "Teen Titans Go! Team Pack",
+      "releaseWave": 9,
+      "setNumber": "71255",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Atlantis",
+      "Acrobat",
+      "Dig",
+      "Flying",
+      "Drone Mazes",
+      "Slurp Access",
+      "Mini Access",
+      "Tracking",
+      "Dive"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "backgroundremoved/Headshots_TTG_BeastBoy-removebg-preview.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "backgroundremoved/Headshots_TTG_BeastBoy-removebg-preview.png"
+      ]
+    },
+    "adventureWorld": "Teen Titans Go!",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Raven",
+    "franchise": "Teen Titans Go!",
+    "pack": {
+      "type": "Team",
+      "name": "Teen Titans Go! Team Pack",
+      "releaseWave": 9,
+      "setNumber": "71255",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Electricity",
+      "Laser",
+      "Hazard Protection",
+      "Drone Mazes",
+      "Intelligence",
+      "Lantern Constructs",
+      "Flying",
+      "Raven Portals",
+      "Magic"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "backgroundremoved/Headshots_TTG_Raven-removebg-preview.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "backgroundremoved/Headshots_TTG_Raven-removebg-preview.png"
+      ]
+    },
+    "adventureWorld": "Teen Titans Go!",
+    "aliases": [],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": "3+",
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Betelgeuse",
+    "franchise": "Beetlejuice",
+    "pack": {
+      "type": "Fun",
+      "name": "Beetlejuice Fun Pack",
+      "releaseWave": 9,
+      "setNumber": "71349",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Cracked LEGO Objects",
+      "Illumination",
+      "Mind Control",
+      "Magic",
+      "Mini Access"
+    ],
+    "minifigure": {
+      "legoId": "unknown",
+      "imageUrl": "backgroundremoved/Headshots_Beetlejuice-removebg-preview.png",
+      "dimensionsId": "unknown",
+      "bricklinkId": "unknown",
+      "imageUrls": [
+        "backgroundremoved/Headshots_Beetlejuice-removebg-preview.png"
+      ]
+    },
+    "adventureWorld": "Beetlejuice",
+    "aliases": [
+      "Betelgeuse"
+    ],
+    "availabilityStatus": "released",
+    "gameYearLabel": "Year 2",
+    "gameYear": 2,
+    "verification": {
+      "userClaimCount": 2,
+      "verifiedCount": "3+",
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "E.T.",
+    "aliases": [
+      "ET",
+      "Extra-Terrestrial"
+    ],
+    "franchise": "E.T. the Extra-Terrestrial",
+    "pack": {
+      "type": "Fun",
+      "name": "E.T. Fun Pack",
+      "releaseWave": 7,
+      "setNumber": "71349",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Growth",
+      "Fix-it",
+      "Heart Regen",
+      "Illumination",
+      "Stealth",
+      "Magic",
+      "Mini Access"
+    ],
+    "minifigure": {
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/2/23/71258_1to1_MF_MUGSHOT_ET_336.png",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/2/23/71258_1to1_MF_MUGSHOT_ET_336.png"
+      ]
+    },
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  },
+  {
+    "name": "Tina Goldstein",
+    "aliases": [
+      "Tina",
+      "Tina Goldstein"
+    ],
+    "franchise": "Fantastic Beasts",
+    "pack": {
+      "type": "Fun",
+      "name": "Fantastic Beast Fun Pack",
+      "releaseWave": 7,
+      "setNumber": "71349",
+      "releaseDate": "2017",
+      "releaseYear": 2
+    },
+    "abilities": [
+      "Acrobat",
+      "Water Spray",
+      "Target",
+      "Laser Deflector",
+      "Diffindo",
+      "Illumination",
+      "Silver LEGO Blowup",
+      "Stealth",
+      "Magic",
+      "Apparate Access"
+    ],
+    "minifigure": {
+      "imageUrl": "https://static.wikia.nocookie.net/lego-dimensions/images/1/18/71257_1to1_MF_MUGSHOT_TinaGoldstein_01_336.png",
+      "imageUrls": [
+        "https://static.wikia.nocookie.net/lego-dimensions/images/1/18/71257_1to1_MF_MUGSHOT_TinaGoldstein_01_336.png"
+      ]
+    },
+    "verification": {
+      "status": "Updated from DOC",
+      "source": "Word import, 2025-09-16"
+    }
+  }
+]
